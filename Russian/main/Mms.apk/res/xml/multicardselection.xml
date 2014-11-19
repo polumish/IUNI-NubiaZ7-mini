@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aurora.preference.AuroraPreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora">
+    <com.android.mms.ui.AdvancedCheckBoxPreference aurora:aurorakey="pref_key_sim1" aurora:auroradefaultValue="false" />
+    <com.android.mms.ui.AdvancedCheckBoxPreference aurora:aurorakey="pref_key_sim2" aurora:auroradefaultValue="false" />
+    <com.android.mms.ui.AdvancedCheckBoxPreference aurora:aurorakey="pref_key_sim3" aurora:auroradefaultValue="false" />
+    <com.android.mms.ui.AdvancedCheckBoxPreference aurora:aurorakey="pref_key_sim4" aurora:auroradefaultValue="false" />
+</aurora.preference.AuroraPreferenceScreen>

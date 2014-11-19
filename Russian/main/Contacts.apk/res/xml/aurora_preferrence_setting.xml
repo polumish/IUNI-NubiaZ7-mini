@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aurora.preference.AuroraPreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora">
+    <aurora.preference.AuroraPreferenceCategory aurora:aurorakey="pref_key_contact_accounts">
+        <aurora.preference.AuroraPreference aurora:aurorakey="pref_key_accounts" aurora:auroratitle="@string/aurora_contacts_accounts" aurora:auroradefaultValue="false">
+            <intent android:targetPackage="com.android.contacts" android:action="android.intent.action.MAIN" android:targetClass="com.android.contacts.activities.AuroraContactsAccountsActivity" />
+        </aurora.preference.AuroraPreference>
+    </aurora.preference.AuroraPreferenceCategory>
+    <aurora.preference.AuroraPreferenceCategory aurora:aurorakey="pref_key_contact_settings1">
+        <aurora.preference.AuroraPreference aurora:aurorakey="pref_key_import_export" aurora:auroratitle="@string/imexport_title" aurora:aurorapersistent="false">
+            <intent android:targetPackage="com.android.contacts" android:action="android.intent.action.MAIN" android:targetClass="com.android.contacts.activities.AuroraContactImportExportActivity" />
+        </aurora.preference.AuroraPreference>
+    </aurora.preference.AuroraPreferenceCategory>
+</aurora.preference.AuroraPreferenceScreen>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/calllog_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include layout="@layout/gn_wait_cursor" />
+        <aurora.widget.AuroraListView android:id="@android:id/list" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <TextView android:textSize="24.0sp" android:textColor="?empty_view_text_color" android:gravity="center_horizontal" android:id="@id/gn_calllog_empty_tip" android:paddingTop="@dimen/gn_dialpad_empty_view_padding_top" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </FrameLayout>
+</LinearLayout>

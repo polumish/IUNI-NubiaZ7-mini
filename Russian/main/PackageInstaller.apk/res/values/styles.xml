@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="GN_Perm_Ctrl_Theme">
+        <item name="android:actionBarStyle">@style/DarkActionBarStyle</item>
+    </style>
+    <style name="GN_Perm_Ctrl_Theme_dark">
+        <item name="android:actionBarStyle">@style/DarkActionBarStyle</item>
+    </style>
+    <style name="GN_Perm_Ctrl_Theme_light">
+        <item name="android:actionBarStyle">@style/LightActionBarStyle</item>
+    </style>
+    <style name="LightActionBarStyle">
+        <item name="android:displayOptions">showTitle</item>
+    </style>
+    <style name="DarkActionBarStyle">
+        <item name="android:background">@drawable/gn_tab_dark_bg</item>
+        <item name="android:displayOptions">showTitle</item>
+        <item name="android:backgroundStacked">@drawable/gn_tab_dark_bg</item>
+    </style>
+    <style name="padded">
+        <item name="android:paddingLeft">8.0dip</item>
+        <item name="android:paddingRight">8.0dip</item>
+    </style>
+    <style name="text_title_selector">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@drawable/text_title_selector_color</item>
+    </style>
+</resources>

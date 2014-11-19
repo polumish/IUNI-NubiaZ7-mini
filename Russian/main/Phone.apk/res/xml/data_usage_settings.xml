@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AuroraPreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.phone">
+    <AuroraPreference aurora:aurorakey="throttle_current_usage" aurora:auroratitle="@string/throttle_current_usage" aurora:aurorapersistent="false" style="?android:preferenceInformationStyle" />
+    <AuroraPreference aurora:aurorakey="throttle_time_frame" aurora:auroratitle="@string/throttle_time_frame" aurora:aurorapersistent="false" style="?android:preferenceInformationStyle" />
+    <AuroraPreference aurora:aurorakey="throttle_rate" aurora:auroratitle="@string/throttle_rate" aurora:aurorapersistent="false" style="?android:preferenceInformationStyle" />
+    <AuroraPreference aurora:aurorakey="throttle_help" aurora:auroratitle="@string/throttle_help" aurora:aurorapersistent="false" />
+</AuroraPreferenceScreen>

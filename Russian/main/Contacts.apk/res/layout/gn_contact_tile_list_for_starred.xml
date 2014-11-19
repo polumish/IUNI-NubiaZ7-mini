@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:paddingBottom="?favorites_padding_bottom" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/wait_cursor" />
+    <aurora.widget.AuroraListView android:id="@id/contact_tile_list" android:paddingTop="@dimen/gn_contact_tile_list_padding_top" android:fadingEdge="none" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@null" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/empty" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="24.0sp" android:textColor="?empty_view_text_color" android:id="@id/contact_tile_list_empty" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <ImageView android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gn_list_empty_image" />
+    </LinearLayout>
+</FrameLayout>

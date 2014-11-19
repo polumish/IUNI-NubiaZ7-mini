@@ -1,0 +1,12 @@
+version: 2.1.2-BZ
+apkFileName: Phone.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '17'
+  versionName: 4.2.1-eng.aurora.1379957447
+compressionType: false

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AuroraPreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora">
+    <com.android.phone.EditPinPreference aurora:aurorakey="button_fdn_enable_key" aurora:auroratitle="@string/fdn_activation" aurora:aurorapersistent="false" aurora:auroradialogMessage="@string/enter_pin2_text" />
+    <com.android.phone.EditPinPreference aurora:aurorakey="button_change_pin2_key" aurora:auroratitle="@string/change_pin2" aurora:aurorasummary="@string/sum_fdn_change_pin" aurora:aurorapersistent="false" aurora:auroradialogTitle="@string/change_pin2" />
+    <AuroraPreferenceScreen aurora:aurorakey="button_fdn_list_key" aurora:auroratitle="@string/manage_fdn_list" aurora:aurorasummary="@string/sum_fdn_manage_list" aurora:aurorapersistent="false">
+        <intent android:targetPackage="com.android.phone" android:action="android.intent.action.MAIN" android:targetClass="com.android.phone.FdnList" />
+    </AuroraPreferenceScreen>
+</AuroraPreferenceScreen>

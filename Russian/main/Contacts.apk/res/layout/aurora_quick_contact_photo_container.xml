@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/quick_contact_photo_container" android:paddingLeft="@dimen/gn_contact_list_item_photo_left_gap" android:paddingRight="@dimen/gn_margin_left_between_views" android:layout_width="wrap_content" android:layout_height="@dimen/gn_contact_photo_size" android:minWidth="@dimen/gn_contact_list_item_name_left_margin" android:layout_alignParentLeft="true" android:layout_centerVertical="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.mediatek.contacts.widget.DontPressWithParentQuickContactBadge android:id="@id/quick_contact_photo" android:focusable="false" android:layout_width="@dimen/gn_contact_photo_size" android:layout_height="@dimen/gn_contact_photo_size" android:scaleType="centerCrop" />
+</LinearLayout>

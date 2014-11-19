@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/aurora_resume_selector" android:id="@id/aurora_batch_resume" />
+    <item android:icon="@drawable/aurora_delete_selector" android:id="@id/aurora_batch_delete" />
+</menu>

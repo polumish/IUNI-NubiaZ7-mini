@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/aurora_copy_selector" android:id="@id/aurora_sim_list_menu_copy" android:title="@string/sim_copy_to_phone_memory" />
+    <item android:icon="@drawable/aurora_delete_selector" android:id="@id/aurora_sim_list_menu_del" android:title="@string/sim_delete" />
+</menu>

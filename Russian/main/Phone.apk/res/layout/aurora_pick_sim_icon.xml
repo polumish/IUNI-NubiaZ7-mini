@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/tab_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="52.0dip" android:layout_centerHorizontal="true">
+        <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageButton android:id="@id/sim_icon_1" android:background="@drawable/sim1_big_icon" android:layout_width="@dimen/sim_big_icon_height" android:layout_height="@dimen/sim_big_icon_height" android:layout_alignParentTop="true" android:contentDescription="@string/description_image_button_one" />
+            <ImageView android:id="@id/sim_icon_1_check" android:background="@drawable/sim_icon_checked" android:visibility="gone" android:layout_width="@dimen/sim_big_icon_check_height" android:layout_height="@dimen/sim_big_icon_check_height" android:layout_alignTop="@id/sim_icon_1" android:layout_alignRight="@id/sim_icon_1" />
+            <TextView android:textSize="15.0sp" android:textColor="@color/sim_title_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="11.699982dip" android:text="@string/sim_icon_1" android:layout_below="@id/sim_icon_1" android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="33.0dip">
+            <ImageButton android:id="@id/sim_icon_2" android:background="@drawable/sim2_big_icon" android:layout_width="@dimen/sim_big_icon_height" android:layout_height="@dimen/sim_big_icon_height" android:layout_alignParentTop="true" android:contentDescription="@string/description_image_button_one" />
+            <ImageView android:id="@id/sim_icon_2_check" android:background="@drawable/sim_icon_checked" android:visibility="gone" android:layout_width="@dimen/sim_big_icon_check_height" android:layout_height="@dimen/sim_big_icon_check_height" android:layout_alignTop="@id/sim_icon_2" android:layout_alignRight="@id/sim_icon_2" />
+            <TextView android:textSize="15.0sp" android:textColor="@color/sim_title_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="11.699982dip" android:text="@string/sim_icon_2" android:layout_below="@id/sim_icon_2" android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="33.0dip">
+            <ImageButton android:id="@id/sim_icon_net" android:background="@drawable/sim_net_big_icon" android:layout_width="@dimen/sim_big_icon_height" android:layout_height="@dimen/sim_big_icon_height" android:layout_alignParentTop="true" android:contentDescription="@string/description_image_button_one" />
+            <ImageView android:id="@id/sim_icon_net_check" android:background="@drawable/sim_icon_checked" android:visibility="gone" android:layout_width="@dimen/sim_big_icon_check_height" android:layout_height="@dimen/sim_big_icon_check_height" android:layout_alignTop="@id/sim_icon_net" android:layout_alignRight="@id/sim_icon_net" />
+            <TextView android:textSize="15.0sp" android:textColor="@color/sim_title_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="11.699982dip" android:text="@string/sim_icon_net" android:layout_below="@id/sim_icon_net" android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="43.5dip" android:layout_below="@id/tab_1" android:layout_centerHorizontal="true">
+        <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageButton android:id="@id/sim_icon_home" android:background="@drawable/sim_home_big_icon" android:layout_width="@dimen/sim_big_icon_height" android:layout_height="@dimen/sim_big_icon_height" android:layout_alignParentTop="true" android:contentDescription="@string/description_image_button_one" />
+            <ImageView android:id="@id/sim_icon_home_check" android:background="@drawable/sim_icon_checked" android:visibility="gone" android:layout_width="@dimen/sim_big_icon_check_height" android:layout_height="@dimen/sim_big_icon_check_height" android:layout_alignTop="@id/sim_icon_home" android:layout_alignRight="@id/sim_icon_home" />
+            <TextView android:textSize="15.0sp" android:textColor="@color/sim_title_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="11.699982dip" android:text="@string/sim_icon_home" android:layout_below="@id/sim_icon_home" android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="33.0dip">
+            <ImageButton android:id="@id/sim_icon_office" android:background="@drawable/sim_office_big_icon" android:layout_width="@dimen/sim_big_icon_height" android:layout_height="@dimen/sim_big_icon_height" android:layout_alignParentTop="true" android:contentDescription="@string/description_image_button_one" />
+            <ImageView android:id="@id/sim_icon_office_check" android:background="@drawable/sim_icon_checked" android:visibility="gone" android:layout_width="@dimen/sim_big_icon_check_height" android:layout_height="@dimen/sim_big_icon_check_height" android:layout_alignTop="@id/sim_icon_office" android:layout_alignRight="@id/sim_icon_office" />
+            <TextView android:textSize="15.0sp" android:textColor="@color/sim_title_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="11.699982dip" android:text="@string/sim_icon_office" android:layout_below="@id/sim_icon_office" android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="33.0dip">
+            <ImageButton android:id="@id/sim_icon_dial" android:background="@drawable/sim_dial_big_icon" android:layout_width="@dimen/sim_big_icon_height" android:layout_height="@dimen/sim_big_icon_height" android:layout_alignParentTop="true" android:contentDescription="@string/description_image_button_one" />
+            <ImageView android:id="@id/sim_icon_dial_check" android:background="@drawable/sim_icon_checked" android:visibility="gone" android:layout_width="@dimen/sim_big_icon_check_height" android:layout_height="@dimen/sim_big_icon_check_height" android:layout_alignTop="@id/sim_icon_dial" android:layout_alignRight="@id/sim_icon_dial" />
+            <TextView android:textSize="15.0sp" android:textColor="@color/sim_title_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="11.699982dip" android:text="@string/sim_icon_dial" android:layout_below="@id/sim_icon_dial" android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

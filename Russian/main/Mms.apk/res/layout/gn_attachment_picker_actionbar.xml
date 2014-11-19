@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="?android:dividerVertical" android:dividerPadding="12.0dip">
+        <ImageButton android:id="@id/back_button" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/ic_cab_done_holo_dark" style="?android:attr/actionModeCloseButtonStyle" />
+        <CheckBox android:id="@id/gn_msg_select_check_box" android:paddingRight="@dimen/gn_checkbox_right" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:layout_alignParentRight="true" />
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="@color/gn_color_white" android:layout_gravity="center_vertical" android:id="@id/select_count_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/gn_select_conversation_zore" android:maxLines="1" android:singleLine="true" android:layout_weight="1.0" android:layout_toLeftOf="@id/gn_msg_select_check_box" android:layout_toRightOf="@id/back_button" android:layout_centerVertical="true" />
+    </RelativeLayout>
+</FrameLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <aurora.widget.AuroraListView android:id="@id/list" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" android:fastScrollEnabled="true" class="com.android.contacts.PinnedHeaderListView" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/gn_calllog_empty" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gn_list_empty_image" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/gn_no_calllog" />
+    </LinearLayout>
+</LinearLayout>

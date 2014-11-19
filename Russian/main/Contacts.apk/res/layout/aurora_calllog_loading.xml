@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.contacts.calllog.AuroraCallLogListItemViewV2 android:id="@id/aurora_primary_action_view" android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="@dimen/aurora_two_lines_list_view_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora">
+    <TextView android:textSize="16.0sp" android:textColor="@color/aurora_calllog_list_text_color_edit_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/aurora_calllog_loading" android:singleLine="true" android:layout_centerInParent="true" aurora:auroraTextBaseLinePadding="3" />
+</com.android.contacts.calllog.AuroraCallLogListItemViewV2>

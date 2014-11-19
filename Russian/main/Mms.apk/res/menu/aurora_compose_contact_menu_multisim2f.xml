@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/aurora_dail_multi_sim2" android:title="@string/aurora_dail_sim2f" />
+    <item android:id="@id/aurora_dail_multi_sim1" android:title="@string/aurora_dail_sim1" />
+</menu>

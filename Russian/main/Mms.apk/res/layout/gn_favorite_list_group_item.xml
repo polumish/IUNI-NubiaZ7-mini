@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="?android:listPreferredItemHeight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.gionee.mms.ui.GnTextView android:textAppearance="?android:textAppearanceMedium" android:gravity="center_vertical" android:id="@id/groupName" android:layout_width="wrap_content" android:layout_height="?android:listPreferredItemHeight" android:layout_marginLeft="35.0dip" android:singleLine="true" />
+    <com.gionee.mms.ui.GnTextView android:textAppearance="?android:textAppearanceMedium" android:gravity="center_vertical" android:id="@id/groupCount" android:layout_width="wrap_content" android:layout_height="?android:listPreferredItemHeight" android:layout_marginLeft="@dimen/list_item_left_margin_gn" android:singleLine="true" />
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:id="@id/aurora_group_reci_exsits" android:background="@color/aurora_menu_item_select" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <aurora.widget.AuroraTextView android:textSize="18.0sp" android:textColor="@color/aurora_menu_item_title_change_color" android:id="@id/aurora_reci_name_exist" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_item_left_margin" android:layout_marginTop="@dimen/list_item_top_margin" android:layout_alignParentLeft="true" />
+    <LinearLayout android:orientation="horizontal" android:paddingBottom="@dimen/list_item_bottom_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_item_left_margin" android:layout_marginTop="@dimen/list_item_margin_between" android:layout_below="@id/aurora_reci_name_exist">
+        <aurora.widget.AuroraTextView android:textSize="15.0sp" android:textColor="@color/aurora_menu_item_title_sm_color" android:id="@id/aurora_reci_num_exist" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        <aurora.widget.AuroraTextView android:textSize="15.0sp" android:textColor="@color/aurora_menu_item_title_sm_color" android:id="@id/aurora_reci_other_exist" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:singleLine="true" />
+    </LinearLayout>
+    <ImageButton android:id="@id/aurora_add_add" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/aurora_group_add_selector" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    <ImageButton android:id="@id/aurora_check_exists" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/aurora_group_view_selector" android:layout_toLeftOf="@id/aurora_add_add" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+</RelativeLayout>

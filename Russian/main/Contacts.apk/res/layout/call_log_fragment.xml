@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingBottom="?android:actionBarSize" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/calllog_search_button_cluster" android:layout_width="fill_parent" android:layout_height="50.0dip">
+        <aurora.widget.AuroraButton android:id="@id/btn_type_filter_all" android:layout_width="75.0dip" android:layout_height="50.0dip" android:layout_marginLeft="@dimen/calllog_list_margin_left" />
+        <View android:layout_gravity="center_vertical" android:id="@id/first_divider" android:background="@drawable/action_bar_divider" android:layout_width="1.0px" android:layout_height="24.0dip" />
+        <TextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="center" android:id="@id/all_tab_text" android:layout_width="50.0dip" android:layout_height="32.0dip" android:layout_marginLeft="-65.0dip" android:text="@string/all_tab_label1" android:singleLine="true" />
+        <aurora.widget.AuroraButton android:id="@id/btn_type_filter_incoming" android:background="@drawable/btn_calllog_incoming" android:layout_width="74.0dip" android:layout_height="50.0dip" android:layout_marginLeft="15.0dip" />
+        <View android:layout_gravity="center_vertical" android:id="@id/secondary_divider" android:background="@drawable/action_bar_divider" android:layout_width="1.0px" android:layout_height="24.0dip" />
+        <ImageView android:id="@id/btn_type_filter_incoming_icon" android:layout_width="32.0dip" android:layout_height="32.0dip" android:layout_marginLeft="-53.0dip" android:layout_marginTop="8.0dip" android:src="@drawable/ic_btn_incoming" />
+        <aurora.widget.AuroraButton android:id="@id/btn_type_filter_outgoing" android:background="@drawable/btn_calllog_incoming" android:layout_width="74.0dip" android:layout_height="50.0dip" android:layout_marginLeft="21.0dip" />
+        <View android:layout_gravity="center_vertical" android:id="@id/third_divider" android:background="@drawable/action_bar_divider" android:layout_width="1.0px" android:layout_height="24.0dip" />
+        <ImageView android:id="@id/btn_type_filter_outgoing_icon" android:layout_width="32.0dip" android:layout_height="32.0dip" android:layout_marginLeft="-53.0dip" android:layout_marginTop="8.0dip" android:src="@drawable/ic_btn_outgoing" />
+        <aurora.widget.AuroraButton android:id="@id/btn_type_filter_missed" android:background="@drawable/btn_calllog_missed" android:layout_width="74.0dip" android:layout_height="50.0dip" android:layout_marginLeft="21.0dip" />
+        <ImageView android:id="@id/btn_type_filter_missed_icon" android:layout_width="32.0dip" android:layout_height="32.0dip" android:layout_marginLeft="-53.0dip" android:layout_marginTop="8.0dip" android:src="@drawable/ic_btn_missed" />
+    </LinearLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include layout="@layout/wait_cursor" />
+        <aurora.widget.AuroraListView android:id="@android:id/list" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@null" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="?android:textColorSecondary" android:gravity="center" android:id="@android:id/empty" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/empty_message_top_margin" />
+    </FrameLayout>
+</LinearLayout>

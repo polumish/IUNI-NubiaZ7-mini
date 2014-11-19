@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aurora.preference.AuroraPreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora">
+    <aurora.preference.AuroraPreferenceCategory aurora:auroratitle="@string/gn_preference_tactile_Options">
+        <aurora.preference.AuroraCheckBoxPreference aurora:aurorakey="toneDialing" aurora:auroratitle="@string/gn_dialpad_press_sound_options" />
+    </aurora.preference.AuroraPreferenceCategory>
+</aurora.preference.AuroraPreferenceScreen>

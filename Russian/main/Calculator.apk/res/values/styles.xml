@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="button_style">
+        <item name="android:textSize">27.0sp</item>
+        <item name="android:textColor">@color/btn_text</item>
+        <item name="android:background">@drawable/btn_function</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginLeft">@dimen/view_item_margin_h</item>
+        <item name="android:layout_marginRight">@dimen/view_item_margin_h</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:soundEffectsEnabled">false</item>
+    </style>
+    <style name="digit_button_style" parent="@style/button_style">
+        <item name="android:background">@drawable/btn_digit</item>
+    </style>
+    <style name="digit_button_0_style" parent="@style/button_style">
+        <item name="android:background">@drawable/btn_digit</item>
+        <item name="android:paddingRight">@dimen/zero_btn_right_padding</item>
+    </style>
+    <style name="operator_button_style" parent="@style/button_style">
+        <item name="android:textSize">32.0sp</item>
+        <item name="android:textColor">@color/magic_flame</item>
+        <item name="android:paddingLeft">@dimen/drawable_left_padding</item>
+    </style>
+    <style name="iuni_button_style" parent="@style/operator_button_style">
+        <item name="android:background">@drawable/btn_iuni</item>
+    </style>
+    <style name="button_small_style" parent="@style/button_style">
+        <item name="android:textSize">26.0sp</item>
+    </style>
+    <style name="button_percent_style" parent="@style/button_style">
+        <item name="android:textSize">22.0sp</item>
+    </style>
+    <style name="display_style">
+        <item name="android:textSize">@dimen/display_text_size</item>
+        <item name="android:textColor">@color/button_text</item>
+        <item name="android:gravity">bottom|right|center</item>
+        <item name="android:paddingLeft">8.0dip</item>
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:paddingRight">12.0dip</item>
+        <item name="android:paddingBottom">0.0dip</item>
+        <item name="android:focusableInTouchMode">false</item>
+        <item name="android:scrollbars">none</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:cursorVisible">false</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:inputType">textNoSuggestions</item>
+        <item name="android:textCursorDrawable">@drawable/text_cursor_light</item>
+    </style>
+    <style name="btn_row_style">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">0.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="btn_function_cell_style">
+        <item name="android:textSize">@dimen/btn_function_text_size</item>
+        <item name="android:background">@drawable/btn_function</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="btn_operation_cell_style">
+        <item name="android:textSize">@dimen/btn_operation_text_size</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/btn_function</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="btn_digit_cell_style">
+        <item name="android:textSize">@dimen/btn_digit_text_size</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/btn_digit</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="btn_clear">
+        <item name="android:textSize">@dimen/btn_clear_text_size</item>
+        <item name="android:background">?android:selectableItemBackground</item>
+    </style>
+</resources>

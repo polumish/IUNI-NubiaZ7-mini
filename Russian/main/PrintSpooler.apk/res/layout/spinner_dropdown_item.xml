@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="start|center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeightSmall" android:paddingStart="8.0dip" android:paddingEnd="8.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="@color/item_text_color" android:ellipsize="end" android:gravity="top|left|center" android:id="@id/title" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:textIsSelectable="false" />
+    <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="@color/print_option_title" android:ellipsize="end" android:id="@id/subtitle" android:visibility="gone" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:textIsSelectable="false" />
+</LinearLayout>

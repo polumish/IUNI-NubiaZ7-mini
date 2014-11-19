@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/call_detail" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:ex="http://schemas.android.com/apk/res/com.android.contacts">
+    <aurora.widget.AuroraListView android:id="@id/history" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <RelativeLayout android:id="@id/controls" android:paddingLeft="1.0dip" android:paddingRight="1.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:layout_alignParentTop="true">
+        <view android:id="@id/contact_background_sizer" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentLeft="true" ex:direction="widthToHeight" ex:ratio="0.5" class="com.android.contacts.widget.ProportionalLayout">
+            <ImageView android:id="@id/contact_background" android:layout_width="fill_parent" android:layout_height="0.0dip" android:scaleType="centerCrop" android:adjustViewBounds="true" />
+        </view>
+        <LinearLayout android:id="@id/blue_separator" android:background="@android:color/holo_blue_light" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_below="@id/contact_background_sizer" />
+        <View android:id="@id/photo_text_bar" android:background="#7f000000" android:layout_width="fill_parent" android:layout_height="42.0dip" android:layout_alignBottom="@id/contact_background_sizer" android:layout_alignParentLeft="true" />
+        <ImageView android:id="@id/main_action" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_marginLeft="@dimen/call_log_inner_margin" android:layout_marginRight="@dimen/call_log_outer_margin" android:scaleType="center" android:layout_alignTop="@id/photo_text_bar" android:layout_alignRight="@id/photo_text_bar" android:layout_alignBottom="@id/photo_text_bar" />
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="?call_log_primary_text_color" android:gravity="center_vertical" android:id="@id/header_text" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_marginLeft="@dimen/call_detail_contact_name_margin" android:layout_marginRight="@dimen/call_log_inner_margin" android:maxWidth="170.0dip" android:singleLine="true" android:layout_alignLeft="@id/photo_text_bar" android:layout_alignTop="@id/photo_text_bar" android:layout_alignBottom="@id/photo_text_bar" />
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignLeft="@id/contact_background_sizer" android:layout_alignTop="@id/contact_background_sizer" android:layout_alignRight="@id/contact_background_sizer" android:layout_alignBottom="@id/contact_background_sizer">
+            <ImageButton android:id="@id/main_action_push_layer" android:background="?android:selectableItemBackground" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false" />
+            <LinearLayout android:orientation="horizontal" android:id="@id/gn_strange_num_handler" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false">
+                <LinearLayout android:gravity="bottom" android:id="@id/gn_strange_num_add_new_contact" android:background="?android:selectableItemBackground" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+                    <ImageView android:background="#7f000000" android:paddingLeft="3.0dip" android:layout_width="32.0dip" android:layout_height="42.0dip" android:src="?gn_ic_add_contact" />
+                    <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="@android:color/white" android:gravity="center" android:background="#7f000000" android:padding="4.0dip" android:layout_width="fill_parent" android:layout_height="42.0dip" android:text="@string/gn_dialpad_new_contact_item" />
+                </LinearLayout>
+                <LinearLayout android:gravity="bottom" android:id="@id/gn_strange_num_add_to_contact" android:background="?android:selectableItemBackground" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginLeft="2.0dip" android:layout_weight="1.0">
+                    <ImageView android:background="#7f000000" android:paddingLeft="3.0dip" android:layout_width="32.0dip" android:layout_height="42.0dip" android:src="?gn_ic_add_existing_contact" />
+                    <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="@android:color/white" android:gravity="center" android:background="#7f000000" android:padding="4.0dip" android:layout_width="fill_parent" android:layout_height="42.0dip" android:text="@string/gn_dialpad_add_exist_contact_item" android:drawablePadding="3.0dip" />
+                </LinearLayout>
+            </LinearLayout>
+        </FrameLayout>
+        <FrameLayout android:id="@id/call_and_sms_container" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/blue_separator">
+            <include layout="@layout/gn_call_and_sms" />
+        </FrameLayout>
+    </RelativeLayout>
+    <View android:id="@id/blank" android:background="#ff000000" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+</RelativeLayout>

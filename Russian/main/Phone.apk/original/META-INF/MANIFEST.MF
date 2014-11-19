@@ -1,0 +1,2058 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable-hdpi/ic_sound_speakerphone_holo_dark.png
+SHA1-Digest: 5JcEAlGgYMb14eJEI4fh974DYtI=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_2.png
+SHA1-Digest: SEYpgSdfsKBeJm2txobqr0/Soyc=
+
+Name: res/drawable-xxxhdpi/aurora_small_keypad_disable.png
+SHA1-Digest: PMoxDndytCuOdPeNZ3OyUA8CGMk=
+
+Name: res/drawable-hdpi/dial_num_5_wht.png
+SHA1-Digest: P1S+Iq62OYjA1D4ZMTHTsmamX6g=
+
+Name: res/drawable-xxxhdpi/qiehuan_disabled.png
+SHA1-Digest: SG/j52hINitBcHV6HhUK6T6bgIc=
+
+Name: assets/region/mob_region_sup.data
+SHA1-Digest: d/8M+wBrZNw2SObqIYY2jr+vFRk=
+
+Name: res/drawable-xxxhdpi/endcall_buttonbg.png
+SHA1-Digest: NHXpl03as14Gr6PleDyaJ47xwDU=
+
+Name: assets/region/mob_region_153.data
+SHA1-Digest: P4qG4UZ5eyotE7/9Eq/uK/Y38es=
+
+Name: res/layout-land/incall_screen.xml
+SHA1-Digest: XeTTq+N6ZiC4hBs9uhrYAEK/eHc=
+
+Name: res/drawable/aurora_endcall_keypad.xml
+SHA1-Digest: WF6Lyd1RKDsIt5uxZdLZxFGWqrg=
+
+Name: res/drawable-xxxhdpi/photo_default_outgoing_sim1.png
+SHA1-Digest: pHraFeY3CRBkYhRk10yfuaK4Mxo=
+
+Name: res/drawable-xhdpi/picture_conference.png
+SHA1-Digest: QAdl3G8mM2hM+faA4ud6DTDhtmE=
+
+Name: res/drawable/aurora_qiehuan.xml
+SHA1-Digest: HVL1sBeGBUfettKSfnIJ1YoVw4o=
+
+Name: res/drawable-hdpi/ic_see_contacts_holo_dark.png
+SHA1-Digest: 5G+8iHiZrsTUIaQ6kyhWiP0mcV4=
+
+Name: res/drawable-xhdpi/ic_sound_holo_dark.png
+SHA1-Digest: 7U/rBfqYOP5NnF2nOu33+i/fp+g=
+
+Name: res/drawable-xxxhdpi/ic_switch_video_holo_dark.png
+SHA1-Digest: pHfhkLkRFwIbqS5QvfVqAlzYI48=
+
+Name: res/drawable-xhdpi/dial_background_texture.png
+SHA1-Digest: HcodM+UKOmbrg+cozIQBNs4YRgc=
+
+Name: res/drawable-hdpi/ic_text_holo_dark.png
+SHA1-Digest: 2r88dpqYfllXfvsKrd6yvAPYxQo=
+
+Name: res/drawable-hdpi/ic_ab_dialer_holo_dark.png
+SHA1-Digest: O0CM3eMqMGoYtww75f5icNV6/Qw=
+
+Name: res/layout/incall_screen_multisim.xml
+SHA1-Digest: OwRU4tnLjDAV/hXJD28kcNuybtk=
+
+Name: assets/region/mob_region_138.data
+SHA1-Digest: nvVLzeGgEtmyCTUNt71YWFonEgg=
+
+Name: res/drawable/ic_lockscreen_decline_normal_layer.xml
+SHA1-Digest: CcaZXTIhrVArBkJjFLaJKee2lPI=
+
+Name: res/drawable-xxxhdpi/keypad_pound_press.png
+SHA1-Digest: ufDbS0a03G97LZqqpUB+Sja3RQY=
+
+Name: res/drawable-xhdpi/dial_num_4_wht.png
+SHA1-Digest: 37SmPfDBUZihNbmVfTr/mtYnaVE=
+
+Name: res/drawable-xhdpi/dial_num_pound_wht.png
+SHA1-Digest: oLRyjlPf22/PL+eS3uzhFaY9qM8=
+
+Name: res/drawable-hdpi/stat_sys_vp_phone_call.png
+SHA1-Digest: raUN4SrhKP4uWjyTiMy2PnsCBPI=
+
+Name: assets/region/mob_region_180.data
+SHA1-Digest: Buy2m4XyAIyjpwYsrYlYRl7c/wc=
+
+Name: res/layout/aurora_spinner.xml
+SHA1-Digest: +rRjrVNZgVrR0xtHzbU7OBfWZcA=
+
+Name: res/drawable-xhdpi/picture_unknown.png
+SHA1-Digest: 9Wn4CCNA9uqiWY02Mw/f4/hz+6c=
+
+Name: res/drawable-xxxhdpi/aurora_stat_notify_missed_call2.png
+SHA1-Digest: jmfaM/3k2JYo3VHJH3WzwBWKHDQ=
+
+Name: res/drawable-xxxhdpi/aurora_small_qiehuan_disable.png
+SHA1-Digest: f+oc++X/Sj5jbl0mOor1mihQ5Bg=
+
+Name: res/layout/ims_settings_ui.xml
+SHA1-Digest: yCwvGprkZOqa39c2UBkt1ztySJY=
+
+Name: res/drawable-xhdpi/ic_switch_holo_dark.png
+SHA1-Digest: VZF3FWRdeRJMi/frSnQP/UKvtG4=
+
+Name: res/drawable-xxxhdpi/aurora_small_add_checked.png
+SHA1-Digest: ACEvH+qb0OlMi7PttStbOCQ8XgM=
+
+Name: res/drawable/aurora_shape.xml
+SHA1-Digest: B4wUIZ1+eghxjP5Ctm2cTCZyTbY=
+
+Name: assets/region/mob_region_183.data
+SHA1-Digest: /J+dJ/K4fJynwf81+rSRI5SM+WA=
+
+Name: res/xml/data_usage_settings.xml
+SHA1-Digest: 3J0kPs3PdNADFNtKt7ZXFpEO93w=
+
+Name: res/drawable/aurora_keypad_1.xml
+SHA1-Digest: AUn5Ul8gZTPUEebGTIYUfZhjVxs=
+
+Name: res/drawable-hdpi/ic_incoming_call_bluetooth.png
+SHA1-Digest: f4EO6WS/NkNZHTw9li/cLL+MYrQ=
+
+Name: res/drawable-xhdpi/ic_lockscreen_answer_video_normal.png
+SHA1-Digest: JgSZp0KdksxaCRJ0Tv4wpvsgx/A=
+
+Name: res/drawable-xxxhdpi/hebing_press.png
+SHA1-Digest: PiGkT10t6NqAj+myZAnzTFLFfeA=
+
+Name: res/anim/otheractivity_exit.xml
+SHA1-Digest: 0gYp++XtKlmzcK8J9yxrWPSpPRo=
+
+Name: res/drawable-xxxhdpi/aurora_small_silent_press.png
+SHA1-Digest: JO8bB3nGRszDRKlGCI5z/oZSdRw=
+
+Name: res/drawable-hdpi/stat_sys_phone_call_forward_sub2.png
+SHA1-Digest: 6w6gAEW20R0dpkXj+aYlkf43uno=
+
+Name: res/anim/otheractivity_enter.xml
+SHA1-Digest: uH5g55nHvwUnr1EqpN8oVoMSugg=
+
+Name: res/drawable-xxxhdpi/record_checked.png
+SHA1-Digest: aAlbRqoKSHZSD091aP35YSMpPQM=
+
+Name: res/drawable-xxxhdpi/aurora_small_contact_checked.png
+SHA1-Digest: ZJOY8MkDRcPKJsY8/IDZVvTocYE=
+
+Name: res/drawable/aurora_keypad.xml
+SHA1-Digest: /0gucooh3wq73P2RHzN7Xuwu1CI=
+
+Name: res/drawable-hdpi/ic_lockscreen_answer_tx_video_normal.png
+SHA1-Digest: 4jnRO+d3NQ60r90zUakTw34owx4=
+
+Name: res/drawable-xhdpi/dial_num_3_wht.png
+SHA1-Digest: cVCsodEYvLVyrFFBEACqMOXmVYI=
+
+Name: res/drawable-hdpi/picture_emergency32x32.png
+SHA1-Digest: bsNm+9w6UsFH+qrRmsnKWJtKQT8=
+
+Name: res/drawable/btn_compound_dialpad.xml
+SHA1-Digest: 73EzOskLc3gd7/2sRfFMDRIUKxA=
+
+Name: res/drawable-xxxhdpi/hebing_disabled.png
+SHA1-Digest: u1lRjM1mPjsn0JZnI4OcyizY8t8=
+
+Name: res/layout/aurora_call_record_spinner_item.xml
+SHA1-Digest: I1XfeRqFOrnWeIMR9LAU5tWjJvc=
+
+Name: res/drawable-hdpi/ic_incall_switch_holo_dark.png
+SHA1-Digest: BhEcvFgbjapJkvabC7pD88t3UZo=
+
+Name: res/drawable-xxxhdpi/keypad_9_press.png
+SHA1-Digest: K6Bl+hbDZiF+6yS6ZEk97MrKNw4=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_8.png
+SHA1-Digest: /KLFuJbsRSmbfRUG6VFE3/mRL9o=
+
+Name: res/drawable-xxxhdpi/stat_sys_phone_call_forward_sub1_big.png
+SHA1-Digest: OVebV+01dwdAQ3a5nrRo+TEKNzk=
+
+Name: res/drawable-xxxhdpi/photo_default_outgoing_sime.png
+SHA1-Digest: lRGuFTDkJE/+gpizwYK0QjGnuGU=
+
+Name: res/drawable/ic_lockscreen_answer_activated_layer.xml
+SHA1-Digest: dgc4/39niSJuQgmjqHDojaDQtiI=
+
+Name: res/drawable/aurora_dial_num_7x.xml
+SHA1-Digest: W6bQp9EWJ4/HjNPOvl6ZGkKq4Fc=
+
+Name: res/drawable-xxxhdpi/photo_circle.png
+SHA1-Digest: jT3LMrhEvNHto0YMbPwFZnKEA78=
+
+Name: res/drawable-hdpi/ic_lockscreen_decline_normal.png
+SHA1-Digest: hK7qVWGOcw//aCTJLFvjPik9jH4=
+
+Name: res/drawable/btn_call_msim.xml
+SHA1-Digest: FGgwy8X8qcNP1UvERpOIOpJ3/eU=
+
+Name: res/drawable-hdpi/list_focused_holo.9.png
+SHA1-Digest: WWbGNxwqfE11SDbuIT+Sd9XnxCQ=
+
+Name: res/drawable-hdpi/ic_lockscreen_text_normal.png
+SHA1-Digest: l8+PYPu91TWNiHw4w4BBIq1RTBw=
+
+Name: res/drawable/aurora_keypad_star.xml
+SHA1-Digest: 5in2udsPAeN+rttFkygNEqfYzZ4=
+
+Name: res/drawable-xxxhdpi/stat_sys_phone_call_forward.png
+SHA1-Digest: 3oW8Vrx4t/mrQBLKi9d3pNnzoaM=
+
+Name: res/drawable-xxxhdpi/aurora_small_keypad_press.png
+SHA1-Digest: 8Kcw59AWYGMLToERFNWXu2CbqWY=
+
+Name: assets/region/mob_region_150.data
+SHA1-Digest: xEe4bklB7GCdrk83TeOmevSbNeI=
+
+Name: res/layout/incall_touch_ui.xml
+SHA1-Digest: RvWrJ6GtGsytLj2TEC71rVq5nmU=
+
+Name: res/drawable-hdpi/dial_num_4_wht.png
+SHA1-Digest: CjS0O39uIp2Ug+nhQO2VjwVWjx4=
+
+Name: res/drawable/ic_zoom_in.xml
+SHA1-Digest: 4Wkn8yqBIzhg3iS95RFcuhM0/lo=
+
+Name: res/drawable-xxxhdpi/aurora_small_record_press.png
+SHA1-Digest: x55gDX9N2Mo2lIwdlIZXKYZYYNQ=
+
+Name: res/layout/aurora_image_preference.xml
+SHA1-Digest: /vRqj5gsC0gjX2UI8qQkQFPBiM8=
+
+Name: res/drawable/aurora_mianti_icon.xml
+SHA1-Digest: wEYMIfnuHUIL4g64+nXSGnbpr20=
+
+Name: res/drawable-xxxhdpi/aurora_ic_text_holo_dark.png
+SHA1-Digest: tZ+XeCxSwDHcIsa9fSb3W41cYAc=
+
+Name: res/layout/set_subscription_pref_layout.xml
+SHA1-Digest: a+oTl9Wp2Jm4ZKxLFCYnrA+y0l0=
+
+Name: res/layout-land/incall_touch_ui.xml
+SHA1-Digest: 0B03LfXBMPsjY0Vkj1Lm9WKANSY=
+
+Name: assets/region/mob_region_136.data
+SHA1-Digest: ARHTIIfPvuFgXe/Eko9eS+pJlPU=
+
+Name: res/drawable-xxxhdpi/aurora_small_qiehuan_checked.png
+SHA1-Digest: U9ANNlVYgHzYY3Kh2AD/9wF2oyY=
+
+Name: res/drawable-xxxhdpi/sim_noti_net.png
+SHA1-Digest: UEyHdnNuLeyTKrVOw/IRurIhAhc=
+
+Name: res/drawable-xxxhdpi/mianti_disabled.png
+SHA1-Digest: f9wGRs5bD/aKS3zUxQv2/BjKKAA=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_7_press.png
+SHA1-Digest: iMLc1AHX1rT9VgD5SVDZ09/Ia40=
+
+Name: res/drawable/dialpad_background.xml
+SHA1-Digest: FT/GYhs2tUtm2ARQaWND6yt223s=
+
+Name: res/layout/msim_primary_call_info.xml
+SHA1-Digest: cB20YGHqxVkP2tdsjwaCAN3y4Jw=
+
+Name: res/drawable-xhdpi/dial_num_8_wht.png
+SHA1-Digest: pQvJhjAtS0YgeNPPxHhz7+5kKfU=
+
+Name: res/drawable-xhdpi/ic_dialpad_holo_dark.png
+SHA1-Digest: U3bzU3DSM1Qxjs2uS5bEbTBQPH0=
+
+Name: res/drawable-hdpi/ic_lockscreen_answer_video_active.png
+SHA1-Digest: IbEHeB/5aNJ2Y2oWIYJVyFqLiSY=
+
+Name: res/drawable-hdpi/green_divider.png
+SHA1-Digest: qT8HxosMrGB/Pi/3C1wp0tOmfRg=
+
+Name: res/drawable-xxxhdpi/wenzi2.png
+SHA1-Digest: lyiYQ/t63Mr+myHs0JyPwcFWpGM=
+
+Name: res/drawable-xxxhdpi/stat_sys_phone_call_forward_sub1.png
+SHA1-Digest: ghMv8t3OeE3V7746WR/SQVUyeQc=
+
+Name: res/layout/xdivert_phone_numbers.xml
+SHA1-Digest: ez/dX5Fvd65CGzG9TQi6TtVHbiw=
+
+Name: res/drawable-xxxhdpi/right_arrow_press.png
+SHA1-Digest: wejen8ETg6Tq4yJyx0lmKwqipyU=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_pound_press.png
+SHA1-Digest: iUo0fs11frqWlVSuUDsl3Ls4joE=
+
+Name: res/drawable-xxxhdpi/add_call.png
+SHA1-Digest: u53Fw7RhhtEOAHUzYLgyzchNse4=
+
+Name: res/drawable-hdpi/list_selector_disabled_holo_dark.9.png
+SHA1-Digest: H6QyACqlrLL5v6tTVSXDgysUOqU=
+
+Name: res/drawable-xxxhdpi/endcall_keypad.9.png
+SHA1-Digest: eWNXDHs36iBIF68KGiEC6pv4R78=
+
+Name: res/drawable/aurora_contact.xml
+SHA1-Digest: 01wD9cp04ajVn/d1zHbTAU6gyWg=
+
+Name: res/layout/manage_conference_panel.xml
+SHA1-Digest: k8bU1zP2QJhHdDWYDrif0/A643g=
+
+Name: res/drawable-xhdpi/ic_bluetooth_holo_dark.png
+SHA1-Digest: wlx6LF/pPeK7SRTWl5F7/NH2i+M=
+
+Name: res/drawable-hdpi/dial_num_6_wht.png
+SHA1-Digest: +xT05+YNVSKL/AKvmmr1wsLmORg=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_4.png
+SHA1-Digest: O90uLqmCJkmn2rlqxFMI3+UgelU=
+
+Name: res/drawable/aurora_stat_sys_phone_call_button.xml
+SHA1-Digest: uR9IS/w0l1FU1/1p5AX6Vbz6GVk=
+
+Name: res/layout/pref_dialog_editphonenumber.xml
+SHA1-Digest: HdyuEs1ky9o+qQOOu+w+sqM7TOw=
+
+Name: res/drawable-hdpi/ic_merge_holo_dark.png
+SHA1-Digest: aJqg1M4zLl6CsVz86ivCEzTome8=
+
+Name: assets/region/mob_region_137.data
+SHA1-Digest: YS1J8FvKsuvY3UOvjR3l8RGb91w=
+
+Name: res/anim/scale2.xml
+SHA1-Digest: wG2Np86mFshbyxR7saFJMi/Q9mc=
+
+Name: res/drawable-xxxhdpi/aurora_small_record_disable.png
+SHA1-Digest: luCkkBf5H5nHwSWiq81waR2DPZs=
+
+Name: res/drawable-xxxhdpi/recording.png
+SHA1-Digest: aVTkXZvtMXbjteDQfVmWAyIBS0c=
+
+Name: res/drawable-hdpi/ic_zoom_big.9.png
+SHA1-Digest: yzwnzqBw6SHlzDhuNmXfSYvoGNE=
+
+Name: res/layout/primary_call_info.xml
+SHA1-Digest: 2P6SX4053xX+2ax48zlHRBqAirI=
+
+Name: res/layout/aurora_dial_digit_keyboard.xml
+SHA1-Digest: QgVH9F2uPW7Vs0DXA4jczvoPqNw=
+
+Name: res/drawable-xxxhdpi/silent_disabled.png
+SHA1-Digest: FQtrscLWg/JX3cKBsBRQ4JDh9x4=
+
+Name: res/drawable-xhdpi/ic_merge_holo_dark.png
+SHA1-Digest: PBsOJ7ehsezMjvjztvfSbP4eCTE=
+
+Name: res/anim/scale3.xml
+SHA1-Digest: eNsSdnTPgmeooDygemadE/TcZBk=
+
+Name: res/layout/incall_screen.xml
+SHA1-Digest: tPgoak8yzUY/OXqLBV0pMDRXtDY=
+
+Name: res/drawable-xxxhdpi/smallsimp.png
+SHA1-Digest: 8/4E2O8jzEUlAYO4NWGuRD/Zlb4=
+
+Name: res/layout/secondary_call_info.xml
+SHA1-Digest: UoPp8JhZ98A0yOssxB/6yy/Lm/M=
+
+Name: res/drawable-xxxhdpi/photo_default_sim1.png
+SHA1-Digest: kmTG/a6yd3FdLCaCHgwytfeSzJA=
+
+Name: res/drawable-xxxhdpi/aurora_small_qiehuan.png
+SHA1-Digest: VoGA/M3HMequNjADNTVlUjHu1PY=
+
+Name: res/drawable-hdpi/stat_sys_phone_call_forward.png
+SHA1-Digest: VWR4+RZ0X9KKayxIQwc9HqkhSvs=
+
+Name: res/drawable-xhdpi/stat_notify_voicemail_sub3.png
+SHA1-Digest: +MtJuJnWQyhhAXj98ti9KsdUTwM=
+
+Name: res/xml/ims_edit.xml
+SHA1-Digest: 4kJ+ryVMBZYyDH4RykxZfLnoJ/o=
+
+Name: res/drawable-xxxhdpi/keypad_7.png
+SHA1-Digest: jf/fXm48vS8k4izb9XvVQTCN/qg=
+
+Name: assets/region/mob_region_188.data
+SHA1-Digest: XGEdU2anCUHJtWrPZAUwrdmu8oY=
+
+Name: res/drawable/background_dial_holo_dark.xml
+SHA1-Digest: sHO5Vb0OkLotc144CVJ9Ksa8c00=
+
+Name: res/drawable/ic_lockscreen_answer_tx_video_activated_layer.xml
+SHA1-Digest: l+j1NayUghAv8sZEV60rOGTOHNU=
+
+Name: res/drawable-hdpi/dial_num_2_wht.png
+SHA1-Digest: 9EHrVw49bql3IDZz7J0NTiUc268=
+
+Name: res/drawable-xxxhdpi/sim_icon_checked.png
+SHA1-Digest: xHRyC/bcctp9+NJHc0HciO0ueQs=
+
+Name: res/drawable-hdpi/ic_add_group_holo_dark.png
+SHA1-Digest: EhO6ksNIDsISKfdpNrAicWlJPOA=
+
+Name: res/drawable-xxxhdpi/photo_default_simp.png
+SHA1-Digest: k8s4/tC4w+KoK7orAE6P/6eIiHE=
+
+Name: res/drawable-hdpi/ic_sound_holo_dark.png
+SHA1-Digest: g22ZiQ0p+/8to7cKG550Mt4YnuU=
+
+Name: res/drawable-xxxhdpi/aurora_small_contact.png
+SHA1-Digest: 3r7GVoOoI3yFGMEMrui883jfhdM=
+
+Name: res/layout/caller_in_conference.xml
+SHA1-Digest: mw2i/jTBLahEvmXizDRGf0cpMPE=
+
+Name: res/drawable-xhdpi/ic_add_group_holo_dark.png
+SHA1-Digest: EhO6ksNIDsISKfdpNrAicWlJPOA=
+
+Name: res/drawable-xxxhdpi/aurora_small_mianti_checked.png
+SHA1-Digest: Pe7CQC+0DIet1JFadVW6aowcOVg=
+
+Name: res/drawable-xhdpi/stat_notify_voicemail_sub1.png
+SHA1-Digest: r41l5ZGf2MNqNDlnmIisQCHNU6c=
+
+Name: res/drawable-xxxhdpi/keypad_press.png
+SHA1-Digest: 9FjTxJWWvj2q8JDEOlO2JNUk5vA=
+
+Name: assets/region/mob_region_158.data
+SHA1-Digest: Ue+UqG4KbsfD6nx1UjEArXdgl0A=
+
+Name: res/drawable/ic_lockscreen_text_activated_layer.xml
+SHA1-Digest: cpKQ8TjGGkjW3My02K5B1T+9uhY=
+
+Name: res/drawable-xxxhdpi/end_call_disable.9.png
+SHA1-Digest: lasCXaDuwp/+98+Iw3yLOCCpqSQ=
+
+Name: assets/region/mob_region_156.data
+SHA1-Digest: igds3VmwpKJlE3PaoojUuvvnRS0=
+
+Name: res/drawable-xxxhdpi/aurora_ic_text_holo_dark_press.png
+SHA1-Digest: RxujkVPv4oVIBP4xBPQfJi82wm4=
+
+Name: res/xml/call_feature_setting.xml
+SHA1-Digest: jbAuTrloDuRSXnq07DjQ2V65/ow=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_pound.png
+SHA1-Digest: GUo97bQ32XP6zVq14I/q0XEeB9g=
+
+Name: res/drawable/aurora_keypad_7.xml
+SHA1-Digest: djy3uiqUHfEnUp5YlHATawjFbEg=
+
+Name: res/layout/aurora_multi_sim_setting.xml
+SHA1-Digest: 2zpJumaVEjn2a8EQs8KvUcqPNBk=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_0_press.png
+SHA1-Digest: mdS54mtxUQBu6DVgLxbRJd5K+34=
+
+Name: res/drawable-xxxhdpi/silent.png
+SHA1-Digest: gG5SsvETau0j/+Xvk/1Bht5Y48c=
+
+Name: res/drawable-xxxhdpi/contact.png
+SHA1-Digest: AClHWOIzhtNrK6nSw73lSA/iwj0=
+
+Name: res/drawable-xxxhdpi/photo_default_sim2.png
+SHA1-Digest: m5g8kto/qGW9vvAjupEQd3Ys7Oc=
+
+Name: res/drawable/btn_compound_background.xml
+SHA1-Digest: R/ekEDZplO0SmJFvisl3JlVOoXQ=
+
+Name: res/drawable-xxxhdpi/aurora_dial_del.png
+SHA1-Digest: h5jWTut83u1UpirTSujsBTkJhb8=
+
+Name: res/drawable-hdpi/ic_zoom_out_holo_dark.png
+SHA1-Digest: DYrf8Zj9BHmaQXt3mDenPznFgNk=
+
+Name: res/layout/pre_net_preference_layout.xml
+SHA1-Digest: izLRtTSR+ECg5e6dtduLYVcYbx0=
+
+Name: res/anim/transcale.xml
+SHA1-Digest: dgiSHN0Tqcn43YYfwYL5YJPhivg=
+
+Name: assets/region/mob_region_157.data
+SHA1-Digest: B3DgQOG/pC2vgWcAzYcmWOeVBqE=
+
+Name: res/drawable-xxxhdpi/end_call_press.9.png
+SHA1-Digest: sUx1yVsb6XEt23h2tlrSK+aL83c=
+
+Name: res/drawable/list_selector_focused_and_checked.xml
+SHA1-Digest: xVGPc7x3KzbVdJk057YfGY+5KzI=
+
+Name: res/drawable/btn_cancel_pressed.png
+SHA1-Digest: fpFz90WfH8xEVxtgOhQqDkxx3MM=
+
+Name: res/anim/top_move_out.xml
+SHA1-Digest: dw8Oq3fxstmg9+n09TfW+77BaZU=
+
+Name: res/drawable/btn_call.xml
+SHA1-Digest: LyzBHbtU3nktIwBb/YoNviPT2U8=
+
+Name: res/drawable-xxxhdpi/photo_default_outgoing.png
+SHA1-Digest: RfWacAHpLoxfOJZENVCS9X6YEpM=
+
+Name: res/xml/gsm_umts_call_options.xml
+SHA1-Digest: it+FL0NEUoNxMBh+eg2Ay0z/+44=
+
+Name: res/drawable-xxxhdpi/stat_sys_phone_call_forward_sub3.png
+SHA1-Digest: gpAPpzVHrHeWgxS2a/SKZthrC58=
+
+Name: res/drawable-xhdpi/picture_dialing.png
+SHA1-Digest: UP1AVLwWCbw8hqBruwo09tE8OIo=
+
+Name: res/drawable-xxxhdpi/aurora_sogou_icon.png
+SHA1-Digest: 2JAn9KsBc8jZJVLpkhow5RO09nc=
+
+Name: assets/region/mob_region_186.data
+SHA1-Digest: zTk5ZVkV0lrYUP11eliBBkkb5L0=
+
+Name: res/drawable/aurora_keypad_6.xml
+SHA1-Digest: YWm827sYj2DgU5E2nXeKrNaSHsU=
+
+Name: res/drawable/aurora_keypad_4.xml
+SHA1-Digest: QkdAtnug7ULLNVpaHJTH9doq2HI=
+
+Name: res/drawable-hdpi/picture_conference.png
+SHA1-Digest: 7ZdqBZuEP9M0B4ZV8VGjq4Ppo2w=
+
+Name: res/drawable-xxxhdpi/aurora_small_ear_disable.png
+SHA1-Digest: 9cND4u0CfCPINIX2V8DD1a5gOGE=
+
+Name: res/xml/pre_net_settings.xml
+SHA1-Digest: 1dgHDy7O/S5brE8D9GVRiWrD0+E=
+
+Name: res/drawable-xxxhdpi/endcall_keypad_press.9.png
+SHA1-Digest: b37T9BRf8srkFOeiO5xvZjzj2yE=
+
+Name: res/drawable-xhdpi/endcall_disable.png
+SHA1-Digest: 70ke8sPzYSU+oPEfec+VOLreXYk=
+
+Name: res/anim/scale1.xml
+SHA1-Digest: A6j5iu5ASZ0pvce5zWzruWsJgVg=
+
+Name: res/drawable-xhdpi/stat_sys_vp_phone_call_on_hold.png
+SHA1-Digest: EIlcs9bOS95iabl3Rf0TCSuar+8=
+
+Name: res/drawable-xxxhdpi/add_call_press.png
+SHA1-Digest: F4aIvJpbWkvbFIaGOoAV0+0PlT4=
+
+Name: res/drawable-xxxhdpi/photoicon_unknown_sim.png
+SHA1-Digest: izG/VNG0ybVb9Y77NCVpBSQ0I8A=
+
+Name: res/drawable/btn_compound_hold.xml
+SHA1-Digest: BwBDvMCXtqYde5eOCCM9VyRr03c=
+
+Name: res/drawable-xxxhdpi/aurora_small_hebing_disable.png
+SHA1-Digest: F9y9Wqj3UvJgRDduoS4KPKQu5Fg=
+
+Name: res/drawable-xxxhdpi/aurora_small_record.png
+SHA1-Digest: U0QBLv8h+5/uXN/Q+gaYscJEe54=
+
+Name: res/layout/export_contact_screen.xml
+SHA1-Digest: fAdJAoOQAKXOebHESYYHvjB46XQ=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_0.png
+SHA1-Digest: bkyE51Mam0gI83cf26FrQ2LTY5U=
+
+Name: assets/region/mob_region_182.data
+SHA1-Digest: f/c2nqUj4u9SUCyOgDUguBqEP0w=
+
+Name: res/layout/outgoing_call_broadcaster.xml
+SHA1-Digest: 9AcUqiGa1MHxJjUx+I+0KAW4U8E=
+
+Name: res/drawable/aurora_keypad_3.xml
+SHA1-Digest: nokN4+KxY44qgA40mjeObWqonoI=
+
+Name: res/drawable-xxxhdpi/qiehuan.png
+SHA1-Digest: zy6Fe0p0x5u6VkdE9GkZTbtijzA=
+
+Name: res/drawable-xxxhdpi/bg.png
+SHA1-Digest: mf10r5LVak45grXHfdjej1/vlhM=
+
+Name: res/xml/set_subscription_pref.xml
+SHA1-Digest: yTEISdxVzNdz10bjOMXBKwpVco4=
+
+Name: res/drawable-xxxhdpi/incoming_gq2.png
+SHA1-Digest: 2tdxbHWFyZu25SwI9CWQf3P7ibA=
+
+Name: res/drawable/aurora_dial_num_8x.xml
+SHA1-Digest: X3sQO115XqodkBMIQKkt8w2+C6E=
+
+Name: res/drawable-xhdpi/stat_sys_phone_call_end.png
+SHA1-Digest: M2wwlSpvdLHjZctr8TkhExog6sg=
+
+Name: res/drawable/aurora_keypad_2.xml
+SHA1-Digest: bRmGGaQKyFui2vZAIT1W8PAP3D8=
+
+Name: res/layout/pref_dialog_editpin.xml
+SHA1-Digest: Fb6zJuy4UD9PnQnJVTy7MMXCBfk=
+
+Name: assets/region/mob_region_130.data
+SHA1-Digest: qMudlAzvWXi+xsqiCY7+xGPnXuU=
+
+Name: res/drawable/dialpad_background_opaque.xml
+SHA1-Digest: 0rPEsQPfu8xGTgveoQRp59CYnpY=
+
+Name: res/drawable-hdpi/ic_zoom_big_dark.9.png
+SHA1-Digest: ncqm1gbfRj5NrZQIleCD5OgnIds=
+
+Name: res/drawable-xxxhdpi/aurora_black_icon.png
+SHA1-Digest: fURj1G7bMEGtzb5g57UrB5tItL0=
+
+Name: res/drawable/aurora_dial_num_starx.xml
+SHA1-Digest: Zo7q2X08gl/FWeu+mNP8xJlR798=
+
+Name: res/drawable-hdpi/endcall_active.png
+SHA1-Digest: uZ+nyAvhmBzTlBtQvofxNv4ZoTI=
+
+Name: res/drawable/aurora_record_icon.xml
+SHA1-Digest: +Zs4RoKWwDW6p57uRYG6cXg1HOk=
+
+Name: res/menu/incall_audio_mode_menu.xml
+SHA1-Digest: QoOBxhqIYEF3UB7PTFx3sAR2bwE=
+
+Name: assets/region/mob_region_159.data
+SHA1-Digest: EmerdV+wmKVcofLacO5ImaZDKgc=
+
+Name: res/drawable-xxxhdpi/keypad_pound.png
+SHA1-Digest: amkYq3OBJun5x9MGKr484MO4roY=
+
+Name: res/drawable-xhdpi/ic_lockscreen_answer_normal.png
+SHA1-Digest: /KYBYOqZb9eWrT2K6/2ztbF8ZCA=
+
+Name: res/drawable-xhdpi/ic_lockscreen_decline_normal.png
+SHA1-Digest: WPf8NSqgrExsnFtEwSYuxJj7JT4=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_8_press.png
+SHA1-Digest: y5xIFQWyRr97WS4uQNqvc/4No2I=
+
+Name: res/layout/invideocall_panel.xml
+SHA1-Digest: Yeiy4duWt+zl6JT2Ou8e9NVYHcw=
+
+Name: res/drawable-xhdpi/ic_see_contacts_holo_dark.png
+SHA1-Digest: XRkiWLy6O08bv6fZn7Gv1x5PU34=
+
+Name: res/drawable-xxxhdpi/aurora_dial_del_disable.png
+SHA1-Digest: X8yKD8GJdsFxBkygc6enEQ1UBSA=
+
+Name: res/drawable-xxxhdpi/aurora_small_add_disable.png
+SHA1-Digest: U8lL2wSqVXg92oQNHXlwCXMfJ9w=
+
+Name: res/drawable/aurora_qiehuan_icon.xml
+SHA1-Digest: b7EC9+4HvypamxCQXm9xD+Q9TzA=
+
+Name: res/drawable/ic_lockscreen_decline.xml
+SHA1-Digest: st91jSkYr6vXJ+DSmNNCu0/dIL4=
+
+Name: res/drawable-xxxhdpi/stat_sys_phone_call_forward_sub2_big.PNG
+SHA1-Digest: rkJuqR2U1wTBhXQsck6yM1KvH3o=
+
+Name: res/drawable-xxxhdpi/aurora_call_forward_icon_press.png
+SHA1-Digest: Ba70GB0wu3mRiBqCHcWHcUd+IJg=
+
+Name: res/drawable-xxxhdpi/right_arrow_normal.png
+SHA1-Digest: kpZFgojSKFK5PBBFpL3BTxFCEBQ=
+
+Name: res/xml/sip_setting.xml
+SHA1-Digest: WQ9IyzrBVAHWaYa1RyntD9JyzCM=
+
+Name: res/drawable-hdpi/ic_lockscreen_decline_activated.png
+SHA1-Digest: IkaL+zlTGX80J9oOHfVVm2v42Cs=
+
+Name: res/drawable-xxxhdpi/aurora_small_mianti_disable.png
+SHA1-Digest: tHHW2bqc8GfNlw4Z/DVa++CPSSo=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_2_press.png
+SHA1-Digest: E+ZGcKAp/h8RGvyOCnqQ2Oii5DI=
+
+Name: res/drawable-xxxhdpi/aurora_small_bluetooth.png
+SHA1-Digest: O1ji5EOxpkEhTOgvjyfqdUl0UXA=
+
+Name: res/drawable-xxxhdpi/incoming_gq1.png
+SHA1-Digest: AuT7CacmR94kRiwAL1rqKUKSv9s=
+
+Name: res/drawable-xhdpi/ic_lockscreen_answer_video_active.png
+SHA1-Digest: IbEHeB/5aNJ2Y2oWIYJVyFqLiSY=
+
+Name: res/drawable-hdpi/ic_switch_holo_dark.png
+SHA1-Digest: VZF3FWRdeRJMi/frSnQP/UKvtG4=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_1.png
+SHA1-Digest: gmLElAIFEchYIoKV+NyKb40e0Ec=
+
+Name: res/drawable-hdpi/stat_sys_phone_call_end.png
+SHA1-Digest: 7HKzA4nRsTMG7Qq9GUfazjOiI4I=
+
+Name: res/drawable-xhdpi/ic_sound_off_speakerphone_holo_dark.png
+SHA1-Digest: zDc3f7layZc1D88WXDcc78FAsu4=
+
+Name: res/drawable/aurora_keypad_8.xml
+SHA1-Digest: Z61vDrxxi1hZaW8q4t0F+fcsTfc=
+
+Name: res/drawable-xxxhdpi/aurora_emergency_return_press.png
+SHA1-Digest: X+vI0ZRKszj6E58I1Cz1XIlXZFM=
+
+Name: res/drawable/aurora_dial_num_poundx.xml
+SHA1-Digest: 8M3hVJTP/E6rJIvXuCX6dpvyOKA=
+
+Name: res/drawable-xxxhdpi/photo_default_simo.png
+SHA1-Digest: cy20tm4kS569+BtM3Vlx43pHDvs=
+
+Name: AndroidManifest.xml
+SHA1-Digest: M4otk1CEL5e6mDelzlbhsR+ZIBc=
+
+Name: res/anim/right_move_out.xml
+SHA1-Digest: 1Na9K4T53xPvjY1orcRhcHjsYtc=
+
+Name: res/drawable-xxxhdpi/contact_press.png
+SHA1-Digest: 4JqBOPeprejI6XbRWAUM4qUZ3Tg=
+
+Name: res/drawable/ic_lockscreen_answer_video_normal_layer.xml
+SHA1-Digest: a37/4ZBqQWEitSxWlc1XM9aP1kg=
+
+Name: res/xml/respond_via_sms_settings.xml
+SHA1-Digest: BF3Y0o9YwoXcBgFdXjM0PrdZm/Q=
+
+Name: res/drawable/btn_compound_addparticipant.xml
+SHA1-Digest: oFZM5jpXXBX5LrivVGpnEJMZHKI=
+
+Name: assets/region/mob_region_177.data
+SHA1-Digest: yK9neUBUgaBXVXSFvAv3sWoatXM=
+
+Name: res/drawable-hdpi/ic_btn_back.png
+SHA1-Digest: lHIhN3zVoBdCxBw4kTdgCXDe7M8=
+
+Name: res/drawable-xxxhdpi/incoming_gq3.png
+SHA1-Digest: PtxKp1MxtqB9KFKHcPv21adZ7YY=
+
+Name: res/drawable-xxxhdpi/aurora_small_ear.png
+SHA1-Digest: PGA65JBv8Eud4YyJ8xjJc+4SLII=
+
+Name: res/drawable-xxxhdpi/outgoing_gq1.png
+SHA1-Digest: WlUETsD5Pe3bgv4v4kT1Djzlbm4=
+
+Name: classes.dex
+SHA1-Digest: j5fxdLihObBI75aRECw0EfSx14w=
+
+Name: assets/region/mob_region_187.data
+SHA1-Digest: LWqo2qpehuRMPnr7XHdGAhUanrE=
+
+Name: res/layout/dialog_ussd_response.xml
+SHA1-Digest: pA/ZM4AKNivqtHIXMWXG4ZMr4PI=
+
+Name: res/drawable-xxxhdpi/sim2_icon_small.png
+SHA1-Digest: VZRIxi2t7y9hCcSXPP4abqB9xRs=
+
+Name: res/drawable-hdpi/ic_zoom_in_holo_light.png
+SHA1-Digest: WDLV6Ny054FrtllrzLxC7zMdQK4=
+
+Name: res/layout/edit_fdn_contact_screen.xml
+SHA1-Digest: WFy09FmQeUE9R4SvjkCtFhii3K8=
+
+Name: res/drawable-xxxhdpi/photo_circle_incall.png
+SHA1-Digest: o0ZOcv8YpJ6w80Xj/G6ITj7uD1M=
+
+Name: res/drawable-xxxhdpi/photo_default_outgoing_simh.png
+SHA1-Digest: d3o3n/75xJdS+S12BlcXzxGA2x0=
+
+Name: res/drawable-xhdpi/dial_num_star_wht.png
+SHA1-Digest: ujvDik0TCj2jZttMnMJtixvw5j8=
+
+Name: res/drawable-xxxhdpi/keypad_1.png
+SHA1-Digest: ZCqUx9H044NPTcNrNozg+ZoLBX0=
+
+Name: res/drawable/ic_lockscreen_answer_rx_video_normal_layer.xml
+SHA1-Digest: KkUm+JwcVlc01fLWYmbZE1X6vuM=
+
+Name: res/drawable-xxxhdpi/mianti_checked.png
+SHA1-Digest: R6t9Uoi5HdSIMZK/FqIf4xUfRNE=
+
+Name: res/xml/sip_settings_category.xml
+SHA1-Digest: hPocV9QtlpnhuvdKmT3A/Hxxluo=
+
+Name: res/drawable-hdpi/picture_unknown.png
+SHA1-Digest: ghouV3yfnaYJ/KgbaPq4XFre5DE=
+
+Name: res/drawable-xhdpi/endcall_background_texture.png
+SHA1-Digest: QHH3F1viPDoxv+/sjw2zGtiGatA=
+
+Name: res/drawable-xxxhdpi/keypad_4.png
+SHA1-Digest: 8I+r6yvSBRZgzWZXGk6b43N0+c0=
+
+Name: res/drawable/btn_compound_mute.xml
+SHA1-Digest: FkhCuQu04M0XIKpNmGfZ1eoR5OU=
+
+Name: res/drawable/aurora_hebing_icon.xml
+SHA1-Digest: 57ZYktvTYomcsbMJsLEMTn+QvFk=
+
+Name: res/drawable/aurora_dial_num_9x.xml
+SHA1-Digest: v7x3WlfvJuX+DmniyQLQaGsi+sk=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_7.png
+SHA1-Digest: 3J1/XhIr1BcZgaEHL/TZeK1yfbQ=
+
+Name: res/drawable-xxxhdpi/keypad_3.png
+SHA1-Digest: qVH3LkeBSYte1uwcyjGtxn2Oz9o=
+
+Name: res/drawable/aurora_dial_num_1x.xml
+SHA1-Digest: YFjHI7XDrvJYmMnKc0lN865IyZk=
+
+Name: res/drawable-xxxhdpi/keypad_5_press.png
+SHA1-Digest: 1eh4YNvVFbIsAB4/CMJd9T6+vlY=
+
+Name: assets/official_tel.data
+SHA1-Digest: aEZZPKtyslY4VeBtBVo0MA7NFms=
+
+Name: res/drawable-hdpi/ic_active_state_dialer_holo_dark.png
+SHA1-Digest: VfBvTVDW35zbrd5B/gy2yUxnyq0=
+
+Name: res/drawable-xxxhdpi/aurora_small_hold.png
+SHA1-Digest: h8KIqsMVlBF7LykN0fvho136GvU=
+
+Name: res/drawable-xxxhdpi/photo_default_outgoing_sim2.png
+SHA1-Digest: VAlkmzgohNIL00EWGv5MJS2yqBI=
+
+Name: res/drawable-xxxhdpi/aurora_small_bluetooth_checked.png
+SHA1-Digest: /qaMqtqe8GKPqmgRkWr0u8+mDa0=
+
+Name: res/drawable-xxxhdpi/aurora_small_hold_checked.png
+SHA1-Digest: DOJ+FGkh8xHZJpgk7wTdSp3qxrc=
+
+Name: res/drawable/zoom_slider_bar.xml
+SHA1-Digest: m8Vtuz0R3NdKFDWoSDlCnwcJiEc=
+
+Name: res/drawable-xxxhdpi/sim_home_big_icon.png
+SHA1-Digest: jb491Y1scgut3IpObRJYl5plcwA=
+
+Name: res/drawable-xxxhdpi/aurora_small_ear_press.png
+SHA1-Digest: Z9aAXE3b7tZ8I9fkxeO1H+MzUVM=
+
+Name: res/drawable-xxxhdpi/outgoing_gq4.png
+SHA1-Digest: h2FQO1Vt+s3WsWj57cWFEqhWWrQ=
+
+Name: res/drawable-xhdpi/ic_end_call_holo_dark.png
+SHA1-Digest: 6KTRQESg5M7zefwgR9kZYG0UPrs=
+
+Name: res/drawable-hdpi/ic_launcher_sip_call.png
+SHA1-Digest: pfIZaaKW6cEG4+ISGuMxfgoI7mo=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_star_press.png
+SHA1-Digest: pICpF9FNBGGq5j+0rpq3EsoxLS0=
+
+Name: res/drawable-xxxhdpi/hide_keypad.9.png
+SHA1-Digest: qb2ALDK8D4uW5BdR/7+LUwlyK5c=
+
+Name: assets/localinfo/2.txt.data
+SHA1-Digest: 9ndMPuTesPPzCcUHnbvAkjiHqvY=
+
+Name: res/drawable-xxxhdpi/photo_default_sime.png
+SHA1-Digest: +nwjTJVQ5Fn+vW5XqAshDpTkxv4=
+
+Name: res/xml/msim_network_sub_setting.xml
+SHA1-Digest: xNeAumJrJAFG8/U/TYf6nOgN1WA=
+
+Name: res/drawable/aurora_end_call.xml
+SHA1-Digest: K2BaVEw0gz8qPpuNUalIuysc468=
+
+Name: res/drawable-xxxhdpi/sms_reject_item_bg.png
+SHA1-Digest: SNyt4md9piz5RVNEI/oTL3pXWHw=
+
+Name: res/drawable-hdpi/stat_sys_phone_call_forward_xdivert.png
+SHA1-Digest: j7xQ9OxPQ6OQUGRNCq50ygAjvHg=
+
+Name: res/drawable/ic_lockscreen_decline_activated_layer.xml
+SHA1-Digest: 2ZGdOdKqHNmu5IQmBn7L35udZxE=
+
+Name: res/drawable-xxxhdpi/aurora_small_hebing_press.png
+SHA1-Digest: TcmmIDvCJy29FH9Kf7PsI2B3ZvY=
+
+Name: res/drawable/ic_lockscreen_text_normal_layer.xml
+SHA1-Digest: Sj6bM67CwPi9m+QgbuYU/5MsUFE=
+
+Name: res/drawable-xxxhdpi/mianti.png
+SHA1-Digest: G1pn8GZJ7A6KyHv4qC0D85JxwAc=
+
+Name: res/drawable-xxxhdpi/keypad_2_press.png
+SHA1-Digest: GM/Cr2fPWmac/seAvTTMwHoJ5jo=
+
+Name: assets/region/mob_region_178.data
+SHA1-Digest: mrXoqksguosL+ForWUoCrNjQIGA=
+
+Name: assets/region/mob_region_176.data
+SHA1-Digest: uLbw69l0v3chiDar+2wWYncmtp0=
+
+Name: res/drawable-xxxhdpi/office_icon_small.png
+SHA1-Digest: w42zGaBeKN73awOxvprAI/wAnkQ=
+
+Name: res/drawable/aurora_hide_keypad.xml
+SHA1-Digest: JmjRgQW6odbh9jiG/5mMq8Qm30Y=
+
+Name: res/drawable/aurora_dial_num_4x.xml
+SHA1-Digest: IZhRoOKuTqN5FejqTorfUSqeIUA=
+
+Name: res/drawable-hdpi/list_pressed_holo_dark.9.png
+SHA1-Digest: AVyWywHVmqUlb40Lr0kWmnyG6x4=
+
+Name: res/drawable-xhdpi/ic_dial_action_delete.png
+SHA1-Digest: Bgy9NBu/+SjCDvh5esUNF8MncOQ=
+
+Name: res/drawable-hdpi/ic_in_call_touch_handle_normal.png
+SHA1-Digest: aZbW2t6PNciDKMPevpj3H523Ua0=
+
+Name: res/layout-land/emergency_dialer.xml
+SHA1-Digest: xxyT034dxPt9Z25R0m8oNNTwORw=
+
+Name: res/drawable-xhdpi/picture_emergency32x32.png
+SHA1-Digest: GQGzukY5O4vHHhCyy3brQBBPWoU=
+
+Name: res/drawable-xxxhdpi/keypad_4_press.png
+SHA1-Digest: ij7k4uer9EhNqfhEr3xOGfqf6lw=
+
+Name: res/drawable/end_call_background.xml
+SHA1-Digest: tm3Nx4pba+s4UByrRJNIB9eGLyM=
+
+Name: res/drawable-xxxhdpi/silent_checked.png
+SHA1-Digest: Kq5yozSU/lTeyrpeCa8D44IHSgc=
+
+Name: res/drawable-xxxhdpi/aurora_call_forward_icon_disabled.png
+SHA1-Digest: Ta9Tzurg6r3SCGzM/G8Hm8nSkVg=
+
+Name: res/layout/call_card_multi_sim.xml
+SHA1-Digest: jShjA5t6q1Q/ltUFrenN/dDVuQU=
+
+Name: res/drawable-xhdpi/ic_sound_speakerphone_holo_dark.png
+SHA1-Digest: kwmhoC5FWzODj0teawlRz448BoI=
+
+Name: res/drawable-xxxhdpi/smallsim2.png
+SHA1-Digest: g2CxBwF7S98qaJ0tnwBeXs1ln+Q=
+
+Name: res/drawable-hdpi/ic_mute_holo_dark.png
+SHA1-Digest: fmTte1i6F+3X5SziLCFoB5w+DRI=
+
+Name: res/color/pcountext_color.xml
+SHA1-Digest: Roi/o1Jut95B+sDVrzfmUEhqPrI=
+
+Name: res/drawable/aurora_dial_delx.xml
+SHA1-Digest: r7+eB30s5NoAi9+hOLhA89wItWU=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_5_press.png
+SHA1-Digest: xyZBwROZjXJhCuRtFNGq9pv5+7k=
+
+Name: res/drawable-hdpi/ic_dial_action_call.png
+SHA1-Digest: qoY7sgq9iOpjHYEJtzaHcJ/GP9I=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_1_press.png
+SHA1-Digest: s+f/pY7lUv4edsF5AFC1QwkwGbs=
+
+Name: res/drawable-xxxhdpi/right_arrow2.png
+SHA1-Digest: 8pZUa/zvvYtFuZqF7CSXKl+Tluk=
+
+Name: res/drawable/ic_in_call_touch_handle.xml
+SHA1-Digest: o2pvtfACgi5L/WN3GPXTWUhPmkQ=
+
+Name: res/drawable-xhdpi/ic_sound_handset_holo_dark.png
+SHA1-Digest: TEczyOOPP/fhb/tn7EXVNJLt/tY=
+
+Name: res/mipmap-xxhdpi/ic_launcher_contacts.png
+SHA1-Digest: AJMJP8yHtOINaWNhRuAdKiPh7Pg=
+
+Name: res/anim/smsscale.xml
+SHA1-Digest: WXICp2OBZ/3Hf9Mx6pvPq8RpWEo=
+
+Name: res/drawable-xxxhdpi/record_press.png
+SHA1-Digest: tW7/3jUJRJy3oLN0n7CsUJSVPAo=
+
+Name: res/drawable-hdpi/ic_switch_photo_facing_holo_light.png
+SHA1-Digest: 7cGYZQabdvXxqqZx1Zxa4ycmdV8=
+
+Name: res/drawable/aurora_keypad_icon.xml
+SHA1-Digest: /lOPk6GYDL6iX2ogkxgv1f98eiY=
+
+Name: res/anim/top_move_in.xml
+SHA1-Digest: nZ+kST2FHci7suvqMIVwR8hvtbo=
+
+Name: res/drawable-xhdpi/ic_in_call_touch_handle_normal.png
+SHA1-Digest: wMtvtAorH9ziCL9u/AkGAdqcoII=
+
+Name: res/layout/multi_sim_setting.xml
+SHA1-Digest: KQozjF5yA1+buLT9JSyNtOUlIMM=
+
+Name: res/layout/dtmf_twelve_key_dialer_view.xml
+SHA1-Digest: NliZ9/UIeYGXuBpGsRyS1BeqEjg=
+
+Name: res/drawable-hdpi/stat_sys_phone_call_forward_sub3.png
+SHA1-Digest: gpAPpzVHrHeWgxS2a/SKZthrC58=
+
+Name: res/xml/msim_call_feature_setting.xml
+SHA1-Digest: pbiw/CBxyryw6PKixoSisP6vz98=
+
+Name: res/drawable-xxxhdpi/smallsimh.png
+SHA1-Digest: itCZIUO1TpKI7nN5Qg3ioWg1fqw=
+
+Name: res/drawable-xxxhdpi/keypad_8.png
+SHA1-Digest: t0Dk+ChSj3gu4+VpDIG60tAB0YY=
+
+Name: res/drawable-xhdpi/ic_btn_next.png
+SHA1-Digest: vzoyUCKowD1sh4U2Kqa05xqabig=
+
+Name: res/drawable-xhdpi/ic_launcher_sip_call.png
+SHA1-Digest: kWwoCsCV0r4f2K2dHEYRrflbFjg=
+
+Name: res/drawable-hdpi/ic_more_indicator_holo_dark.png
+SHA1-Digest: BbE41TvtjWAftBAX4GIgnEOvHPY=
+
+Name: res/drawable-xxxhdpi/aurora_emergency_return_disable.png
+SHA1-Digest: j76Ys3tSwNngIYdLIFTIa9eGWNo=
+
+Name: res/drawable-xxxhdpi/record_disabled.png
+SHA1-Digest: FEnrdEwBSqUCttiAbXDr81qLS+4=
+
+Name: res/layout/get_pin2_screen.xml
+SHA1-Digest: nEwRbMF86nokSyEs1BM7FyGK1Y0=
+
+Name: res/drawable-xxxhdpi/aurora_small_add_press.png
+SHA1-Digest: VzpW/5R8F0tTrDS3P4iiWVCkPOo=
+
+Name: res/drawable-xhdpi/ic_lockscreen_answer_tx_video_active.png
+SHA1-Digest: swtxMdUFKk264rogKWhTg3CiLT4=
+
+Name: res/drawable-xxxhdpi/photo_default_sim.png
+SHA1-Digest: Dzio3kZx569377goWrZFHxIVzR4=
+
+Name: res/drawable-xxxhdpi/sms_reject_item_bg_press.png
+SHA1-Digest: rBslM/ctQ7WTLiQM7FZJvOuM3hE=
+
+Name: res/drawable-xhdpi/stat_sys_phone_call_forward_sub1.png
+SHA1-Digest: ghMv8t3OeE3V7746WR/SQVUyeQc=
+
+Name: res/drawable-xxxhdpi/keypad.png
+SHA1-Digest: p0iW7b+HYmbhPV3ofKeBMqWcQkM=
+
+Name: res/layout/delete_fdn_contact_screen.xml
+SHA1-Digest: mZFdIVs8uRi8jE77UDJ8jw1FfDI=
+
+Name: res/drawable/aurora_dial_callx.xml
+SHA1-Digest: 1pROK55n0crRV9WnHZywyTfeZsY=
+
+Name: res/drawable-xxxhdpi/phone_icon.png
+SHA1-Digest: ObrZoGBLTqgYlqbA/t6eLLFcwS8=
+
+Name: res/drawable-hdpi/dial_num_7_wht.png
+SHA1-Digest: QBaPRTQPGKcvqLwz4Dy1OoPhWMA=
+
+Name: res/drawable-xhdpi/ic_lockscreen_decline_activated.png
+SHA1-Digest: +CUc+FF6OIN4yNrTr/JoTg8WvJk=
+
+Name: res/drawable/btn_cancel_normal.png
+SHA1-Digest: sWIOXfN4HVruJAuIyekdri4HvVk=
+
+Name: res/drawable-xxxhdpi/aurora_small_silent_disable.png
+SHA1-Digest: 2nXKGYtY2rmPUCQ2fdMg2y8jO5w=
+
+Name: res/layout/otacall_card.xml
+SHA1-Digest: F5CcchkKhEVr6SguQRcuipXcpA4=
+
+Name: res/drawable-xxxhdpi/keypad_disabled.png
+SHA1-Digest: W+Im8mb1XoWmc0mwSXVD041zxBk=
+
+Name: assets/region/mob_region_134.data
+SHA1-Digest: E0yGufEG/ToYPhOUrVA7N7CebaY=
+
+Name: res/drawable/aurora_silent.xml
+SHA1-Digest: jrbgMr7cgb8XuSW64CduD6Bv5NA=
+
+Name: res/drawable-hdpi/dial_background_texture.png
+SHA1-Digest: zK/LehQyweMMcU58LZnEe2uC4+k=
+
+Name: res/drawable-hdpi/stat_sys_phone_call.png
+SHA1-Digest: U0qUhG/jkVt4yt2RS0l7rVmCQM4=
+
+Name: assets/region/mob_region_133.data
+SHA1-Digest: z2oGT/zE/h2AvtigZa+wyb3jSHQ=
+
+Name: res/layout/dialer_ms.xml
+SHA1-Digest: bpNDZk9amn1LLg5xGWOFNj16/0U=
+
+Name: res/layout/third_call_info.xml
+SHA1-Digest: Bp4lOpEvscrI4ZB9u1JLBgEOszg=
+
+Name: res/drawable-xxxhdpi/keypad_7_press.png
+SHA1-Digest: SmU2cy7i08oZzee8A0tZSzprOHg=
+
+Name: res/xml/callforward_options.xml
+SHA1-Digest: m0FsYEcrOzzyk905T1edSQCTKLs=
+
+Name: res/drawable-xxxhdpi/keypad_5.png
+SHA1-Digest: 9QsTWLv3G97KKjOkGUBmZ+s54HA=
+
+Name: res/drawable-xhdpi/ic_text_holo_dark.png
+SHA1-Digest: 0qF4k9ujZ8x/Y76grljKwJaGEpM=
+
+Name: res/drawable-xhdpi/ic_lockscreen_answer_rx_video_active.png
+SHA1-Digest: hJvMF6R4bFAoW0hAZpt89eUlCvo=
+
+Name: res/drawable-hdpi/ic_groups_holo_dark.png
+SHA1-Digest: tnO8RKvmpQwPD3ifdfWu6yd8Np4=
+
+Name: res/xml/msim_fdn_setting.xml
+SHA1-Digest: /yfDLWzGVAVc7Cox0I/WYhP4+Yw=
+
+Name: res/drawable-xxxhdpi/full_bg.png
+SHA1-Digest: Em8I6bafqD3Jypu/sCfHFVJRhp8=
+
+Name: res/drawable-hdpi/dial_num_8_wht.png
+SHA1-Digest: rtWBZCo1wMSD3LrVi/gWvEaBmP4=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_9.png
+SHA1-Digest: xAqNmMwZu2RAvQCnxdtCZ4Iqwa0=
+
+Name: res/layout/enable_sim_pin_screen.xml
+SHA1-Digest: QWYrr2BShRXep+JzyZ0vSYUJwgE=
+
+Name: res/drawable-xxxhdpi/sim_office_big_icon.png
+SHA1-Digest: 07wwOcjp/UlnQlPFIP462ixWzHM=
+
+Name: res/drawable-hdpi/dial_num_9_wht.png
+SHA1-Digest: DiASTqIwQWVApLyvfqabHOGjob4=
+
+Name: res/drawable-xxxhdpi/aurora_small_bluetooth_disable.png
+SHA1-Digest: wgKEY3Ont0HzMpkmEMeV3uM8JnA=
+
+Name: res/drawable-xxxhdpi/hide_keypad_press.9.png
+SHA1-Digest: nL3JVadRcCFjBNVzZ3CPOkNGWek=
+
+Name: res/drawable-xxxhdpi/photo_default_outgoing_simo.png
+SHA1-Digest: b/FB3W594g8QmpkwqMKhyGFksrM=
+
+Name: res/xml/gsm_umts_additional_options.xml
+SHA1-Digest: XAiZ//Xd34W+suYMTPl9LYKA14U=
+
+Name: res/layout/sim_ndp.xml
+SHA1-Digest: E2asnp6f41aS7pyj+ouLo8lMfyQ=
+
+Name: res/drawable-hdpi/dial_num_3_wht.png
+SHA1-Digest: 8cLuthJuHreNWZLA205tIHjRHBY=
+
+Name: res/drawable/btn_compound_switch.xml
+SHA1-Digest: YUqRdLbeOijpe4x8/0OHFU2L+so=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_3_press.png
+SHA1-Digest: 3pBtb988APkI5NO8nV49zcch8k0=
+
+Name: res/drawable-xxxhdpi/outgoing_gq3.png
+SHA1-Digest: UDVCKZY2E+PEm3bdTpW5WanbUVI=
+
+Name: res/drawable-xxxhdpi/aurora_small_bluetooth_press.png
+SHA1-Digest: EtMfl/ANk+gkI/dwTFRfAV/fMMM=
+
+Name: res/drawable/ic_lockscreen_answer_video.xml
+SHA1-Digest: GoV9yusaw1KRIKneCjjjqjo/dYA=
+
+Name: res/drawable/aurora_silent_icon.xml
+SHA1-Digest: ViNmYuA/Evk/sZ2Y6rMMf0iAE0k=
+
+Name: res/drawable/aurora_dial_num_2x.xml
+SHA1-Digest: xo5JODopoR1UQ9jlcQoXtt4mGJU=
+
+Name: res/drawable-xhdpi/ic_lockscreen_answer_tx_video_normal.png
+SHA1-Digest: 4jnRO+d3NQ60r90zUakTw34owx4=
+
+Name: res/drawable-xhdpi/stat_sys_phone_call_on_hold.png
+SHA1-Digest: EIlcs9bOS95iabl3Rf0TCSuar+8=
+
+Name: res/drawable-xxxhdpi/sim2_icon.png
+SHA1-Digest: RuQmTt5H01f4TRxN1tgMqJYQYxY=
+
+Name: res/drawable/btn_call_cancel.xml
+SHA1-Digest: 8n6atjW0SmsjJA+u9MVgbkJoPkk=
+
+Name: res/drawable-xxxhdpi/outgoing_gq2.png
+SHA1-Digest: ogOsQrCBJfcpmPGeWqIjrYC7D9A=
+
+Name: res/drawable-hdpi/picture_dialing.png
+SHA1-Digest: SMMiSILRPvC+TMjp0Ix0X9XzQTg=
+
+Name: assets/update.xml
+SHA1-Digest: iE2PTZwmTs/rXhMKVMY1nfFSYrE=
+
+Name: assets/region/mob_region_189.data
+SHA1-Digest: +jygB1UH3feumX5S5bFRsMJvMos=
+
+Name: res/drawable-xhdpi/dial_num_2_wht.png
+SHA1-Digest: U3pd6jbgJKvv7e+nfedPZ7/ninU=
+
+Name: res/drawable-xxxhdpi/aurora_ic_menu_settings_holo_light.png
+SHA1-Digest: CL2CFUvKBwsfvMhDBdYlpAGmI/c=
+
+Name: res/drawable-xxxhdpi/keypad_0_press.png
+SHA1-Digest: mhXzQC0a5mlIv7UbNjUCG6R6o2E=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_9_press.png
+SHA1-Digest: O9z6w6Gbjn+lNSqy2Q1HY1+E7rs=
+
+Name: res/drawable-xhdpi/ic_dial_action_call.png
+SHA1-Digest: cefY9ORwuFLT4XGqejYUnI3z9EU=
+
+Name: res/drawable/ic_lockscreen_answer_rx_video_activated_layer.xml
+SHA1-Digest: dZV1ewxPCUCR2/ObhsYxDks1raM=
+
+Name: res/drawable-xxxhdpi/aurora_small_keypad_checked.png
+SHA1-Digest: tQKSSGIh/JlOM81aSWtzZ4SEfeY=
+
+Name: res/xml/sip_edit.xml
+SHA1-Digest: A8SjNBb+ehA2EBWlnpFrhxt3Q1w=
+
+Name: res/layout/contact_screen.xml
+SHA1-Digest: 0Awa+ZFPoGZpvBDgRUUHa8P5eC0=
+
+Name: res/drawable-xxxhdpi/sim_dial_big_icon.png
+SHA1-Digest: hUTdrGNqURgcLr7RNhDlCvoVUc0=
+
+Name: res/drawable-xhdpi/ic_menu_contact.png
+SHA1-Digest: D5DUmktYcxoRdFst7C+/eI3A22U=
+
+Name: res/xml/gsm_umts_options.xml
+SHA1-Digest: jP4igAS8FpRMl6fWi9fIG/pQr6U=
+
+Name: res/xml/carrier_select.xml
+SHA1-Digest: /muP6w/0qbuDTEN7GmnrKMWam2Y=
+
+Name: res/drawable-hdpi/endcall_disable.png
+SHA1-Digest: Y6kezjqzhVnkl3IQECAt9IKs9VE=
+
+Name: res/drawable-hdpi/ic_lockscreen_answer_video_normal.png
+SHA1-Digest: JgSZp0KdksxaCRJ0Tv4wpvsgx/A=
+
+Name: assets/region/mob_region_132.data
+SHA1-Digest: aE5g0kAfLsH/uXPW/MLGTSRP724=
+
+Name: res/drawable-xxxhdpi/home_icon_small.png
+SHA1-Digest: bbhIzRdhc9ZaWkxi2L693HRfMhU=
+
+Name: res/drawable-hdpi/picture_emergency25x25.png
+SHA1-Digest: xgSmTB8VwKrgp9Seg1z6iIP2suM=
+
+Name: res/drawable-xhdpi/picture_busy.png
+SHA1-Digest: EN8AlaMoxnEncsKvNFNdIHJHKEs=
+
+Name: assets/region/mob_region_181.data
+SHA1-Digest: dfmdpiCo5VGUmC5XjYnXw5Eu0tU=
+
+Name: res/drawable-xxxhdpi/aurora_small_hebing.png
+SHA1-Digest: bgfZBPW/gr4rjfmkZYZxOTc5Ahs=
+
+Name: res/drawable-xxxhdpi/keypad_6_press.png
+SHA1-Digest: aK+pWit77iOhTIvVuVxJZgDw4mo=
+
+Name: res/anim/incallactivity_enter.xml
+SHA1-Digest: Zo+UD/3PZ6bDn66O0GYq/KIV9ew=
+
+Name: res/drawable-hdpi/ic_menu_contact.png
+SHA1-Digest: F+zo0Yd+90mSE2D6tkXD3IfjVOc=
+
+Name: res/color/ota_title_color.xml
+SHA1-Digest: pFdQn7SSC6C7OQIPFQAPyAkyw2Y=
+
+Name: res/layout/adn_list.xml
+SHA1-Digest: CU09CnG9JOggohns6NZU7qLVcXI=
+
+Name: res/drawable/ic_lockscreen_answer_tx_video_normal_layer.xml
+SHA1-Digest: nhhb8o3t1J8xzYbRaSCZPekxLMw=
+
+Name: res/drawable/btn_compound_vt.xml
+SHA1-Digest: zUHuIfT/mV/wA+rSQRc70+dz+k4=
+
+Name: res/xml/xdivert.xml
+SHA1-Digest: VTr3ln6Fv5lNClp2ZGeHTb+7r0U=
+
+Name: res/anim/right_to_left2.xml
+SHA1-Digest: BCpHz49fu0U6S5uoqbzM6+OFGKc=
+
+Name: res/drawable/clickable_dim_effect.xml
+SHA1-Digest: E56PQJ+qLpOM+xtxcAkgXUmU8D0=
+
+Name: res/drawable-hdpi/stat_notify_voicemail_sub2.png
+SHA1-Digest: aC714qmsaTwKKsTFZCpaDIt0voQ=
+
+Name: res/drawable-hdpi/ic_btn_next.png
+SHA1-Digest: FURWBfqqseC/4wn0nRZA7he5V/s=
+
+Name: res/drawable-hdpi/picture_busy.png
+SHA1-Digest: 6lUsDKPkVBb4o7DH1kmXygTR8zU=
+
+Name: assets/region/mob_region_184.data
+SHA1-Digest: BIuDn3MfyvzaLz60ds9aCsNq3fk=
+
+Name: res/drawable-xxxhdpi/keypad_1_press.png
+SHA1-Digest: sk9qljKGmzCKfwlwdJR82O7lXWI=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_3.png
+SHA1-Digest: te0wRviwsP90ZKfyT15VC5WiEXo=
+
+Name: res/layout/aurora_stk_msg_dialog.xml
+SHA1-Digest: fE5ulsJ+muRWYNy7FQAU9M4nuhM=
+
+Name: res/drawable-xhdpi/dial_num_5_wht.png
+SHA1-Digest: 6N3DoBZxi4TdnkZTyjS+IQMhqH4=
+
+Name: res/drawable-hdpi/ic_lockscreen_answer_normal.png
+SHA1-Digest: Zlzm/dW1YcmFiEW/cYAedMhQZ+I=
+
+Name: res/drawable-xxxhdpi/aurora_small_record_checked.png
+SHA1-Digest: YXF3CULKcdfPZkIJeLnSJUZ0wnY=
+
+Name: res/anim/scale4.xml
+SHA1-Digest: DAGCjO7dgvq5esXfnB/UFd8SeCA=
+
+Name: res/color/dtmf_color.xml
+SHA1-Digest: ULydzLVxHz8tpDk5UxPdWVFEGd4=
+
+Name: res/drawable-xxxhdpi/left_arrow.png
+SHA1-Digest: EObqEuM5w7/iRT8Bra8bySw8D+g=
+
+Name: res/xml/network_setting.xml
+SHA1-Digest: czCZbW7vWe9ZGG5lqKj8YNXFQYw=
+
+Name: res/drawable-xxxhdpi/aurora_call_forward_icon.png
+SHA1-Digest: hF9i011egrbrlH6W6XrWJyb1Qj4=
+
+Name: res/drawable/aurora_add_icon.xml
+SHA1-Digest: L0zBBAEQzZycmESwaUbBJjKbrtQ=
+
+Name: res/mipmap-xxhdpi/ic_launcher_phone.png
+SHA1-Digest: fHNjVFuXP9DSpMzSY94EAMC9Qys=
+
+Name: res/drawable-xhdpi/green_divider.png
+SHA1-Digest: ZAynMmQ41cBtd+kJI1tJoX2iBEU=
+
+Name: res/layout/dialpad.xml
+SHA1-Digest: AFdCJ1sGAkCroWWzyo41l2eKnx4=
+
+Name: res/drawable-xhdpi/endcall_active.png
+SHA1-Digest: AsGGjPr1QwV2M24eNI+OtxzNhzc=
+
+Name: res/drawable-xhdpi/dial_num_0_no_plus_wht.png
+SHA1-Digest: BLPJlDV0UzxJhOVc3te33ek5M44=
+
+Name: assets/region/mob_region_147.data
+SHA1-Digest: nHS2Ni7zVCmJbU5zvOQd8w8Y2AM=
+
+Name: res/drawable/aurora_keypad_0.xml
+SHA1-Digest: ph0jHKcvJ44KkJscMsFqFbBu1wA=
+
+Name: res/drawable-xhdpi/ic_active_state_dialer_holo_dark.png
+SHA1-Digest: 8ptcdwFBId3E3xVV+xSHbOCvYBE=
+
+Name: res/layout/aurora_emergency_dialer.xml
+SHA1-Digest: MLPyk2tGSCOx80oiHW6gRKWP81M=
+
+Name: res/drawable/ic_lockscreen_answer_tx_video.xml
+SHA1-Digest: 5PccV6RvsGdDxM6v2FAIP31Widk=
+
+Name: res/drawable-xxxhdpi/photoicon_unknown_circle.png
+SHA1-Digest: Xb+tY9BgEc++BcJWyaHIKPR8iFM=
+
+Name: res/drawable-xxxhdpi/qiehuan_press.png
+SHA1-Digest: pdPpkaTp79bK8vjRvca26p0oWMw=
+
+Name: assets/region/mob_region_139.data
+SHA1-Digest: ZIryGTrh/lWZnkgqGx5SYEDtVco=
+
+Name: res/drawable-xhdpi/ic_split_holo_dark.png
+SHA1-Digest: R92B3CaSuqr/+Sy+F/gr5HejA3U=
+
+Name: res/drawable-xhdpi/stat_sys_phone_call_forward.png
+SHA1-Digest: 2kaznqjUjFTLe67ucz1wkQ+hrVU=
+
+Name: res/drawable-hdpi/list_pressed_holo_light.9.png
+SHA1-Digest: AVyWywHVmqUlb40Lr0kWmnyG6x4=
+
+Name: res/drawable-xhdpi/stat_sys_phone_call.png
+SHA1-Digest: j0AFA4hvXbOaTxLDQbCi/UDyhoE=
+
+Name: res/drawable-xxxhdpi/aurora_small_mianti_press.png
+SHA1-Digest: iDX3DMu7DhNQ/WDPQzdr6QPOD88=
+
+Name: res/drawable-xxxhdpi/photoicon_unknown.png
+SHA1-Digest: vVa3OBINhCxdbZalW8S6FKpDfHg=
+
+Name: res/anim/shangyi.xml
+SHA1-Digest: ZAb1936iFlbUnMAQE5wbdTzw90s=
+
+Name: res/layout/call_card.xml
+SHA1-Digest: URL7XLy+4KS4X71GrhaKOQVtVRY=
+
+Name: res/drawable-xhdpi/ic_dial_end_call.png
+SHA1-Digest: iUUTpofNB2C4uYVVwVoWEsUmSKo=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_4_press.png
+SHA1-Digest: 2RlTgI+OLrCLKvOYRcZgEAPuq2Q=
+
+Name: res/anim/right_to_left.xml
+SHA1-Digest: epp5AO/8tOz68PP4rJhMRAxX+bY=
+
+Name: res/drawable/aurora_shape2.xml
+SHA1-Digest: dpmW4P3INsr0Ta/Hjoe2FYHJio4=
+
+Name: assets/region/mob_region_155.data
+SHA1-Digest: Y3nJVh9QItnfG9Vm5UV0020xZzo=
+
+Name: res/drawable/aurora_hold_icon.xml
+SHA1-Digest: R2sr8F8EvNizB6UhqU6XlAibZrI=
+
+Name: res/drawable-xxxhdpi/sim2_big_icon.png
+SHA1-Digest: 49wjf55eCsDrSFy5NP07DaJRsww=
+
+Name: res/drawable-xhdpi/ic_lockscreen_answer_activated.png
+SHA1-Digest: S6Bx10Y3wpfw8sRPN8hZPbG3YyY=
+
+Name: res/drawable-xhdpi/ic_incoming_call_bluetooth.png
+SHA1-Digest: LkEGRroAkIDHmqmpr0sty6ReOoE=
+
+Name: res/drawable/aurora_sms_reject_item_bg.xml
+SHA1-Digest: aMDZQApmqY1i0YRjJrcimuMZuGo=
+
+Name: res/drawable-hdpi/ic_lockscreen_answer_rx_video_active.png
+SHA1-Digest: hJvMF6R4bFAoW0hAZpt89eUlCvo=
+
+Name: res/drawable/aurora_keypad_pound.xml
+SHA1-Digest: 0Z9lxTNwMTTwtHcRk60BPM5AIDc=
+
+Name: res/drawable/aurora_contact_icon.xml
+SHA1-Digest: zZ+TliiQJxw84tXP1mc6elliO6g=
+
+Name: res/layout/enable_fdn_screen.xml
+SHA1-Digest: bTBf23Si2X1Tod3l03vobgtzjQc=
+
+Name: res/drawable-xxxhdpi/add_call_disabled.png
+SHA1-Digest: mfMphEUPgSlZm6WZC3D3v59VSGQ=
+
+Name: res/drawable-xxxhdpi/aurora_emergency_return.png
+SHA1-Digest: ydZfqQyFEStL8gA0/P8g9e+EWfU=
+
+Name: res/drawable/aurora_hold_button.xml
+SHA1-Digest: rz/A+/v32KF1CuZcwoS/LN/Gdo8=
+
+Name: res/drawable-xhdpi/dial_num_6_wht.png
+SHA1-Digest: wHwuZkV6DUZakn7m7kjCh4qQhfA=
+
+Name: res/drawable-xxxhdpi/home_icon.png
+SHA1-Digest: Jwn2QV4ezF/or1rNP5e0RowZFDE=
+
+Name: res/drawable-xxxhdpi/silent_press.png
+SHA1-Digest: wBlm3t6Kd1FwLPk0kv+RjmR9Ico=
+
+Name: res/drawable-hdpi/dial_num_pound_wht.png
+SHA1-Digest: R/jkMKK7XCzU0LRhdf7dju+kGNs=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_6_press.png
+SHA1-Digest: 8OOTEAtues9NsVQVd5XNGqmbzqw=
+
+Name: res/drawable-hdpi/ic_dial_end_call.png
+SHA1-Digest: dEeUO1lkUsO5SJeMmbcejfLev5U=
+
+Name: res/drawable-xhdpi/ic_incall_switch_holo_dark.png
+SHA1-Digest: CxVaAgWd/1dx5uY/54AQ0kCrETI=
+
+Name: res/drawable-xhdpi/ic_lockscreen_text_normal.png
+SHA1-Digest: Qg5nC8Tahz0iKXS4vrBzyGNiDj4=
+
+Name: res/drawable/aurora_keypad_5.xml
+SHA1-Digest: lDe3JFfKf+9v/SjOwfLebhVTSUw=
+
+Name: assets/client_num.data
+SHA1-Digest: v8ttjEsMVAm1iQDHQ+ClK3qmSjQ=
+
+Name: res/drawable-hdpi/ic_lockscreen_answer_rx_video_normal.png
+SHA1-Digest: v/9x5ICt0Yui3zC40bdHodMiedQ=
+
+Name: res/drawable-xxxhdpi/aurora_dial_del_press.png
+SHA1-Digest: AogLNEHAItKGwOS97yfSc0M6sF8=
+
+Name: res/drawable-xxxhdpi/right_arrow_disable.png
+SHA1-Digest: HGr8jZXE7LWg+ybCwq7MJSRmmbo=
+
+Name: res/drawable-xhdpi/stat_sys_phone_call_forward_sub3.png
+SHA1-Digest: gpAPpzVHrHeWgxS2a/SKZthrC58=
+
+Name: res/drawable/sim_selector.xml
+SHA1-Digest: +ec/VXtxMxtbo9uuRxFTPJmlkbo=
+
+Name: res/drawable-xxxhdpi/aurora_small_ear_checked.png
+SHA1-Digest: izvrGJJtPCHo3+i0q1pT6aS8rUE=
+
+Name: res/drawable-xxxhdpi/keypad_0.png
+SHA1-Digest: gq7zUdPFg2v8sXcggk8vLAdM+QQ=
+
+Name: res/drawable/bg_pressed.xml
+SHA1-Digest: NpaFhETXwZjY+MMXEqGna6WVf1I=
+
+Name: res/drawable-xhdpi/dial_num_1_no_vm_wht.png
+SHA1-Digest: n8T1ggo3mi2Q9UM17iOC28YR+yo=
+
+Name: res/drawable/aurora_hebing.xml
+SHA1-Digest: 7cSYM/LFCshmp6hTKD9azx6iVXE=
+
+Name: res/drawable/call_btn.png
+SHA1-Digest: LgTf+k9IDAHM37fWal81rMhBMSg=
+
+Name: res/anim/bottom_move_in.xml
+SHA1-Digest: iAqrVhLmEnPK9CCtXKXm2F2x9yU=
+
+Name: res/drawable-xhdpi/stat_sys_phone_call_forward_sub2.png
+SHA1-Digest: 6w6gAEW20R0dpkXj+aYlkf43uno=
+
+Name: assets/keyword.data
+SHA1-Digest: 2546cax7sH1gxlVSjS3oqeKjc0U=
+
+Name: res/drawable-xxxhdpi/sim_noti_2.png
+SHA1-Digest: s3LGBS2n5pIylGYyLndQFJ2X8p8=
+
+Name: res/drawable-xxxhdpi/hold_button_checked.png
+SHA1-Digest: T739GI4p6HpnJEVOtBpULttXnGY=
+
+Name: res/drawable-xxxhdpi/photo_default_outgoing_sim.png
+SHA1-Digest: OfTbuRdunUjFnC79yeLFfn3cn/w=
+
+Name: res/xml/msim_call_feature_sub_setting.xml
+SHA1-Digest: icCAdEVPx2k60+dUDNmRA3vuhwc=
+
+Name: res/xml/ims_settings_category.xml
+SHA1-Digest: a4ZDmc00kJ/TYs+0+NSfKs+CLB8=
+
+Name: res/drawable-xxxhdpi/keypad_9.png
+SHA1-Digest: vgEhw8ZJyLt78PVFGnMafRz/Yws=
+
+Name: res/drawable-xxxhdpi/sim_net_big_icon.png
+SHA1-Digest: D7Ws08/edjbAtdMnaAREg0DMtmo=
+
+Name: res/drawable-xhdpi/dial_num_9_wht.png
+SHA1-Digest: bd7ytUrZhXpz+M8rHME7J0Q4lVM=
+
+Name: res/drawable-xxxhdpi/reject_bg.png
+SHA1-Digest: I3uVyqa8XXPkF1cC2T6sOaCkPS0=
+
+Name: res/drawable/call_btn_press_highlight.png
+SHA1-Digest: Ex84luxWqIwcUjgqfQ3VrkYkNdo=
+
+Name: res/drawable-xhdpi/dial_num_7_wht.png
+SHA1-Digest: CEI/EV04AWvRcDW7s+O7SD5k3Qs=
+
+Name: res/drawable-xhdpi/stat_sys_vp_phone_call.png
+SHA1-Digest: fhgZTxH5ALvF8cPvuPOsnZqc9u0=
+
+Name: res/xml/cell_broadcast_sms.xml
+SHA1-Digest: /yaqkhdWlFSylO50UvLMS+iIquY=
+
+Name: res/layout/sim_import_list_entry.xml
+SHA1-Digest: KN7syP5XemUmtCnBy8wKbudliSU=
+
+Name: res/layout/extra_button_row.xml
+SHA1-Digest: vc06M9cPW65UQ9hzCgX8osuWolE=
+
+Name: res/drawable/aurora_btn_back.xml
+SHA1-Digest: AYOH39JG4K749M5wT6SllfgM7qs=
+
+Name: res/drawable-xxxhdpi/keypad_3_press.png
+SHA1-Digest: m31Twq06oMTha2nLUl2ZH3UjwqU=
+
+Name: res/layout/aurora_pick_sim_icon.xml
+SHA1-Digest: MOt8Xb9BTdSq+/mP+seJwF80L3A=
+
+Name: res/drawable/aurora_cf_button.xml
+SHA1-Digest: 2rSxL+4QpQCSrmAc6z8FGozki7Y=
+
+Name: res/drawable-xxxhdpi/record.png
+SHA1-Digest: m/K9QZBVkeuPoYt1aX9MacE3oc4=
+
+Name: res/drawable/highlight_btn_call.xml
+SHA1-Digest: gjd1gU+N/59IUoTPj9+LQ8EwKLY=
+
+Name: res/drawable-xxxhdpi/smallsim1.png
+SHA1-Digest: jxkeUIBBRAVBRB6AuJ2LuPiSk9s=
+
+Name: res/drawable-xxxhdpi/hold_button_disabled.png
+SHA1-Digest: xjJ93a3BhjXScjdAI0OZoRBrrik=
+
+Name: res/drawable/ic_lockscreen_text.xml
+SHA1-Digest: ZMTTvdqjBT7gRn4PooVrU4pxEjg=
+
+Name: res/drawable-xxxhdpi/mianti_press.png
+SHA1-Digest: +dLD6Px2fFSapw0j0CzUpNNxNdM=
+
+Name: assets/localinfo/1.txt.data
+SHA1-Digest: wsFA2qysHhR+2TI5qDuANIioBaE=
+
+Name: res/drawable-xxxhdpi/phone_icon_small.png
+SHA1-Digest: 0mm9bFCnbveEpvAyIn+a/3+iZXI=
+
+Name: res/drawable-xxxhdpi/input_edit_text.9.png
+SHA1-Digest: MFHNdQGvMVSs7w9kxB9XX85dBdA=
+
+Name: res/drawable/ic_zoom_out.xml
+SHA1-Digest: AqgujrROxZGOviUpTyZkP+O2WF8=
+
+Name: res/drawable-xxxhdpi/sim1_big_icon.png
+SHA1-Digest: GguAt3gA0UigeBxmi6QBRYsndaA=
+
+Name: res/layout/custom_misscall_notification.xml
+SHA1-Digest: s7dQwIgVwRc/7gTDrKq9BkW82Z4=
+
+Name: assets/region/mob_region_135.data
+SHA1-Digest: HR8rPNBNqVjyrJAKvkAW9DVdQYQ=
+
+Name: res/drawable-xxxhdpi/sim_noti_phone.png
+SHA1-Digest: JIAuJniyDWk/4qEbhWgXlM8Qp1A=
+
+Name: res/drawable-xhdpi/list_focused_holo.9.png
+SHA1-Digest: HYmwy/+/4r9X8G6BgvaYkgKxhyc=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_5.png
+SHA1-Digest: skPJ9Y2dNCBiYNLI1ahcD2XVsn8=
+
+Name: res/drawable-hdpi/ic_zoom_slider.png
+SHA1-Digest: deU77060ecT87uD2pJCM8gzpfAY=
+
+Name: res/drawable-xxxhdpi/incoming_gq4.png
+SHA1-Digest: OTP+qNB3psAwPdk+BDzr1fXWWr0=
+
+Name: res/drawable-hdpi/ic_sound_bluetooth_holo_dark.png
+SHA1-Digest: 6JaD55QX6N8eGjr2qrOUV25ZaNw=
+
+Name: res/drawable-xxxhdpi/keypad_6.png
+SHA1-Digest: MZcyW8cW3PypwIpoqNBAYcf7qvw=
+
+Name: res/drawable-xhdpi/ic_btn_back.png
+SHA1-Digest: OqViFiE2Wht/i0oSKuXb+MfJhwU=
+
+Name: res/drawable-xxxhdpi/smsreject_circle.png
+SHA1-Digest: U8l2eHrmsdcVjYDPLvg+DwDfZJg=
+
+Name: assets/region/mob_region_145.data
+SHA1-Digest: sZ9WCHbcyNxJhiUFlFmQnGH18JE=
+
+Name: res/drawable-xhdpi/stat_notify_voicemail_sub2.png
+SHA1-Digest: aC714qmsaTwKKsTFZCpaDIt0voQ=
+
+Name: res/drawable-xxxhdpi/sim1_icon.png
+SHA1-Digest: Fqx7cWlVeNay7taMdlcJqL20hZc=
+
+Name: res/drawable-xhdpi/ic_add_contact_holo_dark.png
+SHA1-Digest: M5APJ+LQAEWc2rJa3f79mTrWbAs=
+
+Name: res/xml/aurora_multi_sim_settings_v2.xml
+SHA1-Digest: luQFubtaEOjBHuIcx68R5ZAi2tE=
+
+Name: res/layout/change_sim_pin_screen.xml
+SHA1-Digest: DdRwyJprfo+ARVpFpBCXafLjjNY=
+
+Name: res/layout/aurora_cf_update_icon.xml
+SHA1-Digest: joz356EYbtWjAQAiITTI6BG8rXw=
+
+Name: assets/regex.data
+SHA1-Digest: PMivJbpCxpKiExGV2B2yqAr+2yM=
+
+Name: res/xml/fdn_setting.xml
+SHA1-Digest: BrRwRwCfFZo6l+3rahbLD5NaAvE=
+
+Name: res/drawable-xhdpi/list_selector_disabled_holo_dark.9.png
+SHA1-Digest: DdbxkH04CKw8kZDBH8buX43Cz3A=
+
+Name: res/drawable-xhdpi/ic_ab_dialer_holo_dark.png
+SHA1-Digest: uxxtrp+lPIOXcGchPIdFJ09XnrY=
+
+Name: res/drawable-xxxhdpi/keypad_2.png
+SHA1-Digest: FRvCG1P8MSjprsY3Ij0NUZyrPYE=
+
+Name: res/drawable/ic_lockscreen_answer_normal_layer.xml
+SHA1-Digest: eVF2pUWiMUFhxibeq8p/7W3+xhI=
+
+Name: res/drawable-xxxhdpi/aurora_small_contact_disable.png
+SHA1-Digest: dytN+sg+G/QcmDkLS6jT7APO0qk=
+
+Name: assets/region/mob_region_151.data
+SHA1-Digest: zMm+/GUWZnxPn0c5/iD2Ng915iw=
+
+Name: assets/region/mob_region_170.data
+SHA1-Digest: BRlwjvW9bMxaGSQTSYzlNqvmz1Y=
+
+Name: res/anim/scale11.xml
+SHA1-Digest: 86v8T7r88Rvqm1CKO3QmbECWbwU=
+
+Name: res/drawable-xxxhdpi/reject_launcher.png
+SHA1-Digest: bBxofhk4XeNgsDpic7bgRYkcSsc=
+
+Name: res/drawable-xxxhdpi/keypad_star_press.png
+SHA1-Digest: py/CZeq9ZBnin4Rgq+iHjpoADfk=
+
+Name: res/drawable-xxxhdpi/hebing.png
+SHA1-Digest: 8oe8CI9ORbJJTb5NoYsYSNW85p0=
+
+Name: res/drawable-hdpi/ic_bluetooth_holo_dark.png
+SHA1-Digest: S1WuI8TONXDxqz4K0Ap2ziQa+AA=
+
+Name: res/drawable-xhdpi/list_pressed_holo_dark.9.png
+SHA1-Digest: 6mFx7W/WZzwz8KaB8gz1FwlUflU=
+
+Name: res/drawable-xxxhdpi/aurora_small_hold_press.png
+SHA1-Digest: /8zy+GaJjgSoupUow5ARE0zsycg=
+
+Name: resources.arsc
+SHA1-Digest: 9g6QJ0OkGK/jgzFxlVuHReQbXAY=
+
+Name: res/drawable-xxxhdpi/aurora_small_qiehuan_press.png
+SHA1-Digest: olf2RbDxMKxHvLWgdHyUdIPwphI=
+
+Name: assets/region/mob_region_185.data
+SHA1-Digest: wCQf2htMUpUDlgqeQvlCByfT46E=
+
+Name: res/drawable-xxxhdpi/keypad_star.png
+SHA1-Digest: 6q63d1umGIiHsKwtM1hRM/SX7Q8=
+
+Name: res/anim/activity_close_exit.xml
+SHA1-Digest: e7uhT1drq0udREt44RpPIfgjGeE=
+
+Name: res/drawable/ic_lockscreen_answer.xml
+SHA1-Digest: N4kfNcBOIebUUnr+c0/Cnb8zNQs=
+
+Name: res/drawable-xxxhdpi/hold_button_press.png
+SHA1-Digest: ix6G+zgFdqbryrmX2be7/VAP9Hk=
+
+Name: res/drawable-hdpi/ic_lockscreen_text_activated.png
+SHA1-Digest: GELaAGJ00kgQxS83YHvm0T4tyhc=
+
+Name: res/drawable-hdpi/ic_end_call_holo_dark.png
+SHA1-Digest: Ba+cV5mbWl7Pulp3TP4DjVHXLnY=
+
+Name: res/drawable-hdpi/btn_call_pressed.png
+SHA1-Digest: WE7JnclpzRZSQy+dNrU+Nr+GS3w=
+
+Name: res/drawable/aurora_bluetooth_icon.xml
+SHA1-Digest: HuWSGJo4VPgZAmJ6K0xRHdLE+2g=
+
+Name: assets/region/mob_region_131.data
+SHA1-Digest: 9M+UOJ3zsp2BCYqaN1hAikVortI=
+
+Name: res/drawable-xxxhdpi/photo_bg_incall.png
+SHA1-Digest: kRNmOzRhoOYIYZNbSZmA3ST9DEU=
+
+Name: res/drawable/btn_compound_audio.xml
+SHA1-Digest: 6S4s6J5OmmV7ND3jLbe5saPndAM=
+
+Name: res/drawable-hdpi/stat_sys_phone_call_forward_sub1.png
+SHA1-Digest: ghMv8t3OeE3V7746WR/SQVUyeQc=
+
+Name: res/drawable-xxxhdpi/full_reject.png
+SHA1-Digest: /vkjVogK8iyW0f90LwKm9JBkS5Q=
+
+Name: res/drawable-zh-CN-xxxhdpi/wenzi2.png
+SHA1-Digest: S4Hm+Tt+yj7e37ValE9Mhr2Tvr0=
+
+Name: res/drawable-hdpi/ic_dial_action_delete.png
+SHA1-Digest: GkXAtl3Q2ZjduFalpIf8UwVBdg4=
+
+Name: res/drawable/ic_lockscreen_answer_video_activated_layer.xml
+SHA1-Digest: w3CiueeZML+rdNHiGbch8dsu0fg=
+
+Name: res/drawable/aurora_keypad_9.xml
+SHA1-Digest: EnKvxyt4rHa9qiwaCCss7ZlM+No=
+
+Name: res/drawable-xhdpi/ic_mute_holo_dark.png
+SHA1-Digest: OLw8WljC0DG/xj7nnOeo37UPQb0=
+
+Name: res/drawable-hdpi/stat_notify_voicemail_sub3.png
+SHA1-Digest: +MtJuJnWQyhhAXj98ti9KsdUTwM=
+
+Name: res/drawable/aurora_dial_returnx.xml
+SHA1-Digest: HflYCO9nesUWDgKup4H7f+/2+3Y=
+
+Name: res/drawable-xxxhdpi/wenzi1.png
+SHA1-Digest: V+v3wDFeZWLWTvaebtXQaid0I4c=
+
+Name: res/drawable-zh-CN-xxxhdpi/wenzi1.png
+SHA1-Digest: snsWWHYx+h4RpDtLfqT1IW5vbbY=
+
+Name: res/drawable/ic_lockscreen_answer_rx_video.xml
+SHA1-Digest: +wMiNIctYo1mzP+WkFFpN70+Dh8=
+
+Name: res/drawable-hdpi/ic_zoom_in_holo_dark.png
+SHA1-Digest: AL9g8uPycU+4oHs2s2479/vYKvI=
+
+Name: res/drawable-hdpi/ic_sound_handset_holo_dark.png
+SHA1-Digest: 6ypJG5DT0AXgVV6LjZbkjQH93pE=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_6.png
+SHA1-Digest: V4Orxd7GH4eTZtch5ILRljRixQg=
+
+Name: res/drawable-xxxhdpi/contact_disabled.png
+SHA1-Digest: MOQ18LbnjubBd6brQxOQFtu0+ng=
+
+Name: res/drawable-xxxhdpi/aurora_stat_notify_missed_call.png
+SHA1-Digest: CTOE+G/H2YsaXtm5xo0dr6HT53c=
+
+Name: res/drawable-xxxhdpi/photo_default_simh.png
+SHA1-Digest: 89MRPF/9oRzGS3V+lnRe2xyO0VI=
+
+Name: res/anim/incallactivity_exit.xml
+SHA1-Digest: lZvaqXJFTcQ+tIQQvc3wT4Iw450=
+
+Name: res/drawable/aurora_dial_num_0x.xml
+SHA1-Digest: 6ojqvuzju77tYjWV5hlxRLBQMeQ=
+
+Name: res/layout-land/incall_touch_ui_cdma.xml
+SHA1-Digest: b13ZiDC5j6wiW+CyN/e/1v4zG0w=
+
+Name: res/drawable-xhdpi/ic_more_indicator_holo_dark.png
+SHA1-Digest: VtXEX7VtZ4Nvuvm6VV4JbiYO+ek=
+
+Name: res/drawable/aurora_dial_num_6x.xml
+SHA1-Digest: PZCDykZJW53sffcrlIA3M6wKQhg=
+
+Name: res/layout/fake_phone_activity.xml
+SHA1-Digest: WZT/OroJBI0Faerqx9oQHxhTbH4=
+
+Name: res/drawable/aurora_dial_num_3x.xml
+SHA1-Digest: CUhyW7M9vlVqUM61uKSc90Qm5do=
+
+Name: res/drawable-hdpi/ic_add_contact_holo_dark.png
+SHA1-Digest: /H+P4M7r8UNXCOwYW/6uzfT8Znw=
+
+Name: res/drawable-hdpi/ic_hold_pause_holo_dark.png
+SHA1-Digest: iKdbSKUKLuovCfwJL/0XpZhq7Ak=
+
+Name: res/drawable-xxxhdpi/hold_button.png
+SHA1-Digest: OnDUjp3y/lrtaSoajer9tRb93bY=
+
+Name: assets/region/mob_region_152.data
+SHA1-Digest: a4hOjXpIAs/teB530RdwevIPqD8=
+
+Name: assets/localinfo/index.data
+SHA1-Digest: cTt7lbXQn7dclKsBfGShK2W92LI=
+
+Name: res/drawable-xxxhdpi/smallsimo.png
+SHA1-Digest: HjeBy6msLtVbyRYfmF2ZxYd5s8s=
+
+Name: res/xml/msim_network_setting.xml
+SHA1-Digest: D+qikVFtkOKMFXnEu5QNj5AeYEg=
+
+Name: res/drawable-hdpi/ic_dialpad_holo_dark.png
+SHA1-Digest: kEYIl6Fk6sbt52WllmwhCiBOXj8=
+
+Name: res/drawable-xxxhdpi/office_icon.png
+SHA1-Digest: 6SsHa0qpCr2cFEd2pht1Nr9epNc=
+
+Name: res/drawable-xxxhdpi/aurora_small_contact_press.png
+SHA1-Digest: fNUT4JdjGcZzZ6zNmqFYts0kdjM=
+
+Name: res/drawable-xhdpi/ic_groups_holo_dark.png
+SHA1-Digest: Jmz0Hh3yxg2xF11HY+wKBq76jVs=
+
+Name: res/drawable-xhdpi/picture_emergency25x25.png
+SHA1-Digest: SFhd2UepDBmIcrfeM/GA2nLdWFU=
+
+Name: res/drawable-xxxhdpi/net_icon.png
+SHA1-Digest: f0jyKjBMZoPCLLfCy4uNEkSn/X8=
+
+Name: res/drawable-xxxhdpi/touxiangquan.png
+SHA1-Digest: +Gat3eEPeqHjOLnHrIfEc3cNrYk=
+
+Name: res/drawable-xxxhdpi/aurora_small_silent_checked.png
+SHA1-Digest: Et/5GYPvGzKQFNk42kYHzbmqc+o=
+
+Name: res/drawable-xxxhdpi/right_arrow.png
+SHA1-Digest: InWNanRnh2+WXp6IlZUsapD6Egk=
+
+Name: res/drawable-hdpi/ic_split_holo_dark.png
+SHA1-Digest: OSiJRO1JMPKPyGDD4Z80K/vOP0g=
+
+Name: res/drawable-xxxhdpi/sim_noti_home.png
+SHA1-Digest: yKHgXYUmOSmGicLrjGYlbK9rjbk=
+
+Name: res/drawable-xxxhdpi/aurora_small_mianti.png
+SHA1-Digest: YoUE9IGEYqefr1bDAePfDKXlt+w=
+
+Name: res/drawable-xxxhdpi/stat_sys_phone_call_forward_sub2.png
+SHA1-Digest: 6w6gAEW20R0dpkXj+aYlkf43uno=
+
+Name: res/drawable-xxxhdpi/sim1_icon_small.png
+SHA1-Digest: k/d3gkhW9bNEz9gwwcy4b/oVlOY=
+
+Name: res/drawable-xhdpi/ic_hold_pause_holo_dark.png
+SHA1-Digest: Z6CnkfI0uqX1QG/+S5mq2z77Ztc=
+
+Name: res/drawable-xxxhdpi/end_call.9.png
+SHA1-Digest: eWNXDHs36iBIF68KGiEC6pv4R78=
+
+Name: res/anim/bottom_move_out.xml
+SHA1-Digest: lHJZVDUztxxhFXil8PjdwePGVMk=
+
+Name: res/drawable-xxxhdpi/net_icon_small.png
+SHA1-Digest: 8zM9U7+Zp2kR4BkOuuDyRpbK/Fw=
+
+Name: res/drawable-xxxhdpi/sim_noti_office.png
+SHA1-Digest: tnKKPP6Ltl9tQ1lLT/1DCmnxr/c=
+
+Name: res/drawable-xxxhdpi/aurora_small_keypad.png
+SHA1-Digest: UTreZ272uuz+cYZvf/eZM/DwQRY=
+
+Name: res/drawable-xxxhdpi/aurora_dial_call_press.png
+SHA1-Digest: pUkIhj1ixHLQQ0AjvPTkX6UjP7Q=
+
+Name: res/xml/cdma_options.xml
+SHA1-Digest: Z07xPCZoMluafdPW5lDMvlDwLJE=
+
+Name: res/drawable-xxxhdpi/aurora_dial_call.png
+SHA1-Digest: gGvQTKnMDWWlCvaOkvBJ8++g8nE=
+
+Name: res/drawable-xxxhdpi/aurora_small_add.png
+SHA1-Digest: YNhq/lSnJmoeuu0JAXisKHBo9Qg=
+
+Name: res/xml/sip_advanced_edit.xml
+SHA1-Digest: EuRx+sKRV9/tFAMCj0P8ZJX7xyU=
+
+Name: res/drawable-xxxhdpi/photo_default.png
+SHA1-Digest: pWbLv4C/JYirKcCEkvY00nOWXo4=
+
+Name: res/drawable-hdpi/stat_notify_voicemail_sub1.png
+SHA1-Digest: r41l5ZGf2MNqNDlnmIisQCHNU6c=
+
+Name: res/drawable-xxxhdpi/aurora_small_hold_disable.png
+SHA1-Digest: Y16v3Q33qx4/ST07/NjweQ8+y4U=
+
+Name: res/drawable-xxxhdpi/aurora_small_silent.png
+SHA1-Digest: 1+Rgpj0pag806puL3OCmr65tZx4=
+
+Name: res/drawable-xhdpi/btn_call_pressed.png
+SHA1-Digest: 6AeYMgs/YBc/7f0Dm91Y8PoJZqk=
+
+Name: assets/region/mob_region_index.data
+SHA1-Digest: +zXnTnl8+c1Md3nuylMpnjOVd3Q=
+
+Name: res/layout/sip_settings_ui.xml
+SHA1-Digest: 9+PvVUR9ctNBIkU8JN1swADYlLA=
+
+Name: res/drawable-xxxhdpi/keypad_8_press.png
+SHA1-Digest: akxZPP0o8BeAAdOmvVUtGxdOzPI=
+
+Name: res/drawable-xxxhdpi/sim_noti_1.png
+SHA1-Digest: v1CSUUrGYCebW4IMk02vgLGmsBI=
+
+Name: res/drawable/call_btn_press.png
+SHA1-Digest: JX6R3gsEviZLXyU7kiMlG9rLi0s=
+
+Name: res/drawable/aurora_record.xml
+SHA1-Digest: WlxXbdCKCHBI5s2QK/us8BWWUtE=
+
+Name: res/drawable-hdpi/dial_num_1_no_vm_wht.png
+SHA1-Digest: kHhQJuksnE7nW/kDfmaGRO01pig=
+
+Name: res/drawable/aurora_settings_right_arrow.xml
+SHA1-Digest: 02GC/qKb1vLegWFFO6TYyo9UGJE=
+
+Name: res/drawable-xxxhdpi/photo_default_outgoing_simp.png
+SHA1-Digest: LNvXh5ep+4FBqeDqdp1JT0a5rhg=
+
+Name: res/drawable-hdpi/ic_lockscreen_answer_activated.png
+SHA1-Digest: x8MYsz9KOKnjO/jknwCTUeL1n2A=
+
+Name: res/anim/activity_close_enter.xml
+SHA1-Digest: Ffnw0eDVsLwrm78sq69kfiyYcOc=
+
+Name: res/drawable-xxxhdpi/aurora_small_hebing_checked.png
+SHA1-Digest: LgCCxmXeg4znmYd1+OEAXby127I=
+
+Name: res/drawable/aurora_dial_num_5x.xml
+SHA1-Digest: zwmE+1B1EECXwX2KBJuNG4S6Tao=
+
+Name: res/xml/cdma_call_privacy.xml
+SHA1-Digest: s9ONxIQRHAbjB1JRKjzZ6LgIyRY=
+
+Name: res/drawable/aurora_mianti.xml
+SHA1-Digest: uXr37So/QA+RIHlonbjKIS9csh4=
+
+Name: res/drawable-xhdpi/ic_lockscreen_text_activated.png
+SHA1-Digest: 8t0JkMWf2uA6SwVWGvAKxFo1Y1Q=
+
+Name: res/drawable-xhdpi/ic_lockscreen_answer_rx_video_normal.png
+SHA1-Digest: v/9x5ICt0Yui3zC40bdHodMiedQ=
+
+Name: res/drawable-xxxhdpi/aurora_dial_num_star.png
+SHA1-Digest: w70Hza6JaumliD0JtbpQdT3lO6w=
+
+Name: assets/localinfo/tag.data
+SHA1-Digest: Kp0NrHFshNAGaK3dc9/Io6n3iGw=
+
+Name: res/drawable-hdpi/ic_zoom_out_holo_light.png
+SHA1-Digest: jc8Sj9coQbi6McdoKw0iYsB+8/M=
+
+Name: res/drawable-hdpi/ic_lockscreen_answer_tx_video_active.png
+SHA1-Digest: swtxMdUFKk264rogKWhTg3CiLT4=
+
+Name: res/layout/emergency_dialer.xml
+SHA1-Digest: 9h3cQN2D2t4G3ISpV/MztqU8dck=
+
+Name: res/menu/respond_via_message_settings_menu.xml
+SHA1-Digest: B1xj0xaXgiWHe0niDFSg/HdNsrQ=
+
+Name: res/drawable/aurora_add_call.xml
+SHA1-Digest: RtgsTYm20L9NXCMabXT1NqcHn18=
+
+Name: res/xml/aurora_multi_sim_settings.xml
+SHA1-Digest: Bgz8d/NkLZ6WwISijHSxv0Wuw34=
+
+Name: res/layout/incall_touch_ui_msim.xml
+SHA1-Digest: GgApWrU2up4OQXzWU6LihiiCEO0=
+
+Name: res/drawable-hdpi/ic_sound_off_speakerphone_holo_dark.png
+SHA1-Digest: /V3Lkam7RvJEAtqW5gn2hPNqoVU=
+
+Name: res/drawable-hdpi/dial_num_star_wht.png
+SHA1-Digest: 6TpO3LwmWwTX/YHPB0w/v3ZOT/0=
+
+Name: res/drawable-xxxhdpi/aurora_stat_sys_phone_call.png
+SHA1-Digest: gQ+zvW2lSeP3BO03YuqxjOKZLyY=
+
+Name: res/drawable-hdpi/stat_sys_vp_phone_call_on_hold.png
+SHA1-Digest: u64IjnYm+R5YGdbIus6wp3qGv4Q=
+
+Name: res/layout/first_call_info.xml
+SHA1-Digest: 5rG5NpH/JJb/lmapcCP/1mfEORM=
+
+Name: res/drawable-xxxhdpi/smallsime.png
+SHA1-Digest: uEiQjZfbW4KHpFaSBdU9bDGfUPI=
+
+Name: res/drawable-hdpi/stat_sys_phone_call_on_hold.png
+SHA1-Digest: u64IjnYm+R5YGdbIus6wp3qGv4Q=
+
+Name: res/layout/fourth_call_info.xml
+SHA1-Digest: +ljfSTngM4i83GdBUlL5RhxUUAU=
+
+Name: res/drawable/aurora_ear_icon.xml
+SHA1-Digest: h0s74tEXznJzinCsZj9nop+zobc=
+
+Name: res/anim/huadong.xml
+SHA1-Digest: u2+cSmPbsYeo1EidW7D0Np+30j8=
+
+Name: res/drawable-xxxhdpi/aurora_stat_sys_phone_call_press.png
+SHA1-Digest: NNOJ0qiTDlpPAo7tNDx4oVeCFl4=
+
+Name: res/drawable/aurora_ic_text_holo_dark_button.xml
+SHA1-Digest: HjMGBAOBJi7kh/BCYcrWpwXJCog=
+
+Name: res/drawable-xhdpi/ic_sound_bluetooth_holo_dark.png
+SHA1-Digest: jSUNAjYffbWDrZA3aqWVTGGPjyU=
+
+Name: res/drawable-nodpi/background_dial_holo_dark.png
+SHA1-Digest: rnQ7cKEUdyUpN0Zn9Bg6wbj1gZ4=
+
+Name: res/drawable-hdpi/endcall_background_texture.png
+SHA1-Digest: H+hId6Y2J9dsuiiR1TT9tgWhtJg=
+
+Name: res/drawable-hdpi/dial_num_0_no_plus_wht.png
+SHA1-Digest: x471dGFTIWewxh+X99jmzHBOxrs=
+
+Name: res/anim/right_move_in.xml
+SHA1-Digest: JfolKqa0v63i1AuIA9+g9Icai04=
+

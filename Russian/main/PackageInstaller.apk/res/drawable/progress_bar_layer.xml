@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="android:progressDrawable">@drawable/progress_horizontal</item>
+    <item name="android:indeterminateDrawable">@anim/waiting</item>
+</layer-list>

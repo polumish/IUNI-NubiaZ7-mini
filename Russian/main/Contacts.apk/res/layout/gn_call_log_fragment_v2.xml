@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/calllog_layout" android:paddingLeft="@dimen/dialpad_horizontal_margin" android:paddingRight="@dimen/dialpad_horizontal_margin" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <include layout="@layout/wait_cursor" />
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <View android:id="@id/action_bar_size_offset" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize" />
+                <include android:id="@id/gn_spinner_separator" layout="@layout/gn_spinner_separator" />
+            </FrameLayout>
+            <aurora.widget.AuroraListView android:id="@android:id/list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/gn_dialer_search_outer_margin" android:layout_marginRight="@dimen/gn_dialer_search_outer_margin" />
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="?android:textColorSecondary" android:gravity="center" android:id="@android:id/empty" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

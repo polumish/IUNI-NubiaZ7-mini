@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="aurora_editor_field_text_size">16.0sp</dimen>
+    <dimen name="aurora_group_entrance_height">56.0dip</dimen>
+    <dimen name="aurora_two_lines_list_view_item_height">59.0dip</dimen>
+    <dimen name="aurora_contact_list_header_text_size">14.0sp</dimen>
+    <dimen name="aurora_alphbet_index_star_font_size">20.0sp</dimen>
+    <dimen name="aurora_alphbet_index_font_size">12.0sp</dimen>
+    <dimen name="aurora_alphbet_prompt_text_font_size">6.0sp</dimen>
+    <dimen name="aurora_alphbet_height">415.0dip</dimen>
+    <dimen name="aurora_empty_contact_button_padding_top">117.0dip</dimen>
+    <dimen name="aurora_empty_contact_text_size">20.0sp</dimen>
+    <dimen name="aurora_call_log_animate_move_length_1">29.25dip</dimen>
+    <dimen name="aurora_zoom_clip_radius">168.0dip</dimen>
+    <dimen name="aurora_zoom_clip_ccy">215.0dip</dimen>
+    <dimen name="aurora_list_view_left_margin">12.0dip</dimen>
+    <dimen name="aurora_call_log_text_width">232.0dip</dimen>
+    <dimen name="aurora_call_log_count_margin">5.0dip</dimen>
+    <dimen name="aurora_tab_height">43.0dip</dimen>
+</resources>

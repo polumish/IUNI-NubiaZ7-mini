@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="?android:listChoiceBackgroundIndicator" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceSmall" android:textSize="18.0sp" android:ellipsize="end" android:id="@id/item_address" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="6.0dip" android:maxLines="2" android:layout_toLeftOf="@id/radio_btn" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+    <RadioButton android:gravity="center" android:id="@id/radio_btn" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+</RelativeLayout>

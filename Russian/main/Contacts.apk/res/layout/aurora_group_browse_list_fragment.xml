@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/wait_cursor" />
+    <view android:scrollbarStyle="outsideOverlay" android:id="@id/list" android:paddingLeft="@dimen/gn_contact_list_item_left_margin" android:paddingRight="@dimen/gn_contact_list_item_right_margin" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="0.0dip" android:listSelector="@android:color/transparent" android:cacheColorHint="@android:color/transparent" android:divider="@null" android:layout_weight="1.0" class="com.android.contacts.widget.AutoScrollListView" />
+    <LinearLayout android:orientation="vertical" android:id="@id/empty" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="@dimen/aurora_empty_contact_text_size" android:textColor="@color/aurora_empty_contact_text_color" android:gravity="center_horizontal" android:paddingTop="@dimen/aurora_empty_contact_text_padding_top" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/aurora_no_group_show" />
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/add_accounts" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="?android:textColorSecondary" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/no_accounts_message_margin" android:text="@string/noAccounts" />
+        <aurora.widget.AuroraButton android:textAppearance="?android:textAppearanceMedium" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/add_account_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/contacts_unavailable_add_account" />
+    </LinearLayout>
+</LinearLayout>

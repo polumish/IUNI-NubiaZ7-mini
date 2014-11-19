@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.android.packageinstaller">
+    <original-package android:name="com.android.packageinstaller"/>
+    <uses-permission android:name="android.permission.INSTALL_PACKAGES"/>
+    <uses-permission android:name="android.permission.DELETE_PACKAGES"/>
+    <uses-permission android:name="android.permission.CLEAR_APP_CACHE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.CLEAR_APP_USER_DATA"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <application android:allowBackup="false" android:label="@string/app_name" android:theme="@android:style/Theme.DeviceDefault.DialogWhenLarge.NoActionBar">
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:name="com.android.packageinstaller.PackageInstallerActivity" android:screenOrientation="portrait" android:theme="@com.aurora:style/Theme.aurora.Light">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <action android:name="android.intent.action.INSTALL_PACKAGE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="content"/>
+                <data android:scheme="file"/>
+                <data android:mimeType="application/vnd.android.package-archive"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.INSTALL_PACKAGE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="content"/>
+                <data android:scheme="file"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.android.packageinstaller.InstallAppProgress" android:screenOrientation="portrait" android:theme="@com.aurora:style/Theme.aurora.Light"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:name="com.android.packageinstaller.UninstallerAlertActivity" android:screenOrientation="portrait" android:theme="@com.aurora:style/Theme.Aurora.Light.Dialog">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <action android:name="android.intent.action.DELETE"/>
+                <action android:name="android.intent.action.UNINSTALL_PACKAGE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="package"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.android.packageinstaller.UninstallAppProgress" android:screenOrientation="portrait" android:theme="@com.aurora:style/Theme.aurora.Light"/>
+    </application>
+</manifest>

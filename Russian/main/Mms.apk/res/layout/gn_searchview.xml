@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="?android:dividerVertical" android:dividerPadding="12.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton android:id="@id/back_button" android:background="?android:actionBarItemBackground" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_cab_done_holo_dark" style="?android:attr/actionModeCloseButtonStyle" />
+    <aurora.widget.AuroraSearchView android:id="@id/search_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_toRightOf="@id/back_button" />
+</RelativeLayout>

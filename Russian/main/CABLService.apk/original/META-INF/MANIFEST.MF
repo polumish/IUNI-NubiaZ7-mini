@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_26 (Sun Microsystems Inc.)
+
+Name: res/xml/preferences.xml
+SHA1-Digest: b0VKCW58xPLYN19z5Q7babUYfQc=
+
+Name: AndroidManifest.xml
+SHA1-Digest: rLz95NsRGyBmEKhynjspDCs+oEs=
+
+Name: res/drawable/qcom.png
+SHA1-Digest: zmO7Vh2lghTa+jNquMF3Wt49PDY=
+
+Name: resources.arsc
+SHA1-Digest: 27JiF10xceVBi1ntH70ZXyGSpdw=
+
+Name: classes.dex
+SHA1-Digest: 4xUsX+kf0OOWlefkfLUuCwdvN8c=
+

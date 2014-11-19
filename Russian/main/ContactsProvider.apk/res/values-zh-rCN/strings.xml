@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sharedUserLabel">Android 核心应用程序</string>
+    <string name="app_label">联系人存储</string>
+    <string name="provider_label">联系人</string>
+    <string name="upgrade_msg">正在升级联系人数据库。</string>
+    <string name="upgrade_out_of_memory_notification_ticker">联系人升级需要更多的存储空间</string>
+    <string name="upgrade_out_of_memory_notification_title">升级联系人时存储空间不足</string>
+    <string name="upgrade_out_of_memory_notification_text">请选择以完成升级。</string>
+    <string name="default_directory">联系人</string>
+    <string name="local_invisible_directory">其他</string>
+    <string name="read_write_all_voicemail_label">访问所有语音邮件</string>
+    <string name="read_write_all_voicemail_description">允许应用程序存储和检索此设备可访问的所有语音邮件。</string>
+    <string name="voicemail_from_column">"语音邮件发件人 "</string>
+    <string name="unknown">未知</string>
+    <string name="aurora_group_family">家人</string>
+    <string name="aurora_group_friend">朋友</string>
+    <string name="aurora_group_classmate">同学</string>
+    <string name="aurora_group_colleague">同事</string>
+    <string name="aurora_mark_1">骚扰电话</string>
+    <string name="aurora_mark_2">广告推销</string>
+    <string name="aurora_mark_3">房产中介</string>
+    <string name="aurora_mark_4">快递送餐</string>
+    <string name="aurora_mark_5">诈骗电话</string>
+    <string name="aurora_service_number">服务号码</string>
+    <string name="aurora_local_number">本地号码</string>
+</resources>

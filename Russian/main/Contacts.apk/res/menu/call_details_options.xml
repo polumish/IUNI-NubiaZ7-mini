@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/gn_ic_menu_trash_light" android:id="@id/menu_remove_from_call_log" android:title="@string/delete" android:showAsAction="always" />
+    <item android:id="@id/menu_edit_number_before_call" android:title="@string/recentCalls_editNumberBeforeCall" android:showAsAction="never" />
+    <item android:id="@id/gn_menu_add_blacklist" android:title="@string/gn_add_blacklist" android:showAsAction="never" />
+</menu>

@@ -1,0 +1,12 @@
+version: 2.1.2-BZ
+apkFileName: Calculator.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '10001003'
+  versionName: 1.0.1.c
+compressionType: false

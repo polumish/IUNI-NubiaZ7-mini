@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/account_filter_header_container" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/header" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/gn_contact_list_item_headertext_left_margin" android:layout_marginRight="22.0dip" android:minHeight="?list_item_header_height">
+        <ImageView android:id="@id/account_type_icon" android:layout_width="@dimen/gn_header_title_icon_size" android:layout_height="fill_parent" android:scaleType="centerInside" android:alpha="0.7" />
+        <TextView android:textColor="@color/gn_header_account_text_color" android:id="@id/account_filter_header" android:layout_weight="1.0" style="@style/ContactListSeparatorTextViewStyle" />
+        <TextView android:textColor="@color/gn_header_count_text_color" android:id="@id/contacts_count" android:paddingRight="6.0dip" style="@style/ContactListSeparatorTextViewStyle" />
+    </LinearLayout>
+    <View android:background="?list_item_divider" android:layout_width="fill_parent" android:layout_height="@dimen/gn_horizontal_divider_height" android:layout_below="@id/header" />
+</RelativeLayout>

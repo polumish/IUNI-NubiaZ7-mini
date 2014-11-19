@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="?android:textColorSecondary" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/gn_no_visible_contacts" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <aurora.widget.AuroraButton android:id="@id/empty_view_add_contact" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/gn_long_button_min_width" android:minHeight="@dimen/gn_long_button_min_height" android:text="@string/gn_new_contact_item" android:onClick="onClick" />
+        <aurora.widget.AuroraButton android:id="@id/empty_view_imexport" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:minWidth="@dimen/gn_long_button_min_width" android:minHeight="@dimen/gn_long_button_min_height" android:text="@string/gn_import_title" android:onClick="onClick" />
+        <aurora.widget.AuroraButton android:id="@id/empty_view_gn_exchange" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:minWidth="@dimen/gn_long_button_min_width" android:minHeight="@dimen/gn_long_button_min_height" android:text="@string/gn_import_from_cloud" android:onClick="onClick" />
+    </LinearLayout>
+</LinearLayout>

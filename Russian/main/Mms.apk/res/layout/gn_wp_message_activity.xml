@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="bottom" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <view android:scrollbarAlwaysDrawVerticalTrack="false" android:scrollbarStyle="insideOverlay" android:id="@id/history" android:paddingBottom="@dimen/input_text_height_adjusted" android:visibility="gone" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginBottom="1.0dip" android:stackFromBottom="true" android:transcriptMode="alwaysScroll" android:layout_weight="1.0" android:smoothScrollbar="true" class="com.android.mms.ui.WPMessageListView" style="?android:attr/listViewWhiteStyle" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/addreceiptortab_frame" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.gionee.mms.ui.TabViewPager android:id="@id/pager" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/bottom_bar" android:paddingTop="4.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/pager">
+        <aurora.widget.AuroraButton android:textAppearance="?android:textAppearanceMedium" android:layout_gravity="center_vertical" android:id="@id/sel_all_button" android:background="@drawable/gn_btn_press_common" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/select_all" android:layout_weight="1.0" />
+        <aurora.widget.AuroraButton android:textAppearance="?android:textAppearanceMedium" android:layout_gravity="center_vertical" android:id="@id/done_button" android:background="@drawable/gn_btn_press_common" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/gn_selected" android:layout_weight="1.0" />
+        <aurora.widget.AuroraButton android:textAppearance="?android:textAppearanceMedium" android:layout_gravity="center_vertical" android:id="@id/cancel_button" android:background="@drawable/gn_btn_press_common" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/cancel" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

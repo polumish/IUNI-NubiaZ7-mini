@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_ab_search_holo_dark" android:id="@id/menu_search" android:title="@string/menu_search" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_ab_dialer_holo_dark" android:id="@id/gn_menu_go_dialpad" android:title="@string/gn_menu_dialpad_title" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_add_contact_holo_dark" android:id="@id/menu_add_contact" android:title="@string/menu_new_contact_action_bar" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_add_group_holo_dark" android:id="@id/menu_add_group" android:title="@string/menu_new_group_action_bar" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_menu_import_export_holo_light" android:id="@id/menu_import_export" android:title="@string/menu_import_export" />
+    <item android:id="@id/gn_menu_show_intercept_call" android:title="@string/gn_show_intercept_call" />
+    <item android:id="@id/gn_menu_merge_contacts" android:title="@string/gn_menu_merge_contacts" />
+    <item android:id="@id/gn_menu_exchange_contacts" android:title="@string/gn_exchange_contacts" />
+    <item android:icon="@drawable/ic_menu_share_holo_light" android:id="@id/menu_share_visible_contacts" android:title="@string/share_visible_contacts" />
+    <item android:icon="@drawable/ic_menu_trash_holo_light" android:id="@id/menu_delete_contact" android:title="@string/gn_menu_delete_contact" />
+    <item android:icon="@drawable/ic_menu_settings_holo_light" android:id="@id/menu_settings" android:title="@string/menu_settings" />
+    <item android:icon="@drawable/ic_menu_add_star_holo_light" android:id="@id/gn_menu_add_to_favorite" android:title="@string/gn_add_to_favorite" android:showAsAction="ifRoom" />
+    <item android:id="@id/gn_menu_remove_from_favorite" android:title="@string/gn_remove_from_favorite" />
+    <item android:id="@id/gn_menu_clear_frequent_contacted" android:title="@string/gn_menu_clear_frequent_contacted" />
+</menu>

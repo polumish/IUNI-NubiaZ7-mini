@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/top" android:paddingLeft="@dimen/dialpad_horizontal_margin" android:paddingRight="@dimen/dialpad_horizontal_margin" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/result_layout" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <RelativeLayout android:id="@id/empty_view" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:textSize="@dimen/gn_dialpad_sugest_text_size" android:gravity="left|center" android:id="@id/sugest_view" android:paddingLeft="30.0dip" android:paddingRight="30.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_alignParentBottom="true" />
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="?android:textColorSecondary" android:gravity="center" android:id="@id/no_match_view" android:paddingLeft="15.0dip" android:paddingRight="15.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/gn_no_conditioned_contacts" android:layout_alignParentTop="true" android:layout_alignParentBottom="true" />
+            <include android:id="@id/take_strange_num" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_alignParentBottom="true" layout="@layout/gn_strange_num_button_view" />
+            <TextView android:gravity="bottom" android:id="@id/num_area" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" />
+        </RelativeLayout>
+        <aurora.widget.AuroraListView android:scrollbarStyle="outsideOverlay" android:id="@id/list_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/dialer_search_outer_margin" android:layout_marginRight="@dimen/dialer_search_outer_margin" android:divider="@null" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/key_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <FrameLayout android:gravity="center" android:id="@id/digits_container" android:background="@drawable/gn_digits_container_bg" android:layout_width="fill_parent" android:layout_height="@dimen/gn_dialpad_digits_container_height" android:layout_marginTop="@dimen/dialpad_vertical_margin">
+            <LinearLayout android:gravity="bottom" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <View android:id="@id/divider" android:background="#66000000" android:layout_width="fill_parent" android:layout_height="@dimen/gn_dialpad_vertical_margin" />
+            </LinearLayout>
+            <com.android.contacts.dialpad.DigitsEditText android:textAppearance="@style/DialtactsDigitsTextAppearance" android:textColor="?android:textColorPrimary" android:gravity="left|center" android:layout_gravity="left" android:id="@id/digits" android:background="@android:color/transparent" android:paddingLeft="4.0dip" android:paddingRight="48.0dip" android:nextFocusRight="@id/deleteButton" android:layout_width="fill_parent" android:layout_height="fill_parent" android:singleLine="true" />
+            <LinearLayout android:layout_gravity="right" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="fill_parent">
+                <ImageButton android:layout_gravity="right" android:id="@id/deleteButton" android:background="@drawable/gn_dialpad_delete_btn_background" android:nextFocusLeft="@id/digits" android:layout_width="48.0dip" android:layout_height="fill_parent" android:src="@drawable/ic_dial_action_delete" android:contentDescription="@string/description_delete_button" />
+                <ImageButton android:layout_gravity="right" android:id="@id/gn_dialpadButton" android:background="@drawable/gn_dialpad_delete_btn_background" android:visibility="gone" android:nextFocusLeft="@id/digits" android:layout_width="48.0dip" android:layout_height="fill_parent" android:src="@drawable/ic_show_dialpad_holo_dark" android:contentDescription="@string/description_delete_button" />
+            </LinearLayout>
+        </FrameLayout>
+        <com.mediatek.contacts.widget.ButtonGridLayout android:id="@id/dialpad" android:background="@android:color/transparent" android:paddingLeft="5.0dip" android:paddingRight="5.0dip" android:layout_width="fill_parent" android:layout_height="336.0dip" />
+        <View android:background="@drawable/gn_dialpad_divider" android:layout_width="fill_parent" android:layout_height="@dimen/gn_dialpad_vertical_margin" />
+        <com.mediatek.contacts.widget.DialpadAdditionalButtons android:id="@id/dialpadAdditionalButtons" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="@dimen/gn_dialpad_additional_button_height" />
+    </LinearLayout>
+    <aurora.widget.AuroraListView android:id="@id/dialpadChooser" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" />
+</LinearLayout>

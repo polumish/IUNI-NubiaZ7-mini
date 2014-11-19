@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/content_generating" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="16.0sp" android:textColor="@color/important_text" android:ellipsize="end" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/generating_print_job" android:singleLine="true" android:layout_marginStart="16.0dip" android:layout_marginEnd="16.0dip" style="?android:attr/buttonBarButtonStyle" />
+        <ProgressBar android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:layout_marginBottom="32.0dip" android:layout_marginStart="32.0dip" android:layout_marginEnd="32.0dip" style="?android:attr/progressBarStyleLarge" />
+    </LinearLayout>
+    <FrameLayout android:background="@color/action_button_background" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <View android:background="@color/separator" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <Button android:textSize="16.0sp" android:textColor="@color/important_text" android:layout_gravity="fill_horizontal" android:id="@id/cancel_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/cancel" style="?android:attr/buttonBarButtonStyle" />
+    </FrameLayout>
+</LinearLayout>

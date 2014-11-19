@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AuroraPreferenceScreen aurora:aurorapersistent="false"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora">
+    <AuroraPreferenceCategory aurora:aurorakey="@string/advanced_settings_container" aurora:aurorapersistent="false">
+        <AuroraEditTextPreference android:singleLine="true" aurora:aurorakey="@string/auth_username" aurora:auroratitle="@string/auth_username_title" aurora:aurorasummary="@string/auth_username_summary" aurora:aurorapersistent="false" aurora:auroradialogTitle="@string/auth_username_title" />
+        <AuroraEditTextPreference android:singleLine="true" aurora:aurorakey="@string/display_name" aurora:auroratitle="@string/display_name_title" aurora:aurorasummary="@string/display_name_summary" aurora:aurorapersistent="false" aurora:auroradialogTitle="@string/display_name_title" />
+        <AuroraEditTextPreference android:singleLine="true" aurora:aurorakey="@string/proxy_address" aurora:auroratitle="@string/proxy_address_title" aurora:aurorasummary="@string/optional_summary" aurora:aurorapersistent="false" aurora:auroradialogTitle="@string/proxy_address_title" />
+        <AuroraEditTextPreference android:singleLine="true" android:inputType="numberDecimal" aurora:aurorakey="@string/port" aurora:auroratitle="@string/port_title" aurora:aurorasummary="@string/default_port" aurora:aurorapersistent="false" aurora:auroradialogTitle="@string/port_title" />
+        <AuroraListPreference aurora:aurorakey="@string/transport" aurora:auroratitle="@string/transport_title" aurora:aurorasummary="@string/default_transport" aurora:aurorapersistent="false" aurora:auroradialogTitle="@string/transport_title" aurora:auroraentries="@array/transport_types" aurora:auroraentryValues="@array/transport_types" />
+        <AuroraListPreference aurora:aurorakey="@string/send_keepalive" aurora:auroratitle="@string/send_keepalive_title" aurora:aurorasummary="@string/sip_system_decide" aurora:aurorapersistent="false" aurora:auroraentries="@array/sip_send_keepalive_options" aurora:auroraentryValues="@array/sip_send_keepalive_options" />
+    </AuroraPreferenceCategory>
+</AuroraPreferenceScreen>

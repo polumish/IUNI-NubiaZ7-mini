@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.contacts.editor.RawContactEditorView android:orientation="vertical" android:paddingTop="@dimen/editor_padding_top" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/body" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="horizontal" android:id="@id/stub_photo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip">
+                <include android:id="@id/edit_photo" layout="@layout/item_sim1_photo_editor" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginRight="8.0dip" android:layout_weight="1.0">
+                <include layout="@layout/gn_editor_account_header_with_dropdown" />
+                <include android:id="@id/edit_name" layout="@layout/structured_name_editor_view" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/sect_fields" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+</com.android.contacts.editor.RawContactEditorView>

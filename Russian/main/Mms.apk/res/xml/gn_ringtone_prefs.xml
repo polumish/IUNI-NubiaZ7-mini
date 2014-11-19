@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aurora.preference.AuroraPreferenceScreen aurora:aurorapersistent="false" aurora:auroraorderingFromXml="true"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora">
+    <com.gionee.mms.ui.MmsRingtonePreference aurora:aurorakey="sim1_notification" aurora:auroratitle="@string/sim1_notification_title" aurora:aurorapersistent="false" />
+    <com.gionee.mms.ui.MmsRingtonePreference aurora:aurorakey="sim2_notification" aurora:auroratitle="@string/sim2_notification_title" aurora:aurorapersistent="false" />
+</aurora.preference.AuroraPreferenceScreen>

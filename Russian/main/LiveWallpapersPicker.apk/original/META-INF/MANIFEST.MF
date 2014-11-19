@@ -1,0 +1,54 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_32 (Sun Microsystems Inc.)
+
+Name: res/drawable-mdpi/wallpaper_picker_preview.png
+SHA1-Digest: aUl2BdKc6SOJpHXZdW3RdlQgM1A=
+
+Name: res/xml/wallpaper_picker_preview.xml
+SHA1-Digest: Omn1FKaEIGrVx+W1IiWiscxkQoY=
+
+Name: res/layout/live_wallpaper_base.xml
+SHA1-Digest: PT9i3JWyXzlklOVa84QUT+xww5A=
+
+Name: resources.arsc
+SHA1-Digest: AMdHvOMkRtEfq4pitB58NnoE2bU=
+
+Name: res/layout/live_wallpaper_loading.xml
+SHA1-Digest: Mkpol5Mo1cQ0p7HqxOcrP1t6Yh4=
+
+Name: res/mipmap-mdpi/ic_launcher_live_wallpaper.png
+SHA1-Digest: 0YiUmMGyEGn6atH/YxlalsMKTaw=
+
+Name: classes.dex
+SHA1-Digest: FEI08v9VwFiS94XnD57uo9r3huU=
+
+Name: res/drawable-hdpi/livewallpaper_placeholder.png
+SHA1-Digest: v7sy18/EY9Hibi/1Ct00LoIg0mU=
+
+Name: res/mipmap-xxhdpi/ic_launcher_live_wallpaper.png
+SHA1-Digest: leJSyeOf6oOEp9Jo9h7DYwjL/AY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: y7s1syslqO0FNmH94iP6Dj8dpto=
+
+Name: res/drawable-hdpi/wallpaper_picker_preview.png
+SHA1-Digest: aUl2BdKc6SOJpHXZdW3RdlQgM1A=
+
+Name: res/layout/live_wallpaper_entry.xml
+SHA1-Digest: qqSBw1OyJXH1Km4MxredCBjlpoE=
+
+Name: res/layout/live_wallpaper_list.xml
+SHA1-Digest: Q5AMbyYlWogLYlZg7Tb8lolTkKk=
+
+Name: res/layout/live_wallpaper_preview.xml
+SHA1-Digest: gx33Lyemh3QjYH15cypRmzeWyeI=
+
+Name: res/mipmap-xhdpi/ic_launcher_live_wallpaper.png
+SHA1-Digest: Kacz9Wl4rurWm1MhTFtfGo1O4gY=
+
+Name: res/drawable-mdpi/livewallpaper_placeholder.png
+SHA1-Digest: qdjSRsK5mh5fuKiwyxwqN4r/gXM=
+
+Name: res/mipmap-hdpi/ic_launcher_live_wallpaper.png
+SHA1-Digest: oxguUqsXwd+CX0xi3J0cMcfdYNc=
+

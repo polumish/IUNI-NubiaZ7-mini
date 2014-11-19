@@ -1,0 +1,67 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: x1HPOcxhoCsNzH4P5wCjmElsxAU=
+
+Name: res/drawable-hdpi/bt_share.png
+SHA1-Digest: RNyQFIBFpky7WwZWv0uCr/2CrVA=
+
+Name: res/drawable-hdpi/ic_launcher_folder_bluetooth.png
+SHA1-Digest: 0/ateVptsTwm97M6iuFp69de73k=
+
+Name: res/layout/no_transfers.xml
+SHA1-Digest: aHS694QpaQH4JWEGkoVbJgrtUd0=
+
+Name: res/layout/auth.xml
+SHA1-Digest: XfOFM8i2bJPVeBy19Xc6c3Vr+EM=
+
+Name: res/layout/bluetooth_transfers_page.xml
+SHA1-Digest: 5kTUtHiGOaHXOKqvueB5JABCODU=
+
+Name: res/layout/file_transfer.xml
+SHA1-Digest: 5YFi4T1f0p4cyPvMwA1He99Hzso=
+
+Name: resources.arsc
+SHA1-Digest: 4o13xUt6OONdX3qotzBl0zcTvMw=
+
+Name: classes.dex
+SHA1-Digest: ywiBVnNwSs5vvdEmh18DDMeXHiY=
+
+Name: res/menu/transferhistorycontextfinished.xml
+SHA1-Digest: VaarFTI6nXAAn1vuvSebulY2vF0=
+
+Name: res/layout/testactivity_main.xml
+SHA1-Digest: ZN68G8i9hos1XgA4MDcuHOU7OCI=
+
+Name: res/layout/bluetooth_transfer_item.xml
+SHA1-Digest: AEwkTYg5RqYOKDzp9Y/7SZQrLVg=
+
+Name: res/drawable-mdpi/bt_share.png
+SHA1-Digest: XG4dYhODBKLcY+hCu2PtqVD74A0=
+
+Name: res/layout/confirm_dialog.xml
+SHA1-Digest: uLpk//ajshtXW/KzB5Xo4diYlus=
+
+Name: AndroidManifest.xml
+SHA1-Digest: ffc7ckfF89GpzR2ucpSwbOWrVrw=
+
+Name: res/menu/receivedfilescontextfinished.xml
+SHA1-Digest: 0gmTpzBCyWMLgr9Zx2x3Zjzlqco=
+
+Name: res/menu/transferhistory.xml
+SHA1-Digest: jti5yUzEIzN42xodOb7D8otyDQ0=
+
+Name: res/drawable-xhdpi/bt_incomming_file_notification.png
+SHA1-Digest: 8CpiWtWV0igVTwcfl3KGNXOxSSg=
+
+Name: res/drawable-mdpi/bt_incomming_file_notification.png
+SHA1-Digest: /Da7/AR1DW+4j4tdR+uhyN2Kc3k=
+
+Name: res/layout/bt_enabling_progress.xml
+SHA1-Digest: 60MrbDfvuZwhvSbIXfr6Fg9mLh4=
+
+Name: res/drawable-hdpi/bt_incomming_file_notification.png
+SHA1-Digest: 5yrSRWKLf4boJg+ZzEYVf7eaEX4=
+
+Name: res/drawable-mdpi/ic_launcher_folder_bluetooth.png
+SHA1-Digest: w13j/HDZp3vlZKKK05KAYdDqRs4=
+

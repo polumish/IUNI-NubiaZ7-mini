@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AuroraPreferenceScreen aurora:auroratitle="@string/sip_edit_title" aurora:aurorapersistent="false"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora">
+    <AuroraEditTextPreference android:singleLine="true" android:inputType="textNoSuggestions" aurora:aurorakey="@string/username" aurora:auroratitle="@string/username_title" aurora:aurorasummary="@string/default_preference_summary" aurora:aurorapersistent="false" aurora:auroradialogTitle="@string/username_title" />
+    <AuroraEditTextPreference android:password="true" android:singleLine="true" aurora:aurorakey="@string/password" aurora:auroratitle="@string/password_title" aurora:aurorasummary="@string/default_preference_summary" aurora:aurorapersistent="false" aurora:auroradialogTitle="@string/password_title" />
+    <AuroraEditTextPreference android:singleLine="true" android:inputType="textNoSuggestions" aurora:aurorakey="@string/domain_address" aurora:auroratitle="@string/domain_address_title" aurora:aurorasummary="@string/default_preference_summary" aurora:aurorapersistent="false" aurora:auroradialogTitle="@string/domain_address_title" />
+    <AuroraCheckBoxPreference aurora:aurorakey="@string/set_primary" aurora:auroratitle="@string/set_primary_title" aurora:aurorasummary="@string/set_primary_summary" aurora:aurorapersistent="false" />
+    <AuroraPreferenceScreen aurora:aurorakey="@string/advanced_settings" aurora:auroratitle="@string/advanced_settings" aurora:aurorasummary="@string/advanced_settings_show" aurora:aurorapersistent="false" />
+</AuroraPreferenceScreen>

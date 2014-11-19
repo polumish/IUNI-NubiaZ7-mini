@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/aurora_copy_selector" android:id="@id/aurora_batch_copy" />
+    <item android:icon="@drawable/aurora_forward_selector" android:id="@id/aurora_batch_forward" />
+    <item android:icon="@drawable/aurora_pick_selector" android:id="@id/aurora_batch_pick" />
+    <item android:icon="@drawable/aurora_delete_selector" android:id="@id/aurora_batch_delete" />
+</menu>

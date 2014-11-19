@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/account_header" layout="@layout/gn_editor_account_header" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <aurora.widget.AuroraEditText android:textAppearance="?android:textAppearanceMedium" android:id="@id/group_name" android:saveEnabled="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/gn_photo_image_left_gap" android:layout_marginRight="@dimen/gn_photo_image_right_gap" android:maxHeight="@dimen/gn_group_name_max_height" android:minHeight="47.0dip" android:hint="@string/group_name_hint" />
+        <include android:id="@id/add_member_field" layout="@layout/group_editor_autocomplete_view" />
+        <include android:id="@android:id/list" layout="@layout/group_editor_existing_member_list" />
+    </LinearLayout>
+</LinearLayout>

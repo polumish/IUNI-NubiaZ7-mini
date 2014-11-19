@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable/sim_background_blue.9.png
+SHA1-Digest: ilSuMO/l82NCCQf1SjrI1zcLyPY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: CWRFG56PgN+9EHuEEhXECtySDFE=
+
+Name: res/drawable/sim_background_orange.9.png
+SHA1-Digest: f08NBHKiwOlG+jGS57tSO5JZchc=
+
+Name: resources.arsc
+SHA1-Digest: giwCyfO9WL9atVY7FoLF8CKzI+E=
+
+Name: res/drawable/sim_background_green.9.png
+SHA1-Digest: +E9XuAH/V/rTntEKe8hlfrTvOlk=
+
+Name: classes.dex
+SHA1-Digest: hwWUsC/xCWJkweevQzzfC3RRmcY=
+
+Name: res/drawable/sim_background_purple.9.png
+SHA1-Digest: IAFqMxsGphGIXnfPZbLuCgXrcg4=
+
+Name: res/drawable-mdpi/ic_launcher_phone.png
+SHA1-Digest: 8xr4VSqIqBcVu6xe5aQTloGhqoc=
+
+Name: res/drawable-hdpi/ic_launcher_phone.png
+SHA1-Digest: JAMD37zZs6kaEoaZ6Tnlr9ylIBU=
+

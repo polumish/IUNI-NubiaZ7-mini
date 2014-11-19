@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/dialtacts_frame" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="?android:actionBarSize"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.contacts.activities.DialtactsViewPager android:id="@id/pager" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/call_log_unavailable_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:id="@id/call_log_unavailable_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+</FrameLayout>

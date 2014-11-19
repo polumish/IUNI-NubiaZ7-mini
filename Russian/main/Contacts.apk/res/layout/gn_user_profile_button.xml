@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="?android:listChoiceBackgroundIndicator" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="?list_item_padding_left" android:layout_marginRight="?list_item_padding_right"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.contacts.widget.GnTextView android:textAppearance="?android:textAppearanceMedium" android:ellipsize="marquee" android:gravity="center_vertical" android:paddingLeft="@dimen/gn_contact_list_item_name_left_margin" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/gn_list_item_min_height" android:text="@string/profile_display_name" android:singleLine="true"
+      xmlns:android="http://schemas.android.com/apk/res/android" />
+    <View android:background="?list_item_divider" android:layout_width="fill_parent" android:layout_height="@dimen/gn_horizontal_divider_height" />
+</LinearLayout>

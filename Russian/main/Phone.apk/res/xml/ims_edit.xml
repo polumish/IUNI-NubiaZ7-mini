@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AuroraPreferenceScreen aurora:auroratitle="@string/ims_edit_title" aurora:aurorapersistent="false"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora">
+    <AuroraEditTextPreference android:singleLine="true" aurora:aurorakey="@string/domain_address" aurora:auroratitle="@string/ims_domain_address_title" aurora:aurorasummary="@string/default_preference_summary" aurora:aurorapersistent="false" aurora:auroradialogTitle="@string/ims_domain_address_title" />
+    <AuroraListPreference aurora:aurorakey="@string/call_type" aurora:auroratitle="@string/call_type_title" aurora:aurorasummary="@string/default_ims_call_type" aurora:aurorapersistent="false" aurora:auroradialogTitle="@string/call_type_title" aurora:auroraentries="@array/ims_call_types" aurora:auroraentryValues="@array/ims_call_types" />
+    <AuroraCheckBoxPreference aurora:aurorakey="@string/use_ims_default" aurora:auroratitle="@string/use_ims_default_title" aurora:aurorasummary="@string/use_ims_default_summary" aurora:aurorapersistent="false" />
+</AuroraPreferenceScreen>

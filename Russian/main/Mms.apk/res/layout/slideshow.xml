@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.android.mms.ui.SlideView android:gravity="center" android:id="@id/slide_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/zoomControls" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_alignParentBottom="true">
+            <ImageButton android:id="@id/zoomOut" android:background="@drawable/zoomout_selector" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <ImageButton android:id="@id/zoomIn" android:background="@drawable/zoomin_selector" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </RelativeLayout>
+</merge>

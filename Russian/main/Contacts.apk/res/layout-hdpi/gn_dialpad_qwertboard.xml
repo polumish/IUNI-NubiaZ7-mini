@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="?gn_dial_qwert_keyboard_bg" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/gn_qwert_bg" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="6.0dip" android:layout_marginBottom="6.0dip" android:layout_weight="1.0">
+        <TextView android:id="@id/key_q" android:paddingRight="4.0dip" android:text="@string/key_q" style="@style/k26_key" />
+        <TextView android:id="@id/key_w" android:paddingRight="4.0dip" android:text="@string/key_w" style="@style/k26_key" />
+        <TextView android:id="@id/key_e" android:text="@string/key_e" style="@style/k26_key" />
+        <TextView android:id="@id/key_r" android:text="@string/key_r" style="@style/k26_key" />
+        <TextView android:id="@id/key_t" android:text="@string/key_t" style="@style/k26_key" />
+        <TextView android:id="@id/key_y" android:text="@string/key_y" style="@style/k26_key" />
+        <TextView android:id="@id/key_u" android:text="@string/key_u" style="@style/k26_key" />
+        <TextView android:id="@id/key_i" android:text="@string/key_i" style="@style/k26_key" />
+        <TextView android:id="@id/key_o" android:text="@string/key_o" style="@style/k26_key" />
+        <TextView android:id="@id/key_p" android:text="@string/key_p" style="@style/k26_key" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="6.0dip" android:layout_marginBottom="6.0dip" android:layout_weight="1.0">
+        <TextView android:id="@id/key_a" android:text="@string/key_a" style="@style/k26_key" />
+        <TextView android:id="@id/key_s" android:text="@string/key_s" style="@style/k26_key" />
+        <TextView android:id="@id/key_d" android:text="@string/key_d" style="@style/k26_key" />
+        <TextView android:id="@id/key_f" android:text="@string/key_f" style="@style/k26_key" />
+        <TextView android:id="@id/key_g" android:text="@string/key_g" style="@style/k26_key" />
+        <TextView android:id="@id/key_h" android:text="@string/key_h" style="@style/k26_key" />
+        <TextView android:id="@id/key_j" android:text="@string/key_j" style="@style/k26_key" />
+        <TextView android:id="@id/key_k" android:text="@string/key_k" style="@style/k26_key" />
+        <TextView android:id="@id/key_l" android:text="@string/key_l" style="@style/k26_key" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="6.0dip" android:layout_marginBottom="6.0dip" android:layout_weight="1.0">
+        <TextView android:id="@id/key_star" android:text="@string/key_star" style="@style/k26_key" />
+        <TextView android:id="@id/key_z" android:text="@string/key_z" style="@style/k26_key" />
+        <TextView android:id="@id/key_x" android:text="@string/key_x" style="@style/k26_key" />
+        <TextView android:id="@id/key_c" android:text="@string/key_c" style="@style/k26_key" />
+        <TextView android:id="@id/key_v" android:text="@string/key_v" style="@style/k26_key" />
+        <TextView android:id="@id/key_b" android:text="@string/key_b" style="@style/k26_key" />
+        <TextView android:id="@id/key_n" android:text="@string/key_n" style="@style/k26_key" />
+        <TextView android:id="@id/key_m" android:text="@string/key_m" style="@style/k26_key" />
+        <TextView android:id="@id/key_pound" android:text="@string/key_pound" style="@style/k26_key" />
+    </LinearLayout>
+</LinearLayout>

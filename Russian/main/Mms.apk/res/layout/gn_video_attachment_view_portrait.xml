@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.mms.ui.VideoAttachmentView android:gravity="left" android:orientation="horizontal" android:id="@id/gn_video_attachment_view_portrait" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res/com.android.mms">
+    <RelativeLayout android:gravity="left" android:descendantFocusability="blocksDescendants" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="6.0dip">
+        <com.aurora.mms.ui.AuroraRoundImageView android:id="@id/video_thumbnail" android:layout_width="92.0dip" android:layout_height="112.0dip" android:scaleType="centerCrop" app:corner_radius="13.0dip" app:border_width="0.0dip" />
+        <ImageView android:id="@id/aurora_video_play" android:focusable="true" android:focusableInTouchMode="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/aurora_va_play_selector" android:layout_centerInParent="true" />
+        <TextView android:textSize="13.0sp" android:textColor="#ffffffff" android:gravity="right" android:id="@id/aurora_video_bg_down" android:background="@drawable/aurora_attach_bg_down" android:paddingTop="3.0dip" android:paddingRight="12.0dip" android:layout_width="92.0dip" android:layout_height="20.0dip" android:layout_alignParentBottom="true" />
+        <TextView android:textSize="11.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:id="@id/media_size_info" android:background="#88000000" android:paddingLeft="3.0dip" android:paddingRight="3.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+</com.android.mms.ui.VideoAttachmentView>

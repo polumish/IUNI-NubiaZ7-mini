@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.qualcomm.cabl">
+    <application android:icon="@drawable/qcom" android:label="@string/app_name">
+        <service android:name=".CABLService">
+            <intent-filter>
+                <action android:name="org.codeaurora.cabl.ICABLService"/>
+            </intent-filter>
+        </service>
+        <activity android:name=".CABLPreferences">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <receiver android:name=".CABLReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="com.qualcomm.intent.action.CABL_ENABLE"/>
+                <action android:name="com.qualcomm.intent.action.CABL_LEVEL_CHANGE"/>
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:paddingTop="@dimen/gn_dialpad_empty_view_padding_top" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <aurora.widget.AuroraButton android:textAppearance="?android:textAppearanceSmall" android:textSize="@dimen/gn_drawable_text_button_textsize" android:id="@id/gn_strange_num_add_new_contact" android:background="@drawable/gn_selectable_item_bg" android:padding="3.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/gn_dialpad_new_contact_item" android:drawableTop="?gn_ic_add_contact" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <aurora.widget.AuroraButton android:textAppearance="?android:textAppearanceSmall" android:textSize="@dimen/gn_drawable_text_button_textsize" android:id="@id/gn_strange_num_add_to_contact" android:background="@drawable/gn_selectable_item_bg" android:padding="3.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/gn_dialpad_add_exist_contact_item" android:drawableTop="?gn_ic_add_existing_contact" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <aurora.widget.AuroraButton android:textAppearance="?android:textAppearanceSmall" android:textSize="@dimen/gn_drawable_text_button_textsize" android:id="@id/gn_strange_num_send_sms" android:background="@drawable/gn_selectable_item_bg" android:padding="3.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/gn_dialpad_send_message_item" android:drawableTop="?gn_ic_send_message" />
+    </LinearLayout>
+</LinearLayout>

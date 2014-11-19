@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="aurora_from_text_max_width">250.0dip</dimen>
+    <dimen name="aurora_convfrom_text_max_width">175.0dip</dimen>
+    <dimen name="list_item_left_margin">17.0dip</dimen>
+    <dimen name="list_item_right_margin">17.0dip</dimen>
+    <dimen name="list_item_top_margin">13.599976dip</dimen>
+    <dimen name="list_item_bottom_margin">13.599976dip</dimen>
+    <dimen name="list_item_height">71.0dip</dimen>
+    <dimen name="list_item_margin">7.0dip</dimen>
+    <dimen name="list_item_margin_between">5.0dip</dimen>
+    <dimen name="list_right_del_width">72.0dip</dimen>
+    <dimen name="text_item_bottom_padding">1.0dip</dimen>
+    <dimen name="list_checkbox_top_margin">8.0dip</dimen>
+    <dimen name="aurora_titlebar_margin">12.0dip</dimen>
+    <dimen name="aurora_empty_margin_top">176.0dip</dimen>
+    <dimen name="list_status_margin_top">6.5999756dip</dimen>
+    <dimen name="list_status_margin_top_xxx">5.0dip</dimen>
+</resources>

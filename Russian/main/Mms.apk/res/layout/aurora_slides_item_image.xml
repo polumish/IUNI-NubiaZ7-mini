@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/aurora_slide_bg" android:padding="6.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res/com.android.mms">
+    <com.aurora.mms.ui.AuroraRoundImageView android:id="@id/aurora_item_image" android:layout_width="92.0dip" android:layout_height="112.0dip" android:scaleType="centerCrop" app:corner_radius="13.0dip" app:border_width="0.0dip" />
+</RelativeLayout>

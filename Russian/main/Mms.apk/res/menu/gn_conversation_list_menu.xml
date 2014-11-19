@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_menu_search_holo_dark" android:id="@id/gn_search" android:title="@string/menu_search" android:showAsAction="always" />
+    <item android:icon="@drawable/ic_menu_msg_compose_holo_dark" android:id="@id/gn_action_compose_new" android:title="@string/new_message" android:showAsAction="always" />
+    <item android:id="@id/gn_action_delete_all_draft" android:visible="false" android:title="@string/delete_all_dratfs" android:showAsAction="never" />
+    <item android:id="@id/gn_action_cancel_all_favorite" android:title="@string/gn_cancel_all_favorite" android:showAsAction="never" />
+    <item android:id="@id/gn_action_delete_all" android:visible="false" android:title="@string/menu_delete_all" android:showAsAction="never" />
+    <item android:id="@id/gn_action_batch_operation" android:title="@string/gn_action_batch_operation" android:showAsAction="never" />
+    <item android:id="@id/gn_action_encryption" android:title="@string/gn_action_encryption" android:showAsAction="never" />
+    <item android:id="@id/gn_action_in_out" android:title="@string/pref_title_io_settings" android:showAsAction="never" />
+    <item android:id="@id/gn_action_synchronizer" android:title="@string/gn_synchronizer" android:showAsAction="never" />
+    <item android:id="@id/gn_action_doctoran" android:title="@string/gn_menu_doctoran" android:showAsAction="never" />
+    <item android:id="@id/gn_action_exchange" android:title="@string/gn_exchange" android:showAsAction="never" />
+    <item android:icon="@android:drawable/ic_menu_preferences" android:id="@id/gn_action_settings" android:title="@string/menu_preferences" android:showAsAction="never" />
+</menu>

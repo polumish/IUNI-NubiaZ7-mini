@@ -1,0 +1,198 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable-hdpi/app_icon.png
+SHA1-Digest: 8jttVhWwc/lJR1CRY90cji5uNHE=
+
+Name: assets/region/mob_region_152.data
+SHA1-Digest: a4hOjXpIAs/teB530RdwevIPqD8=
+
+Name: assets/localinfo/index.data
+SHA1-Digest: cTt7lbXQn7dclKsBfGShK2W92LI=
+
+Name: res/drawable-hdpi/contact_icon_sim1.png
+SHA1-Digest: itZgu8W8k5z1cSaaB6UxSU+vdK0=
+
+Name: assets/region/mob_region_sup.data
+SHA1-Digest: d/8M+wBrZNw2SObqIYY2jr+vFRk=
+
+Name: assets/region/mob_region_147.data
+SHA1-Digest: nHS2Ni7zVCmJbU5zvOQd8w8Y2AM=
+
+Name: assets/region/mob_region_153.data
+SHA1-Digest: P4qG4UZ5eyotE7/9Eq/uK/Y38es=
+
+Name: res/drawable-hdpi/missed_search.png
+SHA1-Digest: kRyNoL7/18TiQSAMvouz3d3fPsI=
+
+Name: res/drawable-hdpi/create_contact.png
+SHA1-Digest: L5vAFbt3vqtBVQdnzvbHJ2q+lrM=
+
+Name: assets/localinfo/1.txt.data
+SHA1-Digest: wsFA2qysHhR+2TI5qDuANIioBaE=
+
+Name: assets/region/mob_region_134.data
+SHA1-Digest: E0yGufEG/ToYPhOUrVA7N7CebaY=
+
+Name: assets/region/mob_region_139.data
+SHA1-Digest: ZIryGTrh/lWZnkgqGx5SYEDtVco=
+
+Name: assets/region/mob_region_135.data
+SHA1-Digest: HR8rPNBNqVjyrJAKvkAW9DVdQYQ=
+
+Name: assets/region/mob_region_133.data
+SHA1-Digest: z2oGT/zE/h2AvtigZa+wyb3jSHQ=
+
+Name: assets/region/mob_region_138.data
+SHA1-Digest: nvVLzeGgEtmyCTUNt71YWFonEgg=
+
+Name: assets/official_tel.data
+SHA1-Digest: aEZZPKtyslY4VeBtBVo0MA7NFms=
+
+Name: assets/region/mob_region_182.data
+SHA1-Digest: f/c2nqUj4u9SUCyOgDUguBqEP0w=
+
+Name: res/drawable-hdpi/call_contact.png
+SHA1-Digest: 5XONQKd2a1/un0Yh3EYf7L6j8UQ=
+
+Name: assets/region/mob_region_180.data
+SHA1-Digest: Buy2m4XyAIyjpwYsrYlYRl7c/wc=
+
+Name: assets/region/mob_region_137.data
+SHA1-Digest: YS1J8FvKsuvY3UOvjR3l8RGb91w=
+
+Name: assets/region/mob_region_145.data
+SHA1-Digest: sZ9WCHbcyNxJhiUFlFmQnGH18JE=
+
+Name: assets/localinfo/2.txt.data
+SHA1-Digest: 9ndMPuTesPPzCcUHnbvAkjiHqvY=
+
+Name: assets/region/mob_region_130.data
+SHA1-Digest: qMudlAzvWXi+xsqiCY7+xGPnXuU=
+
+Name: assets/region/mob_region_155.data
+SHA1-Digest: Y3nJVh9QItnfG9Vm5UV0020xZzo=
+
+Name: assets/region/mob_region_159.data
+SHA1-Digest: EmerdV+wmKVcofLacO5ImaZDKgc=
+
+Name: assets/regex.data
+SHA1-Digest: PMivJbpCxpKiExGV2B2yqAr+2yM=
+
+Name: assets/region/mob_region_176.data
+SHA1-Digest: uLbw69l0v3chiDar+2wWYncmtp0=
+
+Name: assets/region/mob_region_178.data
+SHA1-Digest: mrXoqksguosL+ForWUoCrNjQIGA=
+
+Name: assets/region/mob_region_183.data
+SHA1-Digest: /J+dJ/K4fJynwf81+rSRI5SM+WA=
+
+Name: res/drawable-xhdpi/app_icon.png
+SHA1-Digest: R/73mbYeOBl72dCLuRavFwHgmSg=
+
+Name: assets/region/mob_region_index.data
+SHA1-Digest: +zXnTnl8+c1Md3nuylMpnjOVd3Q=
+
+Name: res/drawable-hdpi/ic_contact_picture.png
+SHA1-Digest: Iw4tEMdD8JoJ+drdsiiXzH8x/I8=
+
+Name: assets/region/mob_region_151.data
+SHA1-Digest: zMm+/GUWZnxPn0c5/iD2Ng915iw=
+
+Name: assets/region/mob_region_170.data
+SHA1-Digest: BRlwjvW9bMxaGSQTSYzlNqvmz1Y=
+
+Name: assets/region/mob_region_188.data
+SHA1-Digest: XGEdU2anCUHJtWrPZAUwrdmu8oY=
+
+Name: res/drawable-hdpi/video_missed_search.png
+SHA1-Digest: pkTquHbByr3JM15sLLIr9sNYbHk=
+
+Name: assets/client_num.data
+SHA1-Digest: v8ttjEsMVAm1iQDHQ+ClK3qmSjQ=
+
+Name: res/drawable-hdpi/contact_icon_sim.png
+SHA1-Digest: lClNM8ngh2tt6psHl49xwNZufvY=
+
+Name: assets/pinyindb/unicode_to_hanyu_pinyin.txt
+SHA1-Digest: UMF4fUcb/roK4WZfnoD4A0EyUIg=
+
+Name: assets/region/mob_region_158.data
+SHA1-Digest: Ue+UqG4KbsfD6nx1UjEArXdgl0A=
+
+Name: resources.arsc
+SHA1-Digest: w0yuz46sK66UhowDBh2S14fySSU=
+
+Name: assets/region/mob_region_189.data
+SHA1-Digest: +jygB1UH3feumX5S5bFRsMJvMos=
+
+Name: assets/update.xml
+SHA1-Digest: iE2PTZwmTs/rXhMKVMY1nfFSYrE=
+
+Name: res/drawable-hdpi/contact_icon_sim2.png
+SHA1-Digest: re5YbrwfQQwsPy2Ic2glCLP7MKo=
+
+Name: assets/region/mob_region_185.data
+SHA1-Digest: wCQf2htMUpUDlgqeQvlCByfT46E=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 4ApS8vPc34szSwsapEfVTM1lMJ4=
+
+Name: assets/region/mob_region_156.data
+SHA1-Digest: igds3VmwpKJlE3PaoojUuvvnRS0=
+
+Name: assets/region/mob_region_131.data
+SHA1-Digest: 9M+UOJ3zsp2BCYqaN1hAikVortI=
+
+Name: res/drawable-hdpi/incoming_search.png
+SHA1-Digest: mQkSPd6I5UF8szzyxAKPYb7Stng=
+
+Name: assets/localinfo/tag.data
+SHA1-Digest: Kp0NrHFshNAGaK3dc9/Io6n3iGw=
+
+Name: assets/keyword.data
+SHA1-Digest: 2546cax7sH1gxlVSjS3oqeKjc0U=
+
+Name: assets/region/mob_region_177.data
+SHA1-Digest: yK9neUBUgaBXVXSFvAv3sWoatXM=
+
+Name: assets/region/mob_region_132.data
+SHA1-Digest: aE5g0kAfLsH/uXPW/MLGTSRP724=
+
+Name: assets/region/mob_region_181.data
+SHA1-Digest: dfmdpiCo5VGUmC5XjYnXw5Eu0tU=
+
+Name: assets/region/mob_region_150.data
+SHA1-Digest: xEe4bklB7GCdrk83TeOmevSbNeI=
+
+Name: classes.dex
+SHA1-Digest: H6g0W+7Z39qYCUTqsX8cEKcmrGI=
+
+Name: assets/region/mob_region_187.data
+SHA1-Digest: LWqo2qpehuRMPnr7XHdGAhUanrE=
+
+Name: res/drawable-hdpi/video_incoming_search.png
+SHA1-Digest: vTbqz6jN667PSxgnXRNs1n1KXuA=
+
+Name: assets/region/mob_region_157.data
+SHA1-Digest: B3DgQOG/pC2vgWcAzYcmWOeVBqE=
+
+Name: assets/region/mob_region_136.data
+SHA1-Digest: ARHTIIfPvuFgXe/Eko9eS+pJlPU=
+
+Name: assets/region/mob_region_186.data
+SHA1-Digest: zTk5ZVkV0lrYUP11eliBBkkb5L0=
+
+Name: res/drawable-hdpi/outing_search.png
+SHA1-Digest: pazsyopEmETAe16+hGxVznp6Wxg=
+
+Name: assets/region/mob_region_184.data
+SHA1-Digest: BIuDn3MfyvzaLz60ds9aCsNq3fk=
+
+Name: res/drawable-hdpi/video_outing_search.png
+SHA1-Digest: 8qs+bGJMQDc3s1Jhsa5uXQjSQ6o=
+
+Name: res/drawable-hdpi/contact_icon_usim.png
+SHA1-Digest: 83s8bbZroa4sDlRcMxOAWFSSS1Y=
+

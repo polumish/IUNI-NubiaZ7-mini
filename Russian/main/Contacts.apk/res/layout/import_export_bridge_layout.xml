@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/topview_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?list_item_header_height">
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:textSize="@dimen/gn_list_item_header_text_size" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/tips" android:paddingLeft="@dimen/gn_contact_list_item_headertext_left_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?list_item_header_height" android:text="@string/tips_source" android:singleLine="true" />
+    </LinearLayout>
+    <LinearLayout android:paddingLeft="@dimen/gn_contact_list_item_headertext_left_margin" android:paddingRight="@dimen/gn_contact_list_item_headertext_left_margin" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <aurora.widget.AuroraListView android:id="@id/list_view" android:background="?kind_editors_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/buttonbar_layout" android:padding="@dimen/gn_action_button_padding" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <aurora.widget.AuroraButton android:id="@id/btn_action" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/next" style="?android:attr/buttonBarButtonStyle" />
+    </LinearLayout>
+</LinearLayout>

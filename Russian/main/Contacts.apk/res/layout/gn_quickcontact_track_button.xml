@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.contacts.quickcontact.CheckableTextView android:textAppearance="?android:textAppearanceSmall" android:textSize="18.0sp" android:gravity="center" android:background="?quickcontact_track_button_bg" android:focusable="true" android:clickable="true" android:layout_width="81.0dip" android:layout_height="60.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.contacts.detail.ActionsViewContainer android:orientation="horizontal" android:id="@id/actions_view_container" android:background="?android:listChoiceBackgroundIndicator" android:paddingTop="@dimen/aurora_detail_item_padding_top" android:paddingBottom="@dimen/aurora_detail_item_padding_bottom" android:focusable="true" android:nextFocusRight="@id/secondary_action_view_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="49.0dip">
+        <LinearLayout android:gravity="left|center" android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/primary_action_view" android:background="#00000000" android:paddingLeft="32.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <RelativeLayout android:gravity="left" android:layout_gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/name_star" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <com.android.contacts.widget.GnTextView android:textSize="@dimen/aurora_group_entrance_title_size" android:textColor="@com.aurora:color/aurora_list_textcolor" android:id="@id/type" android:paddingRight="7.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/gn_contact_detail_list_item_max_type_width" android:singleLine="true" />
+                    <com.android.contacts.widget.GnTextView android:textSize="@dimen/aurora_group_entrance_title_size" android:textColor="@com.aurora:color/aurora_list_textcolor" android:id="@id/data" android:paddingRight="1.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawablePadding="8.0dip" />
+                </LinearLayout>
+                <TextView android:textSize="@com.aurora:dimen/aurora_list_subtext_text_size" android:textColor="@color/aurora_group_edit_ringtone_text_color" android:id="@id/gn_number_area" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_below="@id/name_star" />
+            </RelativeLayout>
+            <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="?android:textColorSecondary" android:layout_gravity="center_vertical" android:id="@id/footer" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <FrameLayout android:id="@id/vtcall_action_view_container" android:background="?android:selectableItemBackground" android:paddingLeft="@dimen/detail_item_icon_margin" android:paddingRight="@dimen/detail_item_icon_margin" android:focusable="true" android:nextFocusLeft="@id/actions_view_container" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/vtcall_action_button" android:duplicateParentState="false" android:layout_width="32.0dip" android:layout_height="32.0dip" />
+        </FrameLayout>
+        <FrameLayout android:layout_gravity="right|center" android:id="@id/secondary_action_view_container" android:focusable="true" android:nextFocusLeft="@id/actions_view_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="0.0dip">
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/secondary_action_button" android:duplicateParentState="false" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </FrameLayout>
+    </com.android.contacts.detail.ActionsViewContainer>
+</LinearLayout>

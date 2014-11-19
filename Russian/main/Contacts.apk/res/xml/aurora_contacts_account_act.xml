@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aurora.preference.AuroraPreferenceScreen aurora:aurorakey="account_pre" aurora:auroratitle="@string/aurora_contacts_accounts"
+  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora">
+    <aurora.preference.AuroraPreferenceCategory aurora:auroratitle="@string/aurora_show_contacts_accounts" />
+</aurora.preference.AuroraPreferenceScreen>

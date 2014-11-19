@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AuroraPreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.phone"
+  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora">
+    <AuroraPreferenceScreen aurora:aurorakey="button_apn_key" aurora:auroratitle="@string/apn_settings" aurora:aurorapersistent="false">
+        <intent android:targetPackage="com.android.settings" android:action="android.intent.action.MAIN" android:targetClass="com.android.settings.ApnSettings" />
+    </AuroraPreferenceScreen>
+    <com.android.phone.Use2GOnlyCheckBoxPreference aurora:aurorakey="button_prefer_2g_key" aurora:auroratitle="@string/prefer_3g" aurora:aurorapersistent="false" />
+    <AuroraPreferenceScreen aurora:aurorakey="button_carrier_sel_key" aurora:auroratitle="@string/networks" aurora:aurorasummary="@string/sum_carrier_select" aurora:aurorapersistent="false">
+        <intent android:targetPackage="com.android.phone" android:action="android.intent.action.MAIN" android:targetClass="com.android.phone.NetworkSetting" />
+    </AuroraPreferenceScreen>
+</AuroraPreferenceScreen>

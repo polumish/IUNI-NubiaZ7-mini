@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.contacts.editor.GnRingtoneEditorView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="@dimen/aurora_editor_item_minheight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:paddingLeft="@dimen/gn_contact_list_item_left_margin" android:paddingRight="@dimen/gn_contact_list_item_right_margin" android:focusable="false" android:layout_width="0.0dip" android:layout_height="0.0dip">
+        <TextView android:ellipsize="end" android:id="@id/kind_title" android:background="@null" android:paddingLeft="@dimen/gn_contact_list_item_headertext_left_margin" android:paddingRight="@dimen/gn_contact_list_item_headertext_left_margin" android:text="@string/gn_ringtone_label" android:singleLine="true" style="@style/ContactListSeparatorTextViewStyle" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/ringtone_list_bg" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:background="@drawable/aurora_kind_view_bg" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:ellipsize="end" android:paddingLeft="@dimen/aurora_editor_item_padding_left" android:paddingRight="@dimen/aurora_editor_item_padding_left" android:layout_width="@dimen/aurora_editor_type_label_width" android:layout_height="@dimen/aurora_editor_item_minheight" android:text="@string/gn_ringtone_label" android:singleLine="true" style="@style/editor_spinner_text_style" />
+            <aurora.widget.AuroraButton android:textSize="@dimen/aurora_editor_field_text_size" android:textColor="@color/aurora_add_button_text_color" android:gravity="left|center" android:id="@id/ringtone_list" android:background="@null" android:paddingLeft="16.0dip" android:paddingRight="15.0dip" android:focusable="true" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/editor_min_line_item_height" android:text="@string/gnDefaultLabel" android:singleLine="true" android:drawableRight="@drawable/aurora_ic_arrow_right" />
+        </LinearLayout>
+    </FrameLayout>
+</com.android.contacts.editor.GnRingtoneEditorView>

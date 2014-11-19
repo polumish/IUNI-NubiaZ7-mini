@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_menu_search_holo_dark" android:id="@id/gn_search" android:title="@string/menu_search" android:showAsAction="always" />
+    <item android:icon="@drawable/ic_menu_msg_compose_holo_dark" android:id="@id/gn_action_compose_new" android:title="@string/new_message" android:showAsAction="always" />
+    <item android:id="@id/gn_action_delete_all_draft" android:title="@string/delete_all_dratfs" />
+    <item android:id="@id/gn_action_cancel_all_favorite" android:title="@string/gn_cancel_all_favorite" />
+    <item android:id="@id/gn_action_delete_all" android:title="@string/menu_delete_all" />
+    <item android:id="@id/gn_action_in_out" android:title="@string/pref_title_io_settings" />
+    <item android:id="@id/gn_action_doctoran" android:title="@string/gn_menu_doctoran" />
+    <item android:id="@id/gn_action_exchange" android:title="@string/gn_exchange" />
+    <item android:icon="@android:drawable/ic_menu_preferences" android:id="@id/gn_action_settings" android:title="@string/menu_preferences" />
+    <item android:id="@id/gn_action_sim_messages" android:title="@string/menu_sim_sms" />
+</menu>

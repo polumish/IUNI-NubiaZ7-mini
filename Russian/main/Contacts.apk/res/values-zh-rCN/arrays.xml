@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gn_entries_list_photo_options">
+        <item>单色人名</item>
+        <item>单色头像</item>
+        <item>不显示</item>
+    </string-array>
+    <string-array name="gn_entryvalues_list_photo_options">
+        <item>3</item>
+        <item>4</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gn_entries_list_photo_options_v2">
+        <item>彩色人名</item>
+        <item>彩色头像</item>
+        <item>单色人名</item>
+        <item>单色头像</item>
+        <item>不显示</item>
+    </string-array>
+    <string-array name="gn_entryvalues_list_photo_options_v2">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gn_entries_listitem_onclick_options">
+        <item>查看详情</item>
+        <item>拨打电话</item>
+    </string-array>
+    <string-array name="gn_entryvalues_listitem_onclick_options">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="gn_call_log_type">
+        <item>全部通话</item>
+        <item>已拨电话</item>
+        <item>已接电话</item>
+        <item>未接来电</item>
+    </string-array>
+    <string-array name="gn_call_log_type_empty">
+        <item>没有通话记录</item>
+        <item>没有已拨记录</item>
+        <item>没有已接记录</item>
+        <item>没有未接记录</item>
+    </string-array>
+    <string-array name="gn_gionee_number">
+        <item>4007796666</item>
+        <item>076982781000</item>
+        <item>076982782000</item>
+        <item>076982784000</item>
+        <item>076982785000</item>
+        <item>076982786000</item>
+        <item>076982787000</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>组织</item>
+        <item>备注</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_0000">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0001">false</item>
+    <item type="array" name="APKTOOL_DUMMY_0002">false</item>
+    <item type="array" name="APKTOOL_DUMMY_000f">false</item>
+</resources>

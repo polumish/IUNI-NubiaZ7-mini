@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="@dimen/aurora_editor_item_minheight" android:layout_marginTop="@dimen/aurora_add_button_margin_top"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:layout_gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/aurora_kind_view_bg" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/add_image" android:paddingRight="@dimen/aurora_add_button_image_padding_right" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/aurora_edit_add_field_image" />
+        <TextView android:textSize="@dimen/aurora_add_button_text_size" android:textColor="@color/aurora_add_button_text_color" android:id="@id/add_text" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/add_fields_more" />
+    </LinearLayout>
+</FrameLayout>

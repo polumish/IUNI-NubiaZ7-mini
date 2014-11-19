@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AuroraPreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.phone">
+    <com.android.phone.CdmaSystemSelectListPreference aurora:aurorakey="cdma_system_select_key" aurora:auroratitle="@string/cdma_system_select_title" aurora:aurorasummary="@string/cdma_system_select_summary" aurora:auroradialogTitle="@string/cdma_system_select_dialogtitle" aurora:auroraentries="@array/cdma_system_select_choices" aurora:auroraentryValues="@array/cdma_system_select_values" />
+    <com.android.phone.CdmaSubscriptionListPreference aurora:aurorakey="cdma_subscription_key" aurora:auroratitle="@string/cdma_subscription_title" aurora:aurorasummary="@string/cdma_subscription_summary" aurora:auroradialogTitle="@string/cdma_subscription_dialogtitle" aurora:auroraentries="@array/cdma_subscription_choices" aurora:auroraentryValues="@array/cdma_subscription_values" />
+    <AuroraPreferenceScreen aurora:aurorakey="cdma_activate_device_key" aurora:auroratitle="@string/cdma_activate_device">
+        <intent android:action="com.android.phone.PERFORM_VOICELESS_CDMA_PROVISIONING">
+            <extra android:name="autoStart" android:value="true" />
+        </intent>
+    </AuroraPreferenceScreen>
+</AuroraPreferenceScreen>

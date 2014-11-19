@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AuroraTheme" parent="@com.aurora:style/Theme.aurora.Light">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:actionModeBackground">@drawable/aurora_titlebar_bg</item>
+        <item name="android:actionModeCloseDrawable">@null</item>
+        <item name="android:actionModeCloseButtonStyle">@style/MyActionModeCloseButtonStyle</item>
+        <item name="android:actionModeSplitBackground">@drawable/aurora_menu_click_bg</item>
+    </style>
+    <style name="ActionBarStyle" parent="@android:style/Widget.Holo.Light.ActionBar.Solid">
+        <item name="android:background">@drawable/aurora_titlebar_bg</item>
+        <item name="android:height">50.0dip</item>
+        <item name="android:displayOptions">useLogo|showTitle</item>
+        <item name="android:titleTextStyle">@style/AuroraTitleTextStyle</item>
+        <item name="android:homeAsUpIndicator">@drawable/aurora_ic_actionbar_back</item>
+        <item name="android:backgroundStacked">@drawable/aurora_titlebar_bg</item>
+        <item name="android:backgroundSplit">@drawable/aurora_menu_click_bg</item>
+    </style>
+    <style name="AuroraTitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textSize">30.0sp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="MyActionModeCloseButtonStyle">
+        <item name="android:background">@null</item>
+    </style>
+    <style name="aurora_text_btn_style">
+        <item name="android:background">@drawable/selector_list_bg</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingTop">6.0dip</item>
+        <item name="android:paddingRight">10.0dip</item>
+        <item name="android:paddingBottom">6.0dip</item>
+        <item name="android:focusable">false</item>
+    </style>
+    <style name="aurora_text_style">
+        <item name="android:textSize">22.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:shadowColor">#aa000000</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">-1.0</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+    <style name="GnSmsAlertDialog" parent="@com.aurora:style/Theme.Aurora.Light.Dialog">
+        <item name="android:windowBackground">@color/gn_color_translucent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="GnPopContentBgStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:background">@color/gn_color_translucent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="Theme" parent="@android:style/Theme.Light" />
+    <style name="Theme.NoTitleBar" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="GnMmsLightTheme" parent="@com.aurora:style/Theme.Aurora.Light">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:actionBarStyle">@style/MyActionBarStyle</item>
+        <item name="android:actionModeBackground">@drawable/aurora_titlebar_bg</item>
+        <item name="android:actionModeSplitBackground">@drawable/gn_menu_light_bg</item>
+        <item name="com.aurora:auroraactionBarStyle">@style/AuroraLightActionBarStyle</item>
+    </style>
+    <style name="AuroraLightActionBarStyle" parent="@com.aurora:style/Widget.Aurora.Light.ActionBar.Solid.Inverse">
+        <item name="android:homeAsUpIndicator">@drawable/aurora_ic_actionbar_back</item>
+        <item name="com.aurora:aurorabackground">@drawable/aurora_titlebar_bg</item>
+        <item name="com.aurora:auroradisplayOptions">useLogo|showTitle</item>
+        <item name="com.aurora:auroratitleTextStyle">@style/AuroraTitleTextStyle</item>
+        <item name="com.aurora:aurorabackgroundStacked">@drawable/aurora_titlebar_bg</item>
+        <item name="com.aurora:aurorabackgroundSplit">@drawable/aurora_menu_click_bg</item>
+    </style>
+    <style name="GnMmsDarkTheme" parent="@com.aurora:style/Theme.Aurora.Dark">
+        <item name="android:windowBackground">@drawable/gn_background_dark_bg</item>
+        <item name="android:actionBarStyle">@style/DarkActionBarStyle</item>
+        <item name="android:actionModeBackground">@drawable/gn_tab_self_other_dark_bg</item>
+        <item name="android:actionBarTabStyle">@style/LightActionBarTabView</item>
+        <item name="android:actionBarTabTextStyle">@style/Gn_actionBarTabTextStyle</item>
+        <item name="android:actionModeSplitBackground">@drawable/gn_menu_dark_bg</item>
+        <item name="enableSectionColor">@color/alphbetIndexView_enable_section_dark</item>
+        <item name="disableSectionColor">@color/alphbetIndexView_disable_section_dark</item>
+        <item name="promptSectionColor">@color/alphbetIndexView_prompt_section_dark</item>
+        <item name="promptBgRes">@drawable/gn_show_window</item>
+        <item name="showingLetterColor">@color/alphbetIndexView_showing_section_dark</item>
+        <item name="gn_search_edit_text_bg">@drawable/gn_search_edit_text_bg_dark</item>
+    </style>
+    <style name="TabActivityTheme" parent="@com.aurora:style/Theme.Aurora.Dark">
+        <item name="android:windowBackground">@drawable/gn_background_holo_dark_bg</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:autoCompleteTextViewStyle">@style/GNAutoCompleteTextView</item>
+        <item name="android:dropDownListViewStyle">@style/GNdropDownListViewStyle</item>
+        <item name="android:listViewStyle">@style/GN_ListViewStyle</item>
+        <item name="android:itemTextAppearance">@style/GNTextAppearance</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:actionBarStyle">@style/MyActionBarStyle</item>
+        <item name="android:dropDownSpinnerStyle">@style/GN_dropDownSpinnerStyle</item>
+        <item name="android:actionModeBackground">@drawable/gn_tab_bg</item>
+        <item name="android:actionBarTabTextStyle">@style/Gn_actionBarTabTextStyle</item>
+        <item name="android:popupMenuStyle">@style/GNpopupMenuStyle</item>
+        <item name="android:alertDialogTheme">@style/GN_alert_dialog_theme</item>
+        <item name="android:actionBarWidgetTheme">@style/ActionBarTheme</item>
+        <item name="android:actionBarDivider">@null</item>
+        <item name="android:actionModeSplitBackground">@drawable/gn_menu_bg</item>
+    </style>
+    <style name="MyActionBarStyle" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@drawable/gn_tab_bg</item>
+        <item name="android:displayOptions">useLogo|showTitle</item>
+        <item name="android:titleTextStyle">@style/GnTitleTextStyle</item>
+        <item name="android:backgroundStacked">@drawable/gn_tab_bg</item>
+        <item name="android:backgroundSplit">@drawable/gn_menu_bg</item>
+    </style>
+    <style name="ActionBarTheme" parent="@android:style/Theme.Holo">
+        <item name="android:dropDownListViewStyle">@style/ListViewDropdownStyle</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textColorHint">#ffcccccc</item>
+        <item name="android:popupMenuStyle">@android:style/Widget.Holo.Light.PopupMenu</item>
+    </style>
+    <style name="GNpopupMenuStyle" parent="@android:style/Widget.Holo.PopupMenu">
+        <item name="android:popupBackground">@android:color/white</item>
+    </style>
+    <style name="GNAutoCompleteTextView" parent="@android:style/Widget.AutoCompleteTextView">
+        <item name="android:popupBackground">@color/gn_color_gray</item>
+    </style>
+    <style name="ListViewDropdownStyle" parent="@android:style/Widget.ListView.DropDown">
+        <item name="android:listSelector">?android:listChoiceBackgroundIndicator</item>
+    </style>
+    <style name="GN_ListViewStyle" parent="@android:style/Widget.Holo.ListView">
+        <item name="android:divider">@android:drawable/divider_horizontal_bright</item>
+    </style>
+    <style name="SecurityPreferenceButtonContainer" parent="@android:style/Holo.SegmentedButton">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:weightSum">2.0</item>
+        <item name="android:dividerPadding">8.0dip</item>
+    </style>
+    <style name="SecurityPreferenceButton" parent="@android:style/Widget.Holo.Button.Borderless">
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="GN_alert_dialog_theme" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:actionModeBackground">@drawable/cab_background_top_holo_dark</item>
+        <item name="android:actionModeCloseDrawable">@drawable/gn_menu_done</item>
+        <item name="android:actionModeCloseButtonStyle">@android:style/Widget.Holo.ActionButton.CloseMode</item>
+    </style>
+    <style name="Gn_actionBarTabTextStyle" parent="@android:style/Widget.Holo.ActionBar.TabText">
+        <item name="android:textSize">@dimen/gn_action_bar_tab_textsize</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/gn_tab_textcolor</item>
+    </style>
+    <style name="DarkActionBarStyle" parent="@com.aurora:style/Widget.Aurora.Dark.ActionBar">
+        <item name="android:background">@drawable/gn_tab_self_other_dark_bg</item>
+        <item name="android:displayOptions">useLogo|showTitle</item>
+        <item name="android:titleTextStyle">@style/GnTitleTextStyle</item>
+        <item name="android:backgroundStacked">@drawable/gn_tab_self_other_dark_bg</item>
+        <item name="android:backgroundSplit">@drawable/gn_menu_dark_bg</item>
+    </style>
+    <style name="LightActionBarTabView" parent="@android:style/Widget.Holo.ActionBar.TabView">
+        <item name="android:background">@drawable/gn_action_bar_item_back</item>
+    </style>
+    <style name="LightActionBarStyle" parent="@com.aurora:style/Widget.Aurora.Light.ActionBar.Solid.Inverse">
+        <item name="com.aurora:aurorabackground">@drawable/aurora_titlebar_bg</item>
+        <item name="com.aurora:auroradisplayOptions">useLogo|showTitle</item>
+        <item name="com.aurora:auroratitleTextStyle">@style/GnTitleTextStyle</item>
+        <item name="com.aurora:aurorabackgroundStacked">@drawable/aurora_titlebar_bg</item>
+        <item name="com.aurora:aurorabackgroundSplit">@drawable/gn_menu_light_bg</item>
+    </style>
+    <style name="GNTextAppearance" parent="@android:style/TextAppearance.Inverse">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="GNdropDownListViewStyle" parent="@android:style/Widget.Holo.ListView.DropDown">
+        <item name="android:divider">@android:drawable/divider_horizontal_bright</item>
+    </style>
+    <style name="GNSecurityPreferenceButtonContainer" parent="@android:style/Holo.Light.SegmentedButton">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:weightSum">2.0</item>
+        <item name="android:dividerPadding">8.0dip</item>
+    </style>
+    <style name="GNSecurityPreferenceButton" parent="@android:style/Widget.Holo.Light.Button.Borderless.Small">
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="GN_dropDownSpinnerStyle" parent="@android:style/Widget.Holo.Light.Spinner">
+        <item name="android:background">@drawable/gn_spinner_background_holo_dark</item>
+    </style>
+    <style name="GNExportTopTextViewStyle">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff33b5e5</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@drawable/gn_list_section_divider_holo_custom</item>
+        <item name="android:paddingLeft">8.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">20.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="TabActivityNewTheme" parent="@style/TabActivityTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="GnMmsLightNewTheme" parent="@style/GnMmsLightTheme">
+        <item name="android:windowBackground">@drawable/gn_new_background_light</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="GnMmsDarkNewTheme" parent="@style/GnMmsDarkTheme">
+        <item name="android:windowBackground">@drawable/gn_new_background_dark</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="GnEmptyTheme">
+        <item name="android:windowAnimationStyle">@style/GnOpenClose</item>
+    </style>
+    <style name="GnOpenClose">
+        <item name="android:activityOpenEnterAnimation">@null</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@null</item>
+    </style>
+    <style name="GnLightTheme" parent="@com.aurora:style/Theme.Aurora.Light">
+        <item name="android:windowBackground">@drawable/gn_background_light_bg</item>
+        <item name="android:actionBarTabStyle">@style/GnLightActionBarTabView</item>
+        <item name="android:actionBarTabTextStyle">@style/Gn_actionBarTabTextStyle</item>
+        <item name="android:actionMenuTextAppearance">@style/gn_actionMenuTextAppearance</item>
+        <item name="com.aurora:auroraactionBarStyle">@style/GnLightActionBarStyle</item>
+        <item name="enableSectionColor">@color/alphbetIndexView_enable_section_light</item>
+        <item name="disableSectionColor">@color/alphbetIndexView_disable_section_light</item>
+        <item name="promptSectionColor">@color/alphbetIndexView_prompt_section_light</item>
+        <item name="promptBgRes">@drawable/gn_show_window_light</item>
+        <item name="showingLetterColor">@color/alphbetIndexView_showing_section_light</item>
+        <item name="gn_search_edit_text_bg">@drawable/gn_search_edit_text_bg_light</item>
+    </style>
+    <style name="gn_actionMenuTextAppearance" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Menu">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="GnLightActionBarStyle" parent="@com.aurora:style/Widget.Aurora.Light.ActionBar.Solid.Inverse">
+        <item name="com.aurora:aurorabackground">@drawable/gn_new_tab_light_bg</item>
+        <item name="com.aurora:auroradisplayOptions">useLogo|showTitle</item>
+        <item name="com.aurora:aurorabackgroundStacked">@drawable/gn_new_tab_light_bg</item>
+        <item name="com.aurora:aurorabackgroundSplit">@drawable/gn_menu_light_bg</item>
+    </style>
+    <style name="GnLightActionBarTabView" parent="@android:style/Widget.Holo.ActionBar.TabView">
+        <item name="android:background">@drawable/gn_new_action_bar_item_back</item>
+    </style>
+    <style name="GnDarkTheme" parent="@com.aurora:style/Theme.Aurora.Dark">
+        <item name="android:windowBackground">@drawable/gn_background_dark_bg</item>
+        <item name="android:actionBarStyle">@style/GnDarkActionBarStyle</item>
+        <item name="android:actionBarTabStyle">@style/GnLightActionBarTabView</item>
+        <item name="android:actionBarTabTextStyle">@style/Gn_actionBarTabTextStyle</item>
+        <item name="enableSectionColor">@color/alphbetIndexView_enable_section_dark</item>
+        <item name="disableSectionColor">@color/alphbetIndexView_disable_section_dark</item>
+        <item name="promptSectionColor">@color/alphbetIndexView_prompt_section_dark</item>
+        <item name="promptBgRes">@drawable/gn_show_window</item>
+        <item name="showingLetterColor">@color/alphbetIndexView_showing_section_dark</item>
+        <item name="gn_search_edit_text_bg">@drawable/gn_search_edit_text_bg_dark</item>
+    </style>
+    <style name="GnDarkActionBarStyle" parent="@com.aurora:style/Widget.Aurora.Dark.ActionBar">
+        <item name="android:background">@drawable/gn_new_tab_light_bg</item>
+        <item name="android:displayOptions">useLogo|showTitle</item>
+        <item name="android:backgroundStacked">@drawable/gn_new_tab_light_bg</item>
+        <item name="android:backgroundSplit">@drawable/gn_menu_dark_bg</item>
+    </style>
+    <style name="SimSelectViewTheme1" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:background">@color/gn_color_translucent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="SimSelectViewTheme" parent="@com.aurora:style/Theme.Aurora.Light">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+    </style>
+    <style name="WidgetTitle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="GnTitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textSize">@dimen/gn_action_bar_title_text_size</item>
+        <item name="android:textColor">@color/gn_tab_textcolor</item>
+    </style>
+    <style name="TextAppearance">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHighlight">#ffff9200</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+        <item name="android:textColorLink">#ff5c5cff</item>
+    </style>
+    <style name="TextAppearance.SearchResult" parent="@style/TextAppearance">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:textColorPrimaryInverse</item>
+        <item name="android:textColorHint">?android:textColorHintInverse</item>
+    </style>
+    <style name="TextAppearance.SearchResult.Title" parent="@style/TextAppearance.SearchResult">
+        <item name="android:textSize">16.0sp</item>
+    </style>
+    <style name="TextAppearance.SearchResult.Subtitle" parent="@style/TextAppearance.SearchResult">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:textColor">?android:textColorSecondaryInverse</item>
+    </style>
+    <style name="MmsHoloTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar" />
+    <style name="MultiSelectionHoloTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/MultiSelectionActionBarStyle</item>
+    </style>
+    <style name="MultiSelectionActionBarStyle" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/cab_background_top_holo_dark</item>
+        <item name="android:itemPadding">8.0dip</item>
+        <item name="android:backgroundStacked">@drawable/cab_background_top_holo_dark</item>
+        <item name="android:backgroundSplit">@drawable/cab_background_bottom_holo_dark</item>
+    </style>
+    <style name="ActionBottomBarPopupAnimation" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/aurora_menu_enter</item>
+        <item name="android:windowExitAnimation">@anim/aurora_menu_exit</item>
+    </style>
+</resources>

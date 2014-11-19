@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gn_entries_list_photo_options">
+        <item>Default</item>
+        <item>Hide</item>
+    </string-array>
+    <string-array name="gn_entryvalues_list_photo_options">
+        <item>4</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gn_entries_list_photo_options_v2">
+        <item>Colorful</item>
+        <item>Default</item>
+        <item>Hide</item>
+    </string-array>
+    <string-array name="gn_entryvalues_list_photo_options_v2">
+        <item>1</item>
+        <item>4</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gn_entries_listitem_onclick_options">
+        <item>Show detail</item>
+        <item>Dail directly</item>
+    </string-array>
+    <string-array name="gn_entryvalues_listitem_onclick_options">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="gn_call_log_type">
+        <item>All calls</item>
+        <item>Outgoing calls</item>
+        <item>Received calls</item>
+        <item>Missed calls</item>
+    </string-array>
+    <string-array name="gn_call_log_type_empty">
+        <item>No calls</item>
+        <item>No Outgoing</item>
+        <item>NO Received</item>
+        <item>No Missed</item>
+    </string-array>
+    <string-array name="gn_gionee_number">
+        <item>4007796666</item>
+        <item>076982781000</item>
+        <item>076982782000</item>
+        <item>076982784000</item>
+        <item>076982785000</item>
+        <item>076982786000</item>
+        <item>076982787000</item>
+    </string-array>
+    <string-array name="gn_alphbet_index">
+        <item>☆</item>
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="gn_alphbet_index_fly">
+        <item>\#</item>
+        <item>A</item>
+        <item>C</item>
+        <item>E</item>
+        <item>G</item>
+        <item>I</item>
+        <item>K</item>
+        <item>M</item>
+        <item>O</item>
+        <item>R</item>
+        <item>T</item>
+        <item>V</item>
+        <item>X</item>
+        <item>Z</item>
+        <item>А</item>
+        <item>В</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>И</item>
+        <item>М</item>
+        <item>П</item>
+        <item>Ф</item>
+        <item>Ц</item>
+        <item>Ш</item>
+        <item>Ы</item>
+        <item>Э</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Organization</item>
+        <item>Note</item>
+    </string-array>
+</resources>

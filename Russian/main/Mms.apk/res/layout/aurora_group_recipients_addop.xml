@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/aurora_group_reci_add_op" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:textSize="20.0dip" android:textColor="@color/aurora_menu_item_title_change_color" android:gravity="center" android:id="@id/aurora_group_reci_add_op_create" android:background="@color/aurora_menu_item_select" android:paddingLeft="20.0dip" android:layout_width="fill_parent" android:layout_height="47.0dip" android:text="@string/aurora_created_contact" />
+    <TextView android:background="@drawable/aurora_divider_lan" android:layout_width="fill_parent" android:layout_height="1.0px" />
+    <Button android:textSize="20.0dip" android:textColor="@color/aurora_menu_item_title_change_color" android:gravity="center" android:id="@id/aurora_group_reci_add_op_insert" android:background="@color/aurora_menu_item_select" android:paddingLeft="20.0dip" android:layout_width="fill_parent" android:layout_height="47.0dip" android:text="@string/aurora_add_to_contact" />
+</LinearLayout>

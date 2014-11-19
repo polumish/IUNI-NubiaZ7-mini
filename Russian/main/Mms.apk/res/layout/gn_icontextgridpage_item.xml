@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/grid_item" android:background="@color/aurora_gridview_item_select" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="90.0dip" android:layout_height="112.0dip">
+        <TextView android:id="@id/aurora_left_line" android:background="@drawable/aurora_divider_por" android:layout_width="0.100000024dip" android:layout_height="fill_parent" />
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:background="@drawable/aurora_divider_lan" android:layout_width="fill_parent" android:layout_height="1.0px" />
+            <ImageView android:layout_gravity="center" android:id="@id/icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="28.399994dip" android:layout_marginBottom="6.6999817dip" />
+            <TextView android:textSize="12.0sp" android:textColor="#ff565656" android:layout_gravity="center" android:id="@id/label" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <TextView android:background="@drawable/aurora_divider_por" android:layout_width="0.100000024dip" android:layout_height="fill_parent" />
+    </LinearLayout>
+</LinearLayout>

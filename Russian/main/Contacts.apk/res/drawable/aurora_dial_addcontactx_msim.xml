@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable/aurora_dial_addcontact_press_msim" />
+    <item android:state_focused="true" android:drawable="@drawable/aurora_dial_addcontact_press_msim" />
+    <item android:state_enabled="false" android:drawable="@drawable/aurora_dial_addcontact_disable_msim" />
+    <item android:drawable="@drawable/aurora_dial_addcontact_msim" />
+</selector>

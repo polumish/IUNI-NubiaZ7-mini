@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <aurora.widget.AuroraListView android:id="@id/dialpadChooser" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/result_layout" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/empty_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <FrameLayout android:id="@id/call_log_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <TextView android:textSize="@dimen/gn_dialpad_sugest_text_size" android:textColor="?gn_super_call_log_secondary_text_color" android:gravity="left|center" android:id="@id/sugest_view" android:paddingLeft="30.0dip" android:paddingTop="@dimen/gn_dialpad_empty_view_padding_top" android:paddingRight="30.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <TextView android:textSize="24.0sp" android:textColor="?empty_view_text_color" android:gravity="center" android:id="@id/no_match_view" android:paddingTop="@dimen/gn_dialpad_empty_view_padding_top" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/gn_no_conditioned_contacts" />
+            <include android:id="@id/take_strange_num" android:visibility="gone" layout="@layout/gn_strange_num_button_view_v3" />
+        </LinearLayout>
+        <aurora.widget.AuroraListView android:scrollbarStyle="outsideOverlay" android:id="@id/list_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@null" />
+        <LinearLayout android:gravity="bottom" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:id="@id/dialpad_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <com.android.contacts.widget.GnDigitsContainer android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <LinearLayout android:id="@id/digits_container" android:background="@drawable/gn_dial_digits_container_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="50.0dip">
+                        <com.android.contacts.dialpad.DigitsEditText android:id="@id/digits" android:nextFocusRight="@id/deleteButton" style="@style/DialtactsDigitsStyle" />
+                        <ImageButton android:id="@id/deleteButton" android:background="@drawable/gn_dial_btn_delete_bg" android:nextFocusLeft="@id/digits" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/gn_dial_ic_delete" android:minWidth="56.0dip" android:contentDescription="@string/description_delete_button" />
+                    </LinearLayout>
+                    <LinearLayout android:gravity="bottom" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                        <TextView android:textColor="@color/gn_dial_number_area_text_color" android:gravity="center" android:id="@id/num_area" android:background="?gn_dial_num_area_bg" android:focusable="false" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" />
+                    </LinearLayout>
+                </com.android.contacts.widget.GnDigitsContainer>
+                <ViewFlipper android:id="@id/dialpad_flipper" android:background="@drawable/gn_dial_keyboard_bg" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/gn_dial_digit_keyboard" />
+                    <ViewStub android:id="@id/qwert_keyboard_stub" android:layout="@layout/gn_dialpad_qwertboard" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                </ViewFlipper>
+            </LinearLayout>
+        </LinearLayout>
+    </FrameLayout>
+    <com.android.contacts.widget.GnDialpadAdditionalButtonsV2 android:id="@id/dialpadAdditionalButtons" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <LinearLayout android:gravity="center" android:id="@id/gn_delete_split_bar" android:background="?gn_split_bar_bg" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center" android:id="@id/gn_delete_button" android:background="?android:actionBarItemBackground" android:layout_width="107.0dip" android:layout_height="fill_parent">
+            <TextView android:textAppearance="?android:textAppearanceSmall" android:gravity="center" android:id="@id/gn_delete" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/delete" android:drawableLeft="?gn_ic_menu_trash" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

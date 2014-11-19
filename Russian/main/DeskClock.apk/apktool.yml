@@ -1,0 +1,12 @@
+version: 2.1.2-BZ
+apkFileName: DeskClock.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '10206005'
+  versionName: 1.2.6.e
+compressionType: false

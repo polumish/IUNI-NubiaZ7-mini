@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AuroraPreferenceScreen aurora:auroratitle="@string/additional_cdma_call_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.phone"
+  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora">
+    <com.android.phone.CdmaVoicePrivacyCheckBoxPreference aurora:aurorakey="button_voice_privacy_key" aurora:auroratitle="@string/voice_privacy" aurora:aurorasummary="@string/voice_privacy_summary" aurora:aurorapersistent="false" />
+</AuroraPreferenceScreen>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sharedUserLabel">Android Core Apps</string>
+    <string name="app_label">Contacts Storage</string>
+    <string name="provider_label">Contacts</string>
+    <string name="upgrade_msg">Upgrading Contacts database.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Contact upgrade needs more memory</string>
+    <string name="upgrade_out_of_memory_notification_title">Upgrading contact storage</string>
+    <string name="upgrade_out_of_memory_notification_text">Select to complete the upgrade.</string>
+    <string name="default_directory">Contacts</string>
+    <string name="local_invisible_directory">Other</string>
+    <string name="read_write_all_voicemail_label">Access all voicemails</string>
+    <string name="read_write_all_voicemail_description">Allows the application to store and retrieve all voicemails that this device can access.</string>
+    <string name="voicemail_from_column">"Voicemail from "</string>
+    <string name="unknown">Unknown</string>
+    <string name="common_name_prefixes" />
+    <string name="common_name_suffixes" />
+    <string name="common_last_name_prefixes" />
+    <string name="common_name_conjunctions" />
+    <string name="create_contact_using">"Create contact
+using %s"</string>
+    <string name="dial_number_using">"Dial number
+using %s"</string>
+    <string name="aurora_group_family">Family</string>
+    <string name="aurora_group_friend">Friend</string>
+    <string name="aurora_group_classmate">Classmate</string>
+    <string name="aurora_group_colleague">Colleague</string>
+    <string name="aurora_mark_1">Harass Call</string>
+    <string name="aurora_mark_2">Seller</string>
+    <string name="aurora_mark_3">Agent</string>
+    <string name="aurora_mark_4">Courier</string>
+    <string name="aurora_mark_5">Cheater</string>
+    <string name="aurora_service_number">Service Number</string>
+    <string name="aurora_local_number">local number</string>
+</resources>

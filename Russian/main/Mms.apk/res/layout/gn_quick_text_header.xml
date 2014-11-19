@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="?android:listPreferredItemHeight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/gn_quick_text_header_pic" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gn_ic_new_phrase" />
+    <com.gionee.mms.ui.GnTextView android:textAppearance="?android:textAppearanceMedium" android:layout_gravity="center_vertical" android:id="@id/gn_quick_text_header_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/quick_text_header_text" />
+</LinearLayout>

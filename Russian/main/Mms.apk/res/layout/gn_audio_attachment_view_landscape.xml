@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.mms.ui.AudioAttachmentView android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/gn_audio_attachment_view_landscape" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <LinearLayout android:gravity="left" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_weight="1.0">
+            <ImageView android:id="@id/audio_image_content" android:paddingBottom="2.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_launcher_record_audio" />
+            <TextView android:id="@id/audio_name" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <TextView android:textSize="11.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:id="@id/media_size_info" android:background="#88000000" android:paddingLeft="3.0dip" android:paddingRight="3.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20.0dip" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+</com.android.mms.ui.AudioAttachmentView>

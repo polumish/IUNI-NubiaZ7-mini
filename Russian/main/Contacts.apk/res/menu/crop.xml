@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/gn_cancel_menu" android:id="@id/cancel" android:title="@string/cancel" android:showAsAction="always|withText" />
+    <item android:icon="@drawable/gn_ok_menu" android:id="@id/save" android:title="@string/crop_save_text" android:showAsAction="always|withText" />
+</menu>

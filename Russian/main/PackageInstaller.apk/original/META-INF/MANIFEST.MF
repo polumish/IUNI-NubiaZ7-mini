@@ -1,0 +1,258 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable/down_arrow.xml
+SHA1-Digest: QE1w+SI2/EZTsK1Nj8ioHIsuhf4=
+
+Name: res/drawable-xxhdpi/progress_18.png
+SHA1-Digest: F4eFYCv0IqoV5qxdL9R2AFuoptU=
+
+Name: res/drawable/up_arrow.xml
+SHA1-Digest: O+o7ZukvZZti5lYi/rOs9JcdHKo=
+
+Name: res/drawable-xxhdpi/item_of_up_pressed.9.png
+SHA1-Digest: Q1mSySOE9mCWP3nga4rFROVNRMg=
+
+Name: res/drawable-xxhdpi/progress_3.png
+SHA1-Digest: S4cy4LmAcgC8tMWKjUsGc3FaJdA=
+
+Name: res/drawable/text_sub_selector_with_hightlight_color.xml
+SHA1-Digest: YXwkaBJXVP/FoObj+gOB+za85Rc=
+
+Name: res/drawable-xxhdpi/progress_1.png
+SHA1-Digest: el1YRre/YUJS61UcPCxwOCmHRvs=
+
+Name: res/drawable-xxhdpi/progress_15.png
+SHA1-Digest: 8Z8GCK0X/pA5NAZwjJlJ0n4QKAg=
+
+Name: res/drawable-xhdpi/ic_coins_s.png
+SHA1-Digest: jtkNYSoLoXQUEV4rqNFVGloiyxk=
+
+Name: res/drawable-xxhdpi/item_of_bottom_bg.9.png
+SHA1-Digest: wqmuMO397j1mBZ1k8ndnBRBZOMk=
+
+Name: res/drawable-xxhdpi/item_bg.9.png
+SHA1-Digest: YSgW1lcH0bNWHOtHrXR5wrkUosc=
+
+Name: assets/PackageInstallerActivity.java
+SHA1-Digest: 0Ztpu1xa2YGyuCXt4NKSDla7Wp8=
+
+Name: res/drawable-xxhdpi/progress_14.png
+SHA1-Digest: jteRxDCG1RgnvMrAZnZYxs4xeLo=
+
+Name: res/drawable-hdpi/ic_text_dot.png
+SHA1-Digest: 9cySMFJ3eVstpBQiDTZM2UkUmts=
+
+Name: res/layout/uninstall_progress.xml
+SHA1-Digest: YSYhSNkspdcnvxG6Gv/Y05saf9A=
+
+Name: res/drawable-xhdpi/ic_bullet_key_permission.png
+SHA1-Digest: UD0Qa90P5tYK7OSBR73SiBBXkWE=
+
+Name: res/drawable/gn_tab_light_bg.9.png
+SHA1-Digest: Qho8SflC42gAwBFjFCbafQIjQhg=
+
+Name: res/drawable-hdpi/ic_fail.png
+SHA1-Digest: Nr1r1aHpkGrW42RfF7D6uYSPKeA=
+
+Name: res/drawable-xxhdpi/progress_4.png
+SHA1-Digest: S3gm/6L6/tEdWfwmFUZDUlUeDL4=
+
+Name: res/drawable-xxhdpi/progress_11.png
+SHA1-Digest: lDua9owSEdjc9byukfw9zfNrbyU=
+
+Name: res/drawable-xxhdpi/progress_23.png
+SHA1-Digest: LXoctKZhB4wPRhaQuKHXHERIYoM=
+
+Name: res/drawable-xxhdpi/item_of_bottom_line_bg.9.png
+SHA1-Digest: X2ZWdnjsPIGUyHCBdPlBexBSsx0=
+
+Name: res/layout/install_confirm_list_header.xml
+SHA1-Digest: GrYqJAuDBX9h0yF2cvo9365cwzE=
+
+Name: res/drawable-xxhdpi/item_of_bottom_pressed.9.png
+SHA1-Digest: GSMePZGUfvVQSeF00tAgukWbr9k=
+
+Name: res/drawable-xxhdpi/line.9.png
+SHA1-Digest: ZQpV4b21d8QegSte2S/NXZpPFPU=
+
+Name: res/drawable/item_of_middle.xml
+SHA1-Digest: Tp3I4AYlDcoEDVmVxYIo+fzEHFI=
+
+Name: res/drawable-hdpi/ic_success_black.png
+SHA1-Digest: wHPzmaq9zViqrqW3VVzw98LiPUY=
+
+Name: res/drawable-xxhdpi/point.png
+SHA1-Digest: U30f4+G6rEPwpUXzE+ZiPFBcxnM=
+
+Name: res/drawable-xxhdpi/ic_fail_black.png
+SHA1-Digest: FUpVPTumMnn8td+UuHrC8XZqgOU=
+
+Name: res/drawable/ic_result_status.xml
+SHA1-Digest: Vcc4N9aKJajzzzssyKNEC2Iv6iI=
+
+Name: res/drawable-xxhdpi/progress_7.png
+SHA1-Digest: tgQI7B7wKziAdzV+n/BzsEZVKh4=
+
+Name: res/drawable-xxhdpi/progress_6.png
+SHA1-Digest: HuxjVPQtiFm9eIEyKEe2RmaCJYw=
+
+Name: res/drawable-xxhdpi/item_of_up_bg.9.png
+SHA1-Digest: VYM8TWdtFgo1hfoRtapcnSQydMA=
+
+Name: res/drawable-xxhdpi/progress_2.png
+SHA1-Digest: J7mTAupwkLp86IwkpPES1IZUcvg=
+
+Name: res/drawable/ic_result_status_black.xml
+SHA1-Digest: wOlybE0JoqmgLEQn8Wh5HArAG94=
+
+Name: res/drawable-xxhdpi/item_of_middle_pressed.9.png
+SHA1-Digest: yWcW1CpYKI6IR/DDGQic5qiZOXU=
+
+Name: res/layout/app_details.xml
+SHA1-Digest: abOA76Lj18R4s+/qV5PIePrtfn8=
+
+Name: res/drawable-hdpi/ic_bullet_key_permission.png
+SHA1-Digest: 9cySMFJ3eVstpBQiDTZM2UkUmts=
+
+Name: res/layout/uninstall_confirm.xml
+SHA1-Digest: icT6in2Lor70YAoVQS7IOqO1lrM=
+
+Name: res/drawable/item_of_bottom_line.xml
+SHA1-Digest: gtPXkJT0tueP+qaiJjQhPhhUXGA=
+
+Name: res/drawable-xxhdpi/progress_17.png
+SHA1-Digest: lXhcLz0v2hmmacCr05HCRCzMgNg=
+
+Name: res/anim/alert_activity_out.xml
+SHA1-Digest: ljr756JJQNtmkipdSa1yvy+0jTA=
+
+Name: res/drawable-hdpi/ic_fail_black.png
+SHA1-Digest: mJnCOC0sEgUrjka/2+PQVVJ3pN4=
+
+Name: res/drawable-xxhdpi/install_ok_img.png
+SHA1-Digest: lCjxnfw3BfL5NfFX0krq5SUvdQI=
+
+Name: res/drawable-xxhdpi/progress_16.png
+SHA1-Digest: 4rXV4LQla+nsVgu4n7/ZpNGgcTI=
+
+Name: res/drawable-xxhdpi/progress_13.png
+SHA1-Digest: QzaGeVXYcn9CSjGIHVlJ+pnyyaw=
+
+Name: res/drawable-xxhdpi/progress_8.png
+SHA1-Digest: 4/bm6RGmeb7vPrrlNk6KXfIJg8s=
+
+Name: res/drawable-xhdpi/ic_fail.png
+SHA1-Digest: IbNDLtFrlobFvSqlK1dXiKChOoY=
+
+Name: res/drawable-xxhdpi/progress_20.png
+SHA1-Digest: J2FjSXRiQfvCWGxBK6YxkX5uwCI=
+
+Name: res/drawable-xxhdpi/down_arrow_bg.png
+SHA1-Digest: EdRBsnbhsg9C+OmHBeoKh5hEa+Y=
+
+Name: res/drawable-xxhdpi/down_arrow_press.png
+SHA1-Digest: ktnfwwBeOrm0VCSjfobv5meXpnI=
+
+Name: resources.arsc
+SHA1-Digest: zNbwQKH7Zw1kOfXmseGTQSj4PVU=
+
+Name: res/drawable-xxhdpi/progress_9.png
+SHA1-Digest: FsrHn968zSIh4JMVWIGMv40g1B4=
+
+Name: res/drawable-xxhdpi/progress_19.png
+SHA1-Digest: 5sp+QdF8/uyOUYXavj96r+ltbc4=
+
+Name: res/drawable/item_of_alone.xml
+SHA1-Digest: VBYZphHw/F/CvBf/02ncfyfB6kE=
+
+Name: res/drawable-hdpi/ic_coins_s.png
+SHA1-Digest: 2lwkQFcDLisf+/uJ4xGgRgwQ0+c=
+
+Name: res/drawable-xxhdpi/install_fail_img.png
+SHA1-Digest: UDeovzp/WX7fyPAAuOOUzje69WI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: XSX4LItslz+dnUj/1qAJ4oQdbCo=
+
+Name: res/layout/op_progress.xml
+SHA1-Digest: UI5281/uQVUsPaSccMrM9mkMbdQ=
+
+Name: res/layout/install_confirm_list_item.xml
+SHA1-Digest: hE95K3Xq8H+1T3jGCGroBZcPXzM=
+
+Name: res/drawable/item_of_up.xml
+SHA1-Digest: Dv1xShKtl/vyLlTIh6uD/I+Gfzg=
+
+Name: res/drawable-xxhdpi/item_of_middle_bg.9.png
+SHA1-Digest: phsUxoigkJSMIPXv0Ls9Mo1otYc=
+
+Name: res/drawable-xxhdpi/progress_5.png
+SHA1-Digest: +1Uj/zUJyZImwynY/KDZz05uZ0o=
+
+Name: res/layout/alert_dialog_uninstall_confirm.xml
+SHA1-Digest: es4cQAjR1UKmaVYReMd8twHJYiw=
+
+Name: res/anim/waiting.xml
+SHA1-Digest: yCU3uKo0rxYJ5uiM4GxO4P1zo7Y=
+
+Name: res/drawable/progress_bar_layer.xml
+SHA1-Digest: NQ+RQoND1L94WQSQbv4ywjCpJxQ=
+
+Name: res/drawable-xxhdpi/item_of_alone_bg.9.png
+SHA1-Digest: E6faRGHZ18hzCXds7g2OcsMAHv0=
+
+Name: res/drawable-xxhdpi/progress_21.png
+SHA1-Digest: hhK5L5pYXHJ9W+ysH5vV41z3VTM=
+
+Name: res/drawable-xxhdpi/progress_22.png
+SHA1-Digest: qzVoX0dBXhEB8cMhJEiHernafyY=
+
+Name: res/drawable-xxhdpi/item_of_alone_pressed.9.png
+SHA1-Digest: ZELmDkwatVSN/gMC6OF0vohNR8I=
+
+Name: res/drawable/gn_tab_dark_bg.9.png
+SHA1-Digest: Qho8SflC42gAwBFjFCbafQIjQhg=
+
+Name: res/drawable-xxhdpi/up_arrow_press.png
+SHA1-Digest: 6tZQCx+mt19sidA5sJSseHUoKdQ=
+
+Name: res/drawable-xxhdpi/progress_12.png
+SHA1-Digest: nNYScSDU1Zdv0hzi59TxaIriDTY=
+
+Name: classes.dex
+SHA1-Digest: ZvrOB4Zrh/8ZID0wv3bcvJRLV+Y=
+
+Name: res/drawable/text_title_selector_color.xml
+SHA1-Digest: pupZrni/TqYoYaacIyLB1TdNA88=
+
+Name: res/drawable-xhdpi/ic_success.png
+SHA1-Digest: oeCqnqiRCHQ1Qk4ArHgFxn0dRAY=
+
+Name: res/layout/install_confirm.xml
+SHA1-Digest: wI5nCKuonJqnKcTikH73jxAuofA=
+
+Name: res/drawable/text_sub_selector_color.xml
+SHA1-Digest: OFoshGpBCMlcDST9RjH9shjp9vQ=
+
+Name: res/drawable-xxhdpi/up_arrow_bg.png
+SHA1-Digest: ObOofoIm9zAauZKcPoJbhdfyjfw=
+
+Name: res/layout/install_start.xml
+SHA1-Digest: BYjbOB4xosQt3OWNOhoBuyzr5x4=
+
+Name: res/drawable/item_of_bottom.xml
+SHA1-Digest: 26sAxU0gVjgOtRc2z2Apeex1Z2k=
+
+Name: res/drawable-xxhdpi/progress_10.png
+SHA1-Digest: tr/B2MC0ThjrvoDKW0lyWAQPYkA=
+
+Name: res/drawable-xxhdpi/ic_success_black.png
+SHA1-Digest: SdIb5AcCD/GRWUFCToFR9xWLrc0=
+
+Name: res/drawable-xhdpi/ic_text_dot.png
+SHA1-Digest: UD0Qa90P5tYK7OSBR73SiBBXkWE=
+
+Name: res/drawable-hdpi/ic_success.png
+SHA1-Digest: KHPY2R+bzsVhEyaRpbz6mVo9xrk=
+

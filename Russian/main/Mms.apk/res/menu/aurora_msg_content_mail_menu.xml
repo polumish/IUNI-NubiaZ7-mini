@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/aurora_msg_mail_send" android:title="@string/aurora_send_mail" />
+    <item android:id="@id/aurora_msg_mail_copy" android:title="@string/aurora_copy" />
+    <item android:id="@id/aurora_msg_mail_created" android:title="@string/aurora_created_contact" />
+    <item android:id="@id/aurora_msg_mail_add" android:title="@string/aurora_add_to_contact" />
+</menu>

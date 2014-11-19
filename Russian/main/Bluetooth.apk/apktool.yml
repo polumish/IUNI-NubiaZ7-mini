@@ -1,0 +1,16 @@
+version: 2.1.2-BZ
+apkFileName: Bluetooth.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  - 7
+sdkInfo:
+  minSdkVersion: '15'
+  targetSdkVersion: '15'
+packageInfo:
+  rename-manifest-package: com.android.bluetooth
+  forced-package-id: '7'
+versionInfo:
+  versionCode: '15'
+compressionType: false

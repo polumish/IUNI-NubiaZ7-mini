@@ -1,0 +1,15 @@
+version: 2.1.2-BZ
+apkFileName: ContactsProvider.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '15'
+  targetSdkVersion: '15'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '1'
+  versionName: '1.707'
+compressionType: false

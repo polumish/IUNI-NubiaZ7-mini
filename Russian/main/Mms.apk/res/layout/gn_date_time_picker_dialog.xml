@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="40.0dip">
+        <TextView android:gravity="center" android:id="@id/gn_date_text" android:background="@drawable/gn_select_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <TextView android:gravity="center" android:id="@id/gn_time_text" android:background="@drawable/gn_light_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    </LinearLayout>
+    <aurora.widget.AuroraDatePicker android:layout_gravity="center_horizontal" android:id="@id/gn_datePicker" android:layout_width="wrap_content" android:layout_height="wrap_content" android:spinnersShown="true" android:calendarViewShown="false" />
+    <aurora.widget.AuroraTimePicker android:layout_gravity="center_horizontal" android:id="@id/gn_timePicker" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</LinearLayout>

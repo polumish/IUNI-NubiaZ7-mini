@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.contacts.calllog.AuroraCallLogListItemViewV2 android:id="@id/aurora_primary_action_view" android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="@dimen/aurora_two_lines_list_view_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/aurora_secondary_action_container" android:descendantFocusability="afterDescendants" android:layout_width="40.0dip" android:layout_height="@dimen/aurora_two_lines_list_view_item_height" android:layout_alignParentRight="true">
+        <View android:id="@id/aurora_calllog_divider" android:background="@color/aurora_seprate_line_color" android:visibility="gone" android:layout_width="1.0px" android:layout_height="20.0dip" />
+        <com.mediatek.contacts.widget.DontPressWithParentImageButton android:id="@id/aurora_secondary_action_icon" android:background="@drawable/aurora_call_log_detail_button" android:focusable="false" android:layout_width="39.75dip" android:layout_height="@dimen/aurora_two_lines_list_view_item_height" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/checkbox_container" android:layout_width="15.0dip" android:layout_height="33.5dip" android:layout_alignParentLeft="true">
+        <aurora.widget.AuroraCheckBox android:layout_gravity="bottom" android:id="@id/aurora_list_item_check_box" android:focusable="false" android:visibility="gone" android:clickable="false" android:layout_width="15.0dip" android:layout_height="18.5dip" />
+    </LinearLayout>
+    <RelativeLayout android:id="@id/content" android:layout_width="fill_parent" android:layout_height="@dimen/aurora_two_lines_list_view_item_height">
+        <TextView android:textSize="10.0sp" android:textColor="@color/aurora_calllog_list_text_color_edit_1" android:id="@id/aurora_call_date" android:layout_width="wrap_content" android:layout_height="11.75dip" android:layout_marginRight="39.75dip" android:singleLine="true" android:layout_alignParentRight="true" android:layout_centerVertical="true" aurora:auroraTextBaseLinePadding="3" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/namecount" android:layout_width="wrap_content" android:layout_height="18.5dip" android:layout_marginTop="11.5dip" android:layout_toLeftOf="@id/aurora_call_date" android:layout_alignParentLeft="true" android:layout_alignParentTop="true">
+            <ImageView android:id="@id/aurora_sim_icon" android:layout_width="13.5dip" android:layout_height="15.5dip" android:layout_marginRight="7.0dip" android:src="@drawable/sim1_icon" />
+            <TextView android:textSize="16.0sp" android:textColor="@color/aurora_calllog_list_text_color_edit_2" android:id="@id/aurora_name" android:layout_width="wrap_content" android:layout_height="18.5dip" android:maxWidth="195.0dip" android:text="@string/account_phone" android:singleLine="true" aurora:auroraTextBaseLinePadding="1" />
+            <TextView android:textSize="13.0sp" android:textColor="@color/aurora_calllog_list_text_color_edit_2" android:id="@id/aurora_call_count" android:layout_width="wrap_content" android:layout_height="15.25dip" android:layout_marginLeft="5.0dip" android:singleLine="true" aurora:auroraTextBaseLinePadding="1" />
+            <LinearLayout android:orientation="horizontal" android:id="@id/aurora_sogou_line" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip">
+                <ImageView android:layout_gravity="center_vertical" android:id="@id/aurora_sogou_divider" android:background="@drawable/aurora_ver_driver" android:focusable="false" android:focusableInTouchMode="false" android:duplicateParentState="false" android:layout_width="1.0px" android:layout_height="10.5dip" android:contentDescription="@string/sms" />
+                <TextView android:textSize="12.0sp" android:textColor="@color/aurora_calllog_list_text_color_edit_reject" android:id="@id/aurora_reject_note" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:singleLine="true" />
+                <ImageView android:layout_gravity="center_vertical" android:id="@id/sogou_icon" android:layout_width="9.75dip" android:layout_height="8.5dip" android:layout_marginLeft="7.0dip" android:src="@drawable/aurora_sogou_small_icon" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/sencond_line_container" android:layout_width="wrap_content" android:layout_height="13.0dip" android:layout_marginLeft="5.0dip" android:layout_marginTop="4.25dip" android:layout_below="@id/namecount" android:layout_alignLeft="@id/namecount">
+            <ImageView android:id="@id/aurora_call_type" android:paddingRight="8.0dip" android:paddingBottom="3.0dip" android:layout_width="14.0dip" android:layout_height="9.0dip" android:layout_marginTop="4.299988dip" android:src="@drawable/aurora_ic_call_incoming" />
+            <TextView android:textSize="11.0sp" android:textColor="@color/aurora_calllog_list_text_color_edit_3" android:ellipsize="end" android:id="@id/aurora_number" android:layout_width="wrap_content" android:layout_height="13.0dip" android:maxWidth="148.0dip" android:singleLine="true" aurora:auroraTextBaseLinePadding="3" />
+            <TextView android:textSize="11.0sp" android:textColor="@color/aurora_calllog_list_text_color_edit_3" android:id="@id/call_duration" android:layout_width="wrap_content" android:layout_height="13.0dip" android:singleLine="true" aurora:auroraTextBaseLinePadding="3" />
+            <TextView android:textSize="11.0sp" android:textColor="@color/aurora_calllog_list_text_color_edit_3" android:id="@id/aurora_area" android:layout_width="wrap_content" android:layout_height="13.0dip" android:singleLine="true" aurora:auroraTextBaseLinePadding="3" />
+        </LinearLayout>
+    </RelativeLayout>
+</com.android.contacts.calllog.AuroraCallLogListItemViewV2>

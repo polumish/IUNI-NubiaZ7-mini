@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aurora.preference.AuroraPreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora">
+    <aurora.preference.AuroraPreferenceCategory aurora:aurorakey="pref_key_import_sms" aurora:auroratitle="@string/import_message_list" />
+</aurora.preference.AuroraPreferenceScreen>

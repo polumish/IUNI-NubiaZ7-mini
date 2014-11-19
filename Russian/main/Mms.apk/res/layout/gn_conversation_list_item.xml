@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.mms.ui.ConversationListItem android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/gn_list_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBox android:gravity="center_vertical" android:id="@id/gn_conv_select_check_box" android:paddingRight="@dimen/gn_checkbox_right" android:focusable="false" android:visibility="gone" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    <LinearLayout android:id="@id/gn_avatar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="16.0dip" android:layout_alignParentLeft="true" android:layout_centerVertical="true">
+        <android.widget.QuickContactBadge android:id="@id/avatar" android:visibility="gone" android:layout_marginLeft="4.0dip" android:layout_marginRight="4.0dip" android:scaleType="centerCrop" style="?android:attr/quickContactBadgeStyleWindowMedium" />
+    </LinearLayout>
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/gn_list_margin_top_size" android:layout_marginBottom="@dimen/gn_list_margin_bottom_size" android:layout_toLeftOf="@id/gn_conv_select_check_box" android:layout_toRightOf="@id/gn_avatar">
+        <ImageView android:id="@id/presence" android:paddingBottom="20.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+        <com.gionee.mms.ui.GnTextView android:textAppearance="?android:textAppearanceMedium" android:ellipsize="end" android:id="@id/from" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_toLeftOf="@id/attachment" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignWithParentIfMissing="true" />
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:id="@id/date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/gn_list_item_left_margin" android:layout_marginRight="@dimen/gn_list_item_right_margin" android:singleLine="true" android:layout_below="@id/from" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+        <View android:id="@id/right_panel" android:background="@drawable/white_background" android:visibility="invisible" android:layout_width="5.0dip" android:layout_height="wrap_content" android:layout_alignParentRight="true" />
+        <ImageView android:id="@id/gn_error" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gn_ic_list_alert_sms_failed" android:layout_toLeftOf="@id/gn_unread_view" android:layout_alignTop="@id/from" />
+        <ImageView android:id="@id/attachment" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:layout_toLeftOf="@id/gn_error" android:layout_alignTop="@id/from" />
+        <ImageView android:id="@id/gn_unread_view" android:paddingRight="4.0dip" android:visibility="gone" android:layout_width="26.0dip" android:layout_height="26.0dip" android:layout_toLeftOf="@id/right_panel" android:layout_alignTop="@id/from" />
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_toLeftOf="@id/date" android:layout_below="@id/from" android:layout_alignParentBottom="true" android:layout_alignWithParentIfMissing="true">
+            <TextView android:textAppearance="?android:textAppearanceSmall" android:ellipsize="end" android:id="@id/subject" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+            <ImageView android:ellipsize="marquee" android:id="@id/encryptionimage" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gn_ic_encryptionimage" />
+        </RelativeLayout>
+    </RelativeLayout>
+</com.android.mms.ui.ConversationListItem>

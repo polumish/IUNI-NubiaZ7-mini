@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheckedTextView android:textSize="18.0sp" android:id="@id/quick_text" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" android:minHeight="60.0sp" android:maxLength="200"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

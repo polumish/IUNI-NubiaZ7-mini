@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="multi_sim_entries">
+        <item>卡1</item>
+        <item>卡2</item>
+        <item>卡3</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>网络默认设置</item>
+        <item>隐藏号码</item>
+        <item>显示号码</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
+        <item>TD-SCDMA/GSM/WCDMA/CDMA/EVDO</item>
+        <item>TD-SCDMA/GSM/WCDMA/LTE</item>
+        <item>TD-SCDMA/WCDMA/LTE</item>
+        <item>TD-SCDMA/GSM/WCDMA</item>
+        <item>TD-SCDMA/GSM/LTE</item>
+        <item>TD-SCDMA/GSM</item>
+        <item>TD-SCDMA/LTE</item>
+        <item>TD-SCDMA/WCDMA</item>
+        <item>TD-SCDMA only</item>
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>通用</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>仅 EvDo</item>
+        <item>CDMA，无 EvDo 功能</item>
+        <item>CDMA/EvDo 自动选择</item>
+        <item>GSM/WCDMA 自动选择</item>
+        <item>仅 WCDMA</item>
+        <item>仅 GSM</item>
+        <item>首选 GSM/WCDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>英语</item>
+        <item>法语</item>
+        <item>西班牙语</item>
+        <item>日语</item>
+        <item>韩语</item>
+        <item>中文</item>
+        <item>希伯来语</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>仅本地系统</item>
+        <item>自动</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY 已停用</item>
+        <item>TTY 已满</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>正常</item>
+        <item>长</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>始终</item>
+        <item>仅在静音时</item>
+        <item>永不</item>
+    </string-array>
+    <string-array name="aurora_preferred_network_mode_choices">
+        <item>仅3G</item>
+        <item>仅2G</item>
+        <item>3G优先</item>
+    </string-array>
+    <string-array name="aurora_3rd_sim_choices">
+        <item>卡1</item>
+        <item>卡2</item>
+    </string-array>
+    <string-array name="cm_preferred_network_mode_choices">
+        <item>4G/3G/2G</item>
+        <item>仅限3G</item>
+        <item>仅限2G</item>
+        <item>3G/2G</item>
+    </string-array>
+</resources>

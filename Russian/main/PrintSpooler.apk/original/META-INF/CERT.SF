@@ -1,0 +1,73 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: WV1MkrZhwtadvyNnxalG6hBNwIo=
+
+Name: res/layout/print_job_config_activity_content_error.xml
+SHA1-Digest: lemuPq63rEZGDdapJ0iEIfNHrI0=
+
+Name: res/layout/print_job_config_activity_container.xml
+SHA1-Digest: FOYwNL+EkCZ2+qGtNMk/v68ER3M=
+
+Name: res/drawable-mdpi/ic_menu_print.png
+SHA1-Digest: 9b35K/zJqDd/qEtFPDpqaWo+34c=
+
+Name: res/color/item_text_color.xml
+SHA1-Digest: 4xgbMQoqkYr6mrNIXh0dTYWePZQ=
+
+Name: resources.arsc
+SHA1-Digest: Bq82nMnqRgnmFP5w8qQccuNT5og=
+
+Name: res/drawable-mdpi/stat_notify_cancelling.png
+SHA1-Digest: uHKtK88HlqU2P+KIXQMDweNHvcE=
+
+Name: res/layout/spinner_dropdown_item.xml
+SHA1-Digest: EyUA+k0v+28XjAcVlmGmhDEXltM=
+
+Name: res/layout/select_printer_fragment.xml
+SHA1-Digest: es8ypyQQGXfgpJaVld5g/KkOE90=
+
+Name: classes.dex
+SHA1-Digest: 7ZiSgsxiX+a0SbrA1MXRXykuA/Y=
+
+Name: res/layout/printer_dropdown_item.xml
+SHA1-Digest: QcGShm9sLWgRW3EGTFcFhnS9mXc=
+
+Name: res/drawable-mdpi/ic_restart.png
+SHA1-Digest: jUbl7Gz7hsPBFPawyZD01hdMUOo=
+
+Name: AndroidManifest.xml
+SHA1-Digest: DZUvZOMuLbTlSRdC4avBtvoHeDI=
+
+Name: res/layout/printer_list_item.xml
+SHA1-Digest: ciERpI0IsqbU1HmMSve5YqrF7hM=
+
+Name: res/drawable-xhdpi/ic_restart.png
+SHA1-Digest: CSketolYsoLUhqHQ0PSB1xbKARo=
+
+Name: res/drawable-hdpi/ic_restart.png
+SHA1-Digest: d1Z5RtHp5MDdscWH1XFV7cGjmEE=
+
+Name: res/drawable-hdpi/ic_menu_print.png
+SHA1-Digest: NDenYSY5WCULqgu4oz3ygOO10tk=
+
+Name: res/menu/select_printer_activity.xml
+SHA1-Digest: 0uk9xuj6HJHfJn5y891PVwCjM/0=
+
+Name: res/drawable-xhdpi/ic_menu_print.png
+SHA1-Digest: 4NsfrKP2KFb1xTy1nA0Mlxeakq8=
+
+Name: res/layout/print_job_config_activity_content_generating.xml
+SHA1-Digest: fPW8ZZGejSqYHD30BeriEmQncGk=
+
+Name: res/drawable-hdpi/stat_notify_cancelling.png
+SHA1-Digest: 3Wz925uuRsX6Zkua2b3Iid+p74M=
+
+Name: res/layout/print_job_config_activity_content_editing.xml
+SHA1-Digest: n+raXJlsZHIhFF7MNDDcM5/u9jY=
+
+Name: res/layout/select_printer_activity.xml
+SHA1-Digest: qm9UbflCo6/YSqIbDpEkzxkDF0o=
+
+Name: res/drawable-xhdpi/stat_notify_cancelling.png
+SHA1-Digest: JPliu+fHVxh5vYY9kElv/PWhoY0=
+

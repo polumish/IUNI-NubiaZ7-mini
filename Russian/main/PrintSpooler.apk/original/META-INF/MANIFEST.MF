@@ -1,0 +1,72 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_32 (Sun Microsystems Inc.)
+
+Name: res/layout/print_job_config_activity_content_error.xml
+SHA1-Digest: M6FgQ2c89XYgXWbiUNltG5SGg44=
+
+Name: res/layout/print_job_config_activity_container.xml
+SHA1-Digest: Rm6vwSHgrJ33rmcSYLLs//it5c4=
+
+Name: res/drawable-mdpi/ic_menu_print.png
+SHA1-Digest: qGPQoplJk8JsRMCufCMAeSSSYCU=
+
+Name: res/color/item_text_color.xml
+SHA1-Digest: vhNe7QSpsPPkI/4GR1DIQgVzrMw=
+
+Name: resources.arsc
+SHA1-Digest: eARXyg3TykRlzsjeBI1JpY3Ks5Q=
+
+Name: res/drawable-mdpi/stat_notify_cancelling.png
+SHA1-Digest: LPelhT35mhEwC0nO86ca0ZjzE3A=
+
+Name: res/layout/spinner_dropdown_item.xml
+SHA1-Digest: 290Bw+hYghWFT/3l8in0DsH/XaE=
+
+Name: res/layout/select_printer_fragment.xml
+SHA1-Digest: LqSQ5q8IKotngX69WZyv6eaDwSs=
+
+Name: classes.dex
+SHA1-Digest: 92yDMKUTcfuAh2JbF1LdN+Yf6tE=
+
+Name: res/layout/printer_dropdown_item.xml
+SHA1-Digest: TanwL9iWbBkECDj0E55Nm0j/bqc=
+
+Name: res/drawable-mdpi/ic_restart.png
+SHA1-Digest: Sc0/KYENHWQMuSgNawot1Tp66ug=
+
+Name: AndroidManifest.xml
+SHA1-Digest: tXkUpoKsgMsWfON82C3RThtb9Oo=
+
+Name: res/layout/printer_list_item.xml
+SHA1-Digest: 5YBv8y6iJa2PYm17zkBVBrkn5PI=
+
+Name: res/drawable-xhdpi/ic_restart.png
+SHA1-Digest: YRf0CwVuJPevLIyv2WAfXeNkWrA=
+
+Name: res/drawable-hdpi/ic_restart.png
+SHA1-Digest: nQVuB8SjPHrrcpWEB9KOMaEE24c=
+
+Name: res/menu/select_printer_activity.xml
+SHA1-Digest: 00g7dDpXCvODfMyBvIAJn40Y9Hc=
+
+Name: res/drawable-hdpi/ic_menu_print.png
+SHA1-Digest: Elbz+WmYHtjDuQBkFZtNz/PCnLM=
+
+Name: res/layout/print_job_config_activity_content_generating.xml
+SHA1-Digest: 1/evGIbNxhEDUjjCGBn8Nf3u6Nk=
+
+Name: res/drawable-xhdpi/ic_menu_print.png
+SHA1-Digest: xoehA+jcAYudzSdxFP5IhqwmX9Q=
+
+Name: res/drawable-hdpi/stat_notify_cancelling.png
+SHA1-Digest: Xw6vNgvykPipqXtG691fehF4oSs=
+
+Name: res/layout/print_job_config_activity_content_editing.xml
+SHA1-Digest: dB2yi1xC2ziBgEPvHZ/Q9nOCzRg=
+
+Name: res/layout/select_printer_activity.xml
+SHA1-Digest: +9QYAAQbxBmPGniEOi5KGpfE7bo=
+
+Name: res/drawable-xhdpi/stat_notify_cancelling.png
+SHA1-Digest: /9BirOsTtXMyHXWO+2x/WWiJ4f4=
+

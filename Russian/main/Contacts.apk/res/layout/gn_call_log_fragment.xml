@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/calllog_layout" android:paddingLeft="@dimen/dialpad_horizontal_margin" android:paddingRight="@dimen/dialpad_horizontal_margin" android:paddingBottom="?android:actionBarSize" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <include layout="@layout/wait_cursor" />
+        <aurora.widget.AuroraListView android:id="@android:id/list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/gn_dialer_search_outer_margin" android:layout_marginRight="@dimen/gn_dialer_search_outer_margin" />
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@android:id/empty" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="?android:textColorSecondary" android:id="@id/empty_text" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gn_list_empty_image" />
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

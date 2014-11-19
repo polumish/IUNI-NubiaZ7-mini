@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="message_item_text_padding_left_right">12.0dip</dimen>
+    <dimen name="message_item_text_padding_top">5.0dip</dimen>
+    <dimen name="avatar_width_height">54.0dip</dimen>
+    <dimen name="input_text_height">48.0dip</dimen>
+    <dimen name="input_text_height_adjusted">8.0dip</dimen>
+    <dimen name="widget_margin_top">0.0dip</dimen>
+    <dimen name="widget_margin_left">0.0dip</dimen>
+    <dimen name="widget_margin_right">0.0dip</dimen>
+    <dimen name="widget_margin_bottom">6.0dip</dimen>
+    <dimen name="aurora_send_huge_leftpadding">10.0dip</dimen>
+    <dimen name="aurora_send_huge_rightpadding">4.25dip</dimen>
+    <dimen name="aurora_send_small_leftpadding">13.0dip</dimen>
+    <dimen name="aurora_send_small_rightpadding">7.0dip</dimen>
+    <dimen name="aurora_message_content_margin_top">13.0dip</dimen>
+    <dimen name="aurora_message_content_margin_bottom">13.599976dip</dimen>
+    <item type="dimen" name="list_item_padding_top">@dimen/gn_list_item_top_margin</item>
+    <item type="dimen" name="list_item_padding_right">@dimen/list_item_right_margin_gn</item>
+    <item type="dimen" name="list_item_padding_bottom">@dimen/gn_list_item_bottom_margin</item>
+    <item type="dimen" name="list_item_padding_left">@dimen/list_item_left_margin_gn</item>
+    <item type="dimen" name="list_item_gap_between_image_and_text">@dimen/list_item_left_margin_gn</item>
+    <item type="dimen" name="list_item_gap_between_label_and_data">@dimen/list_item_left_margin_gn</item>
+    <dimen name="list_item_call_button_padding">14.0dip</dimen>
+    <dimen name="list_item_vertical_divider_margin">5.0dip</dimen>
+    <item type="dimen" name="list_item_presence_icon_margin">@dimen/list_item_left_margin_gn</item>
+    <dimen name="list_item_header_text_width">56.0dip</dimen>
+    <dimen name="mms_attachment_pic_width">60.0dip</dimen>
+    <dimen name="mms_attachment_pic_height">60.0dip</dimen>
+    <dimen name="edit_text_min_width">5.0dip</dimen>
+    <dimen name="edit_drop_down_vertical_offset">5.0dip</dimen>
+    <dimen name="gn_list_item_left_margin">8.0dip</dimen>
+    <dimen name="gn_list_item_right_margin">10.0dip</dimen>
+    <dimen name="gn_list_item_top_margin">6.0dip</dimen>
+    <dimen name="gn_list_item_bottom_margin">10.0dip</dimen>
+    <dimen name="list_item_left_margin_gn">5.0dip</dimen>
+    <dimen name="list_item_right_margin_gn">6.0dip</dimen>
+    <dimen name="text_size_default">16.0sp</dimen>
+    <dimen name="list_item_padding_right_nophoto">6.0dip</dimen>
+    <dimen name="status_bar_height">25.0dip</dimen>
+    <dimen name="list_item_vertical_top_gap">2.0dip</dimen>
+    <dimen name="list_item_contact_left_margin">3.0dip</dimen>
+    <dimen name="gn_list_item_height">64.0dip</dimen>
+    <dimen name="exportBtn_top">50.0dip</dimen>
+    <dimen name="exportBtn_height">60.0dip</dimen>
+    <dimen name="exportBtn_magin">40.0dip</dimen>
+    <dimen name="gn_action_bar_tab_textsize">16.0sp</dimen>
+    <dimen name="gn_checkbox_right">8.0dip</dimen>
+    <dimen name="gn_spinner_height">30.0dip</dimen>
+    <dimen name="gn_list_margin_top_size">8.0dip</dimen>
+    <dimen name="gn_list_margin_bottom_size">8.0dip</dimen>
+    <dimen name="gn_select_sim_name_width">82.0dip</dimen>
+    <dimen name="gn_padding_alphbet_index">11.0dip</dimen>
+    <dimen name="gn_action_bar_title_text_size">30.0sp</dimen>
+</resources>

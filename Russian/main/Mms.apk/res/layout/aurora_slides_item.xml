@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewStub android:id="@id/aurora_part_textview" android:visibility="gone" android:layout="@layout/aurora_slides_item_tv" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ViewStub android:id="@id/aurora_part_imageview" android:visibility="gone" android:layout="@layout/aurora_slides_item_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="30.0dip" />
+        <ViewStub android:id="@id/aurora_part_vedio" android:visibility="gone" android:layout="@layout/gn_slidebrowser_media_info" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="30.0dip" />
+        <ViewStub android:id="@id/aurora_part_audio" android:visibility="gone" android:layout="@layout/gn_slidebrowser_media_info" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="30.0dip" />
+    </LinearLayout>
+    <ViewStub android:id="@id/aurora_part_num_divider" android:visibility="gone" android:layout="@layout/aurora_slides_divider" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</LinearLayout>

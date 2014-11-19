@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PrintOptionTitleTextAppearance">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/print_option_title</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="PrintOptionSpinnerStyle">
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:paddingBottom">0.0dip</item>
+        <item name="android:minHeight">?android:listPreferredItemHeightSmall</item>
+    </style>
+    <style name="PrintOptionEditTextStyle">
+        <item name="android:ellipsize">end</item>
+        <item name="android:minHeight">?android:listPreferredItemHeightSmall</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="PrintJobConfigActivityTheme" parent="@android:style/Theme.Holo.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">stateAlwaysHidden|adjustResize</item>
+        <item name="android:colorBackgroundCacheHint">@android:color/transparent</item>
+    </style>
+    <style name="SelectPrinterActivityTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/SelectPrinterActivityActionBarStyle</item>
+    </style>
+    <style name="SelectPrinterActivityActionBarStyle" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:displayOptions">showTitle</item>
+    </style>
+</resources>

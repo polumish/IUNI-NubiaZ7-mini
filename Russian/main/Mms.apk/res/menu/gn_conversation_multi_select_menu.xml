@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/gn_com_delete" android:id="@id/delete" android:title="@string/delete" android:showAsAction="always" />
+    <item android:icon="@drawable/gn_conv_encryption_bg" android:id="@id/encryption" android:visible="false" android:title="@string/menu_encryption" android:showAsAction="always" />
+</menu>

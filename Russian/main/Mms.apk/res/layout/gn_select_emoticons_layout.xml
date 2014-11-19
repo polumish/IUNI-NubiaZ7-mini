@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res/com.android.mms">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.gionee.mms.slide.GnIconTextGridPageSlideShower android:id="@id/gn_slide_category_emoticons" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+              xmlns:android="http://schemas.android.com/apk/res/android">
+                <com.gionee.mms.slide.GnViewSlideIndicator android:gravity="center_horizontal" android:orientation="horizontal" android:id="@id/gn_slide_indicator" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="0.0dip" android:layout_marginBottom="18.0dip" android:layout_alignParentBottom="true" />
+                <com.gionee.mms.slide.GnViewSlideShower android:id="@id/gn_slide_shower" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/gn_slide_indicator" />
+            </RelativeLayout>
+        </com.gionee.mms.slide.GnIconTextGridPageSlideShower>
+    </FrameLayout>
+</LinearLayout>

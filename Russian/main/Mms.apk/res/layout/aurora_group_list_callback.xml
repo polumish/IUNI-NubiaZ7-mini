@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/aurora_empty_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    <ListView android:id="@id/aurora_group_call_list" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:cacheColorHint="#00000000" android:divider="@drawable/aurora_divider_lan" android:dividerHeight="1.0px" />
+</LinearLayout>

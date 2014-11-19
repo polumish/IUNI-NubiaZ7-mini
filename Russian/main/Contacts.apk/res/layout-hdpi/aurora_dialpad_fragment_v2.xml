@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:background="@drawable/dialpad_digits_bg" android:layout_width="fill_parent" android:layout_height="71.0dip">
+        <com.android.contacts.dialpad.DigitsEditText android:textSize="45.0sp" android:id="@id/digits" android:nextFocusRight="@id/deleteButton" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" android:maxLines="1" style="@style/DialtactsDigitsStyle" />
+        <TextView android:textColor="@color/gn_dial_number_area_text_color" android:gravity="bottom|center" android:id="@id/num_area" android:focusable="false" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="2.0dip" />
+    </FrameLayout>
+    <aurora.widget.AuroraListView android:id="@id/dialpadChooser" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/result_layout" android:background="@color/aurora_dialpad_bg" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginBottom="@dimen/aurora_tab_height" android:layout_weight="1.0">
+        <TextView android:textSize="@dimen/aurora_empty_contact_text_size" android:textColor="@color/aurora_empty_dialpad_text_color" android:gravity="center" android:id="@id/no_match_view" android:paddingTop="@dimen/gn_dialpad_empty_view_padding_top" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/gn_no_conditioned_contacts" />
+        <aurora.widget.AuroraListView android:scrollbarStyle="outsideOverlay" android:id="@id/list_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@android:color/transparent" android:divider="@null" />
+        <LinearLayout android:gravity="bottom" android:id="@id/aurora_dialpad_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/aurora_dial_digit_keyboard" />
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

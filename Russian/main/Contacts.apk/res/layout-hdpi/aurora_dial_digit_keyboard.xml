@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/aurora_dial_digit_keyboard" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/aurora_one" android:contentDescription="@string/description_image_button_one" style="@style/GnDialtactsDialpadButtonStyle" />
+        <ImageView android:id="@id/aurora_two" android:contentDescription="@string/description_image_button_two" style="@style/GnDialtactsDialpadButtonStyle" />
+        <ImageView android:id="@id/aurora_three" android:contentDescription="@string/description_image_button_three" style="@style/GnDialtactsDialpadButtonStyle" />
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/aurora_four" android:contentDescription="@string/description_image_button_four" style="@style/GnDialtactsDialpadButtonStyle" />
+        <ImageView android:id="@id/aurora_five" android:contentDescription="@string/description_image_button_five" style="@style/GnDialtactsDialpadButtonStyle" />
+        <ImageView android:id="@id/aurora_six" android:contentDescription="@string/description_image_button_six" style="@style/GnDialtactsDialpadButtonStyle" />
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/aurora_seven" android:contentDescription="@string/description_image_button_seven" style="@style/GnDialtactsDialpadButtonStyle" />
+        <ImageView android:id="@id/aurora_eight" android:contentDescription="@string/description_image_button_eight" style="@style/GnDialtactsDialpadButtonStyle" />
+        <ImageView android:id="@id/aurora_nine" android:contentDescription="@string/description_image_button_nine" style="@style/GnDialtactsDialpadButtonStyle" />
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/aurora_star" android:contentDescription="@string/description_image_button_star" style="@style/GnDialtactsDialpadButtonStyle" />
+        <ImageView android:id="@id/aurora_zero" android:contentDescription="@string/description_image_button_zero" style="@style/GnDialtactsDialpadButtonStyle" />
+        <ImageView android:id="@id/aurora_pound" android:contentDescription="@string/description_image_button_pound" style="@style/GnDialtactsDialpadButtonStyle" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/single_dial_line" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/aurora_addcontacts" style="@style/GnDialtactsDialpadButtonStyle" />
+        <ImageView android:id="@id/aurora_dialButton" style="@style/GnDialtactsDialpadButtonStyle" />
+        <ImageView android:id="@id/aurora_deleteButton" style="@style/GnDialtactsDialpadButtonStyle" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/msim_dial_line" android:background="@android:color/white" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/aurora_addcontacts_msim" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="22.25dip" android:layout_marginTop="9.5dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="9.5dip" android:scaleType="centerInside" android:soundEffectsEnabled="false" android:contentDescription="@string/description_image_button_zero" />
+        <ImageView android:id="@id/aurora_dialButton_0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="9.5dip" android:layout_marginBottom="9.5dip" android:contentDescription="@string/description_image_button_zero" />
+        <ImageView android:id="@id/aurora_dialButton_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="9.5dip" android:layout_marginBottom="9.5dip" android:contentDescription="@string/description_image_button_zero" />
+        <ImageView android:id="@id/aurora_deleteButton_msim" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="9.5dip" android:layout_marginRight="22.25dip" android:layout_marginBottom="9.5dip" android:scaleType="centerInside" android:soundEffectsEnabled="false" android:contentDescription="@string/description_image_button_zero" />
+    </LinearLayout>
+</LinearLayout>
