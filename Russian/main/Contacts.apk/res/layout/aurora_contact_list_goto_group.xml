@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:id="@id/search_and_group" android:layout_width="fill_parent" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <RelativeLayout android:orientation="vertical" android:id="@id/aurora_group_entrance" android:background="?android:listChoiceBackgroundIndicator" android:layout_width="fill_parent" android:layout_height="@dimen/aurora_single_line_list_view_item_hight" android:layout_centerVertical="true">
-        <aurora.widget.AuroraTextView android:textSize="@com.aurora:dimen/aurora_list_singleline_text_size" android:textColor="@com.aurora:color/aurora_list_textcolor" android:gravity="center_vertical" android:id="@id/group_title" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/aurora_group_entrance_left_margin" android:text="@string/aurora_group_title" />
-        <View android:background="@drawable/h_diver" android:layout_width="fill_parent" android:layout_height="@dimen/aurora_list_item_driver_hight" android:layout_alignParentBottom="true" />
-    </RelativeLayout>
-</LinearLayout>

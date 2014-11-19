@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<FrameLayout android:paddingLeft="@dimen/gn_contact_list_item_left_margin" android:paddingRight="@dimen/gn_contact_list_item_right_margin" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:id="@id/kind_title" android:paddingLeft="@dimen/gn_contact_list_item_headertext_left_margin" android:paddingRight="@dimen/gn_contact_list_item_headertext_left_margin" style="@style/ContactListSeparatorTextViewStyle" />
-</FrameLayout>

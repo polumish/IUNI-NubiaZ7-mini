@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<aurora.preference.AuroraPreferenceScreen
-  xmlns:android="http://schemas.android.com/apk/res/android"
-  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora">
-    <aurora.preference.AuroraPreferenceCategory aurora:auroratitle="@string/preference_displayOptions">
-        <aurora.preference.AuroraListPreference aurora:aurorakey="listItemOnclickAction" aurora:auroratitle="@string/gn_listitem_onclick_options" aurora:auroradefaultValue="@string/gn_listitem_onclick_options_default_value" aurora:auroradialogTitle="@string/gn_listitem_onclick_options" aurora:auroraentries="@array/gn_entries_listitem_onclick_options" aurora:auroraentryValues="@array/gn_entryvalues_listitem_onclick_options" />
-    </aurora.preference.AuroraPreferenceCategory>
-</aurora.preference.AuroraPreferenceScreen>

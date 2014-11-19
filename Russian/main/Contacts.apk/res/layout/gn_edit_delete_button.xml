@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<FrameLayout android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:layout_gravity="center" android:id="@id/delete_button" android:background="?android:selectableItemBackground" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gn_ic_menu_remove_field_holo_dark" android:scaleType="centerInside" android:minWidth="@dimen/gn_action_btn_min_height" android:minHeight="@dimen/gn_action_btn_min_height" android:contentDescription="@string/description_minus_button" />
-</FrameLayout>

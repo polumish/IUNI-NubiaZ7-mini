@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@id/aurora_new_dail" android:title="@string/aurora_dail" />
-    <item android:id="@id/aurora_new_create" android:title="@string/aurora_created_contact" />
-    <item android:id="@id/aurora_new_patch" android:title="@string/aurora_add_to_contact" />
-</menu>

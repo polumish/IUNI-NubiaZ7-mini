@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="horizontal" android:paddingLeft="12.0dip" android:paddingRight="@dimen/list_item_right_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeight"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <com.gionee.mms.ui.GnTextView android:textAppearance="?android:textAppearanceMedium" android:layout_gravity="center_vertical" android:id="@id/quick_text_body" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/quick_text_header_text" />
-</LinearLayout>

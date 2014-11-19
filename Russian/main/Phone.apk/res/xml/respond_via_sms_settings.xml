@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<AuroraPreferenceScreen aurora:auroratitle="@string/respond_via_sms_setting_title_2"
-  xmlns:android="http://schemas.android.com/apk/res/android"
-  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora">
-    <com.android.phone.MultiLineTitleEditTextPreference aurora:aurorakey="canned_response_pref_1" aurora:auroradefaultValue="@string/respond_via_sms_canned_response_1" aurora:auroradialogTitle="@string/respond_via_sms_edittext_dialog_title" />
-    <com.android.phone.MultiLineTitleEditTextPreference aurora:aurorakey="canned_response_pref_2" aurora:auroradefaultValue="@string/respond_via_sms_canned_response_2" aurora:auroradialogTitle="@string/respond_via_sms_edittext_dialog_title" />
-    <com.android.phone.MultiLineTitleEditTextPreference aurora:aurorakey="canned_response_pref_3" aurora:auroradefaultValue="@string/respond_via_sms_canned_response_3" aurora:auroradialogTitle="@string/respond_via_sms_edittext_dialog_title" />
-    <com.android.phone.MultiLineTitleEditTextPreference aurora:aurorakey="canned_response_pref_4" aurora:auroradefaultValue="@string/respond_via_sms_canned_response_4" aurora:auroradialogTitle="@string/respond_via_sms_edittext_dialog_title" />
-</AuroraPreferenceScreen>

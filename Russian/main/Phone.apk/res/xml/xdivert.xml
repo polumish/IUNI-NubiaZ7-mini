@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<AuroraPreferenceScreen aurora:auroratitle="@string/xdivert_button"
-  xmlns:android="http://schemas.android.com/apk/res/android"
-  xmlns:phone="http://schemas.android.com/apk/res/com.android.phone"
-  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora">
-    <com.android.phone.XDivertCheckBoxPreference aurora:aurorakey="xdivert_checkbox" aurora:auroratitle="@string/xdivert_title" aurora:aurorapersistent="false" aurora:aurorasummaryOn="@string/sum_xdivert_enabled" aurora:aurorasummaryOff="@string/sum_xdivert_disabled" />
-</AuroraPreferenceScreen>

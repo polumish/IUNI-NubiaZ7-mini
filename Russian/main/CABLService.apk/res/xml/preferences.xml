@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <CheckBoxPreference android:title="@string/cabl_enable_title" android:key="cabl_enable" android:defaultValue="true" android:summaryOn="@string/cabl_enable_summary_on" android:summaryOff="@string/cabl_enable_summary_off" />
-    <ListPreference android:entries="@array/cabl_level_values" android:title="@string/cabl_levels_title" android:key="cabl_levels" android:summary="@string/cabl_levels_summary" android:dependency="cabl_enable" android:defaultValue="@string/cabl_level_default" android:entryValues="@array/cabl_level_values" />
-    <Preference android:title="@string/cabl_version_title" android:key="cabl_version" android:summary="@string/cabl_info_default" style="?android:preferenceInformationStyle" />
-</PreferenceScreen>

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<AuroraPreferenceScreen aurora:aurorakey="subscr_parent" aurora:auroratitle="@string/set_subscription"
-  xmlns:android="http://schemas.android.com/apk/res/android"
-  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora" />

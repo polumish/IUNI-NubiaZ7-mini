@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <aurora.widget.AuroraTextView android:textSize="18.0sp" android:textColor="#ff333333" android:ellipsize="end" android:id="@id/contact_item" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="5.299988dip" android:layout_marginTop="3.0dip" android:layout_marginRight="6.399994dip" android:layout_marginBottom="3.5999756dip" android:singleLine="true" />
-</LinearLayout>

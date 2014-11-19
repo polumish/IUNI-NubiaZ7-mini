@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<AuroraPreferenceScreen aurora:aurorakey="list_networks_key" aurora:auroratitle="@string/label_available"
-  xmlns:android="http://schemas.android.com/apk/res/android"
-  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora">
-    <AuroraPreference aurora:aurorakey="button_srch_netwrks_key" aurora:auroratitle="@string/search_networks" aurora:aurorasummary="@string/sum_search_networks" aurora:aurorapersistent="false" />
-    <AuroraPreference aurora:aurorakey="button_auto_select_key" aurora:auroratitle="@string/select_automatically" aurora:aurorasummary="@string/sum_select_automatically" aurora:aurorapersistent="false" />
-</AuroraPreferenceScreen>

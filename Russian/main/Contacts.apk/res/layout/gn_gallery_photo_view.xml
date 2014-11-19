@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:paddingTop="2.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:id="@id/gn_display_image" android:layout_width="fill_parent" android:layout_height="0.0dip" android:scaleType="centerInside" android:layout_weight="1.0" />
-    <LinearLayout android:orientation="horizontal" android:padding="12.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
-        <aurora.widget.AuroraButton android:id="@id/gn_set_contact_photo" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/gn_apply" style="?android:attr/buttonBarButtonStyle" />
-    </LinearLayout>
-</LinearLayout>

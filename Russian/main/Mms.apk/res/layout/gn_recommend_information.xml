@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/no_net" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
-        <ImageView android:id="@id/no_networks" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gn_no_networks_white" android:scaleType="centerInside" />
-    </LinearLayout>
-    <aurora.widget.AuroraListView android:layout_gravity="center_vertical" android:id="@android:id/list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:drawSelectorOnTop="false" android:divider="@drawable/gn_mms_online_divider" style="?android:attr/listViewWhiteStyle" />
-</LinearLayout>

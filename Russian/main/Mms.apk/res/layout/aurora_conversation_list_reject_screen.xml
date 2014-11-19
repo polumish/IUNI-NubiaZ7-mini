@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<FrameLayout android:orientation="vertical" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:swipe="http://schemas.android.com/apk/res-auto">
-    <aurora.widget.AuroraListView android:id="@id/reject_list" android:scrollbars="vertical" android:fadingEdgeLength="16.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:drawSelectorOnTop="false" />
-    <LinearLayout android:orientation="vertical" android:id="@id/aurora_conversation_reject_empty" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
-        <TextView android:textSize="24.0sp" android:textColor="@color/aurora_text_color_empty" android:gravity="center_horizontal" android:id="@id/aurora_reject_empty" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/aurora_empty_margin_top" android:text="@string/no_conversations" />
-    </LinearLayout>
-</FrameLayout>

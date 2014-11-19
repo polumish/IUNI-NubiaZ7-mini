@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ScrollView android:scrollbarSize="2.5999756dip" android:scrollbarThumbVertical="@drawable/aurora_detail_scrollbar" android:id="@id/aurora_scroll" android:background="#ffffffff" android:paddingRight="4.0dip" android:fadingEdgeLength="100.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:textAppearance="@com.aurora:style/AuroraTextAppearance" android:autoLink="all" android:linksClickable="false" android:id="@id/aurora_detail_mes" android:paddingLeft="28.599976dip" android:paddingTop="17.0dip" android:paddingRight="18.0dip" android:paddingBottom="32.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:lineSpacingExtra="3.1999817dip" />
-</ScrollView>

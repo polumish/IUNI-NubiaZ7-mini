@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:gravity="right|center" android:id="@id/gn_secondary_action_container" android:paddingLeft="4.0dip" android:descendantFocusability="afterDescendants" android:layout_width="wrap_content" android:layout_height="76.0dip" android:layout_alignParentRight="true" android:layout_centerVertical="true"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <View android:id="@id/aurora_second_divider" android:background="@color/aurora_seprate_line_color2" android:visibility="gone" android:layout_width="1.0px" android:layout_height="20.0dip" />
-    <com.mediatek.contacts.widget.DontPressWithParentImageButton android:id="@id/secondary_action_icon" android:background="@drawable/aurora_call_log_detail_button" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" />
-</LinearLayout>

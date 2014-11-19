@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@id/gn_menu_share_contact" android:orderInCategory="1" android:title="@string/gn_menu_share_contacts" android:showAsAction="withText" />
-    <item android:id="@id/gn_menu_delete_contact" android:orderInCategory="1" android:title="@string/gn_menu_delete_contact" android:showAsAction="withText" />
-</menu>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="horizontal" android:id="@id/gn_custom_title_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageButton android:id="@id/gn_action_view_back" android:background="?android:actionBarItemBackground" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_cab_done_holo_dark" style="?android:attr/actionModeCloseButtonStyle" />
-    <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="@color/gn_tab_textcolor" android:layout_gravity="center_vertical" android:id="@id/gn_select_count_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/gn_select_conversation_zore" android:maxLines="1" android:singleLine="true" android:layout_weight="1.0" android:layout_centerVertical="true" />
-    <CheckBox android:id="@id/gn_select_check_box" android:paddingRight="@dimen/gn_checkbox_right" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:layout_alignParentRight="true" />
-</LinearLayout>

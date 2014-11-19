@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@id/aurora_new_dail" android:title="@string/aurora_dail" />
-    <item android:id="@id/aurora_back_sms_id" android:title="@string/aurora_back_sms" />
-    <item android:id="@id/aurora_resume_all_id" android:title="@string/aurora_resume_all" />
-</menu>

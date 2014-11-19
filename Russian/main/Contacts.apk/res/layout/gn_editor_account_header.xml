@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/account_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="48.0dip"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:layout_gravity="center_vertical" android:id="@id/account_icon" android:layout_width="32.0dip" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/gn_photo_image_left_gap" android:layout_marginRight="@dimen/gn_photo_image_right_gap" />
-    <LinearLayout android:orientation="vertical" android:id="@id/account" android:background="?android:selectableItemBackground" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
-        <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/gn_list_item_header_text_size" android:ellipsize="end" android:id="@id/account_type" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" />
-        <TextView android:textAppearance="?android:textAppearanceSmall" android:textSize="@dimen/gn_list_item_header_text_size" android:textColor="?android:textColorTertiary" android:ellipsize="end" android:id="@id/account_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" />
-    </LinearLayout>
-</LinearLayout>

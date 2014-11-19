@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<com.android.phone.CallCard android:orientation="vertical" android:id="@id/call_info_container" android:paddingTop="22.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <include android:id="@id/primary_call_info" layout="@layout/primary_call_info" />
-    <ViewStub android:id="@id/first_call_info" android:layout="@layout/first_call_info" android:layout_width="fill_parent" android:layout_height="70.0dip" />
-    <ViewStub android:id="@id/secondary_call_info" android:layout="@layout/secondary_call_info" android:layout_width="fill_parent" android:layout_height="70.0dip" />
-    <ViewStub android:id="@id/third_call_info" android:layout="@layout/third_call_info" android:layout_width="fill_parent" android:layout_height="70.0dip" />
-    <ViewStub android:id="@id/fourth_call_info" android:layout="@layout/fourth_call_info" android:layout_width="fill_parent" android:layout_height="70.0dip" />
-</com.android.phone.CallCard>

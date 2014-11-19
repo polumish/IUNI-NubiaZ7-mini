@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<FrameLayout android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip" android:minHeight="40.0dip"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <LinearLayout android:gravity="center" android:layout_gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/aurora_editor_item_view_bg" android:layout_width="fill_parent" android:layout_height="fill_parent">
-        <ImageView android:id="@id/add_image" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/gn_edit_add_field_image_dark" />
-        <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="?android:textColorSecondary" android:id="@id/add_text" android:paddingLeft="@dimen/gn_add_button_left_image_padding" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/add_new_entry_for_section" />
-    </LinearLayout>
-</FrameLayout>

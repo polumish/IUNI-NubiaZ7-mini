@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<com.android.mms.ui.ImageAttachmentView android:gravity="left" android:orientation="horizontal" android:id="@id/gn_image_attachment_view_landscape" android:layout_width="wrap_content" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
-        <ImageView android:id="@id/image_content" android:layout_width="wrap_content" android:layout_height="100.0dip" />
-        <TextView android:textSize="11.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:id="@id/media_size_info" android:background="#88000000" android:paddingLeft="3.0dip" android:paddingRight="3.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" />
-    </RelativeLayout>
-</com.android.mms.ui.ImageAttachmentView>

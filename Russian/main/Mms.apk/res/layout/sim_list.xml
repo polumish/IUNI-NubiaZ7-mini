@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<FrameLayout android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <aurora.widget.AuroraListView android:id="@id/messages" android:focusable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:drawSelectorOnTop="false" android:stackFromBottom="true" />
-    <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="24.0sp" android:textColor="@color/gn_empty_text_color" android:gravity="center_horizontal" android:id="@id/empty_message" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="77.0dip" android:text="@string/sim_empty" />
-</FrameLayout>

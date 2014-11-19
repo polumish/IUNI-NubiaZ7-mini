@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:background="#ffffffff" android:paddingLeft="28.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <aurora.widget.AuroraCheckBox android:id="@id/aurora_reci_check" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@com.aurora:dimen/aurora_list_cb_doubleline_margintop" android:layout_marginRight="12.0dip" android:button="@null" android:layout_alignParentLeft="true" />
-    <RelativeLayout android:orientation="vertical" android:paddingTop="@com.aurora:dimen/aurora_list_content_layout_paddingtop" android:layout_width="fill_parent" android:layout_height="@com.aurora:dimen/aurora_list_doubleline_height" android:layout_toRightOf="@id/aurora_reci_check">
-        <aurora.widget.AuroraTextView android:id="@id/aurora_reci_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@com.aurora:style/AuroraListMainTextStyle" />
-        <aurora.widget.AuroraTextView android:id="@id/aurora_reci_number" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@com.aurora:dimen/aurora_list_gap_height_maintext_and_subtext" android:singleLine="true" android:layout_below="@id/aurora_reci_name" style="@com.aurora:style/AuroraListSubTextStyle" />
-    </RelativeLayout>
-</RelativeLayout>

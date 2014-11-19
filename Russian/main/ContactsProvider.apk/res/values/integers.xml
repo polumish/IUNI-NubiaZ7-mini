@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <integer name="gn_config_max_display_photo_dim">1280</integer>
-    <integer name="config_max_display_photo_dim">256</integer>
-    <integer name="config_max_thumbnail_photo_dim">200</integer>
-</resources>

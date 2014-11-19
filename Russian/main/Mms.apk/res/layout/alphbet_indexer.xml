@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android"
-  xmlns:mms="http://schemas.android.com/apk/res/com.android.mms">
-    <TextView android:textSize="@dimen/gn_prompt_section_text_size" android:textColor="?promptSectionColor" android:gravity="center" android:id="@id/first_char_prompt_tv" android:background="?promptBgRes" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="80.0dip" android:layout_alignParentTop="true" android:layout_centerInParent="true" />
-    <com.gionee.mms.alphbetindex.AlphbetIndexView android:id="@id/alphbet_indexer" android:paddingRight="@dimen/gn_padding_alphbet_index" android:visibility="invisible" android:layout_width="90.0dip" android:layout_height="fill_parent" android:layout_alignParentRight="true" mms:sectionFontSize="@dimen/gn_section_font_size" mms:promptSectionFontSize="@dimen/gn_prompt_section_font_size" mms:enableSectionColor="?enableSectionColor" mms:disableSectionColor="?disableSectionColor" mms:promptSectionColor="?promptSectionColor" mms:promptBgRes="?promptBgRes" mms:waveSideRange="@dimen/gn_wave_side_range" mms:showingLetterColor="?showingLetterColor" />
-</RelativeLayout>

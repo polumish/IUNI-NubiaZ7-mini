@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:id="@id/calllog_titlebar" android:layout_width="fill_parent" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <aurora.widget.AuroraButton android:id="@id/call_log_button_cancle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/menu_doNotSave" android:layout_alignParentLeft="true" />
-    <aurora.widget.AuroraButton android:id="@id/call_log_button_sel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/menu_select_all" android:layout_alignParentRight="true" />
-</RelativeLayout>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="button_text_pressed">#ff33af8e</color>
-    <color name="black_bg">#ff000000</color>
-    <color name="magic_flame">#00ffffff</color>
-    <color name="button_text">#ffffffff</color>
-    <color name="btn_text">#ffd3d3d4</color>
-</resources>

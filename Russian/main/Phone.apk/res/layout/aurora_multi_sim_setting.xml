@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:orientation="vertical" android:id="@id/mainlayout" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <RadioGroup android:orientation="horizontal" android:id="@id/rg_tab" android:layout_width="fill_parent" android:layout_height="wrap_content">
-        <RadioButton android:id="@id/rg_tab_1" android:text="@string/sub_1" style="@style/call_settings_tab_style" />
-        <RadioButton android:id="@id/rg_tab_2" android:text="@string/sub_2" style="@style/call_settings_tab_style" />
-    </RadioGroup>
-    <FrameLayout android:id="@id/content" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/rg_tab" />
-</RelativeLayout>

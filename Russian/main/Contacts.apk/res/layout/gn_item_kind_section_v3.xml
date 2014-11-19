@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<com.android.contacts.editor.KindSectionView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <FrameLayout android:id="@id/kind_title_layout" android:paddingLeft="@dimen/gn_contact_list_item_left_margin" android:paddingRight="@dimen/gn_contact_list_item_right_margin" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content">
-        <TextView android:id="@id/kind_title" android:background="@null" android:paddingLeft="@dimen/gn_contact_list_item_headertext_left_margin" android:paddingRight="@dimen/gn_contact_list_item_headertext_left_margin" style="@style/ContactListSeparatorTextViewStyle" />
-    </FrameLayout>
-    <LinearLayout android:orientation="vertical" android:id="@id/kind_editors" android:background="?kind_editors_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/gn_editor_field_left_padding" android:layout_marginRight="@dimen/gn_editor_field_left_padding" />
-    <include android:id="@id/add_field_footer" layout="@layout/gn_edit_add_field" />
-</com.android.contacts.editor.KindSectionView>

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<aurora.widget.AuroraSpinner android:layout_gravity="center_vertical" android:id="@id/edit_spinner" android:paddingRight="0.0dip" android:layout_width="@dimen/aurora_editor_min_line_item_width" android:layout_height="fill_parent" aurora:auroraspinnerMode="dialog"
-  xmlns:android="http://schemas.android.com/apk/res/android"
-  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora" />

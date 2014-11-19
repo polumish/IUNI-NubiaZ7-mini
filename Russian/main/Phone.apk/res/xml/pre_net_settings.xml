@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<AuroraPreferenceScreen android:title="@string/apn_settings" android:key="pre_net_list"
-  xmlns:android="http://schemas.android.com/apk/res/android"
-  xmlns:aurora="http://schemas.android.com/apk/res/com.aurora">
-    <com.android.phone.PreNetPreference aurora:aurorakey="pre_net_4" aurora:auroratitle="@string/aurora_preferred_network_mode_choices4" aurora:aurorapersistent="false" />
-    <com.android.phone.PreNetPreference aurora:aurorakey="pre_net_1" aurora:auroratitle="@string/aurora_preferred_network_mode_choices1" aurora:aurorapersistent="false" />
-    <com.android.phone.PreNetPreference aurora:aurorakey="pre_net_3" aurora:auroratitle="@string/aurora_preferred_network_mode_choices3" aurora:aurorapersistent="false" />
-    <com.android.phone.PreNetPreference aurora:aurorakey="pre_net_2" aurora:auroratitle="@string/aurora_preferred_network_mode_choices2" aurora:aurorapersistent="false" />
-</AuroraPreferenceScreen>

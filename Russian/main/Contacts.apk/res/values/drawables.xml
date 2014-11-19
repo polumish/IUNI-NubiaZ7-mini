@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item type="drawable" name="aurora_tab_sep">#ff272928</item>
-    <item type="drawable" name="translucent_background">#00000000</item>
-    <item type="drawable" name="gn_screen_background_light">#ffefefef</item>
-</resources>

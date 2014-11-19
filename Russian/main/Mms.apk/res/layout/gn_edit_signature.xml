@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <aurora.widget.AuroraEditText android:textAppearance="?android:textAppearanceMedium" android:gravity="fill_horizontal" android:id="@id/gn_signature_content" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="10.0dip" android:hint="@string/gn_signature_dlg_hint" android:maxLines="6" android:minLines="3" android:singleLine="false" android:maxLength="200" android:capitalize="none" android:autoText="false" android:textCursorDrawable="@null" />
-</LinearLayout>

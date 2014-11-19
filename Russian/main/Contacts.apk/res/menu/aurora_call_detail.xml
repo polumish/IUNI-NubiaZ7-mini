@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@id/menu_clean_call_log" android:title="@string/aurora_menu_delete_calllog" android:showAsAction="always" />
-    <item android:id="@id/menu_check_contact_info" android:title="@string/menu_viewContact" />
-</menu>

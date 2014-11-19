@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <aurora.widget.AuroraListView android:id="@android:id/list" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" android:fastScrollEnabled="false" />
-    <LinearLayout android:orientation="horizontal" android:id="@id/buttonbar_layout" android:padding="@dimen/gn_action_button_padding" android:layout_width="fill_parent" android:layout_height="wrap_content">
-        <aurora.widget.AuroraButton android:id="@id/merge_contacts_btn" android:background="@drawable/aurora_kind_view_bg" android:layout_width="fill_parent" android:layout_height="@dimen/aurora_editor_item_minheight" android:text="@string/gn_start_merge" android:onClick="onClick" />
-    </LinearLayout>
-</LinearLayout>
